@@ -5,7 +5,7 @@ Supported provider vpn for Surfshark - NordVpn - ProtonVpn - MullvadVpn - iVpn
 
 ![1](https://user-images.githubusercontent.com/35741027/197421954-f2637120-73aa-41dd-bae4-73a6e57a9e08.jpg)
 
-![2](https://user-images.githubusercontent.com/35741027/197421958-550afec5-b0b8-4956-8823-48cc83544bfb.jpg)
+![2](https://user-images.githubusercontent.com/35741027/198269887-a95309b7-b7dc-4443-b549-41a3a2eac965.jpg)
 
 ![3](https://user-images.githubusercontent.com/35741027/197421962-947b5862-ea5a-4aa0-baa9-1efdb66651df.jpg)
 

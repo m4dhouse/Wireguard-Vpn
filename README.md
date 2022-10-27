@@ -1,7 +1,7 @@
 # Wireguard-Vpn
 Wireguard Vpn for enigma2 boxes
 
-Supported provider vpn for Surfshark - NordVpn - ProtonVpn  
+Supported provider vpn for Surfshark - NordVpn - ProtonVpn - MullvadVpn - iVpn 
 
 ![1](https://user-images.githubusercontent.com/35741027/197421954-f2637120-73aa-41dd-bae4-73a6e57a9e08.jpg)
 

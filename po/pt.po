@@ -1,0 +1,414 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wireguard\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2023-05-14 22:53+0200\n"
+"Last-Translator: Madhouse <anonm4d@gmail.com>\n"
+"Language-Team: Madhouse <anonm4d@gmail.com>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Disable ipv6"
+msgstr "Desabilitar ipv6"
+
+msgid "Set up a DNS"
+msgstr "Configurar um DNS"
+
+msgid "Please mount the device as"
+msgstr "Por favor monte o dispositivo como"
+
+msgid "Remember to restart the GUI"
+msgstr "Lembre-se de reiniciar a GUI"
+
+msgid "Do you want to restart the GUI?"
+msgstr "Deseja reiniciar a GUI?"
+
+msgid "Set up a DNS for Wireguard connection."
+msgstr "Configurar um DNS para conexão Wireguard."
+
+msgid "This will not affect your network settings."
+msgstr "Configurar um DNS para conexão Wireguard."
+
+msgid "Cloudflare (Recommended)"
+msgstr "Cloudflare (Recomendado)"
+
+msgid "Use your personal files"
+msgstr "Use seus arquivos pessoais"
+
+msgid "Select your personal files and remember to place them in the right directory"
+msgstr "Selecione seus arquivos pessoais e lembre-se de colocá-los no diretório correto"
+
+msgid "Select the file directory"
+msgstr "Selecione o diretório do arquivo"
+
+msgid "Remember to insert only files with the .conf extension"
+msgstr "Lembre-se de inserir apenas arquivos com a extensão .conf"
+
+msgid "No files found!"
+msgstr "Nenhum arquivo encontrado!"
+
+msgid "Put the files in %s"
+msgstr "Coloque os arquivos em %s"
+
+msgid "Total files: %s"
+msgstr "Total de arquivos: %s"
+
+msgid "'Servers MultiHop'"
+msgstr "'Servidores MultiHop'"
+
+msgid "Double VPN, highest level of safety and security, tracking the real IP address is mathematically impossible."
+msgstr "VPN dupla, nível mais alto de proteção e proteção, rastrear o endereço IP real é matematicamente impossível."
+
+msgid "through"
+msgstr "através"
+
+msgid "Set a limit of servers to view"
+msgstr "Defina um limite de servidores para visualizar"
+
+msgid "Default is set to 16384 maximum servers to display"
+msgstr "O padrão é definido para 16384 servidores máximos para exibição"
+
+msgid "Default is set to 500 maximum servers to display"
+msgstr "O padrão é definido para exibir no máximo 500 servidores"
+
+msgid "The private key is incorrect"
+msgstr "A chave privada está incorreta"
+
+msgid "Check the length of the private key"
+msgstr "Verifique o comprimento da chave privada"
+
+msgid "Bypass Wireguard"
+msgstr "Bypass Wireguard"
+
+msgid "This allows you to bypass wireguard"
+msgstr "Isso permite que você Bypass o wireguard"
+
+msgid "1) Bypass host or ip:"
+msgstr "1) Bypass host ou ip:"
+
+msgid "2) Bypass host or ip:"
+msgstr "2) Bypass host ou ip:"
+
+msgid "3) Bypass host or ip:"
+msgstr "3) Bypass host ou ip:"
+
+msgid "4) Bypass host or ip:"
+msgstr "4) Bypass host ou ip:"
+
+msgid "5) Bypass host or ip:"
+msgstr "5) Bypass host ou ip:"
+
+msgid "6) Bypass host or ip:"
+msgstr "6) Bypass host ou ip:"
+
+msgid "7) Bypass host or ip:"
+msgstr "7) Bypass host ou ip:"
+
+msgid "8) Bypass host or ip:"
+msgstr "8) Bypass host ou ip:"
+
+msgid "9) Bypass host or ip:"
+msgstr "9) Bypass host ou ip:"
+
+msgid "10) Bypass host or ip:"
+msgstr "10) Bypass host ou ip:"
+
+msgid "This allows you to bypass wireguard traffic."
+msgstr "Isso permite que você bypass o tráfego wireguard."
+
+msgid "Example: 232.34.87.22"
+msgstr "Exemplo: 232.34.87.22"
+
+msgid "* File located in /etc/WgConfig or /media/hdd/WgConfig"
+msgstr "* Arquivo localizado em /etc/WgConfig ou /media/hdd/WgConfig"
+
+msgid "Unable to get the ip of the selected server"
+msgstr "Não foi possível obter o ip do servidor selecionado"
+
+msgid "IPv6 connections might compromise security."
+msgstr "Conexões IPv6 podem comprometer a segurança."
+
+msgid "Server with static ip"
+msgstr "Servidor com ip estático"
+
+msgid "'Server with static ip'"
+msgstr "'Servidor com ip estático'"
+
+msgid "List of servers where they will always have the same ip addresses."
+msgstr "Lista de servidores onde sempre terão os mesmos endereços IP."
+
+msgid "You will have the complete list of servers."
+msgstr "Você terá a lista completa de servidores."
+
+msgid "Choose server and press ok"
+msgstr "Escolha o servidor e clique ok"
+
+msgid "Download speedtest.png failed!"
+msgstr "Download speedtest.png falhou!"
+
+msgid "Press MENU to update"
+msgstr "Clique no MENU para atualizar"
+
+msgid "Install update..."
+msgstr "Instalar atualização..."
+
+msgid "Exit"
+msgstr "Sair"
+
+msgid "Close"
+msgstr "Fechar"
+
+msgid "Save"
+msgstr "Salvar"
+
+msgid "Keyboard"
+msgstr "Keyboard"
+
+msgid "I check Internet speedtest, be patient..."
+msgstr "Eu verifico o teste de velocidade da Internet, seja paciente..."
+
+msgid "I check the available servers"
+msgstr "Verifiquei os servidores disponíveis"
+
+msgid "Repeat test"
+msgstr "Repetir teste"
+
+msgid "Result successfully saved in /tmp/speedtest.png"
+msgstr "Resultado salvo com sucesso em /tmp/speedtest.png"
+
+msgid "Save results"
+msgstr "Salvar resultados"
+
+msgid "Server list"
+msgstr "Lista de servidores"
+
+msgid "Show results"
+msgstr "Mostrar resultados"
+
+msgid "Test completed, to test again press green button"
+msgstr "Teste concluído, para testar novamente clique o botão verde"
+
+msgid "Test your internet speed by Madhouse"
+msgstr "Teste sua velocidade de internet de Madhouse"
+
+msgid "Testing download from"
+msgstr "Testando download de"
+
+msgid "Testing upload speed"
+msgstr "Testando velocidade de upload"
+
+msgid "Settings"
+msgstr "Configurações"
+
+msgid "Restart Network"
+msgstr "Reiniciar Network"
+
+msgid "Country:"
+msgstr "País:"
+
+msgid "Provider:"
+msgstr "Provedor:"
+
+msgid "Wireguard status"
+msgstr "Status do Wireguard"
+
+msgid "Server selected"
+msgstr "Servidor selecionado"
+
+msgid "Link to the %s server"
+msgstr "Link para o servidor %s"
+
+msgid "Private key does not exist"
+msgstr "Chave privada não existe"
+
+msgid "Please enter your Private Key by pressing the Green button"
+msgstr "Por favor, insira sua chave privada pressionando o botão verde"
+
+msgid "or edit the file located in"
+msgstr "ou edite o arquivo localizado em"
+
+msgid "Server %s is Down!"
+msgstr "Servidor %s está parou!"
+
+msgid "Try later or"
+msgstr "Tente mais tarde ou"
+
+msgid "check your internet connection"
+msgstr "verifique sua conexão com a internet"
+
+msgid "Select a server and press the OK button"
+msgstr "Selecione um servidor e clique o botão OK"
+
+msgid "You want to stop the %s server?"
+msgstr "Você deseja parar o servidor %s?"
+
+msgid "Stop Wireguard"
+msgstr "Parar Wireguard"
+
+msgid "Not connected"
+msgstr "Não conectado"
+
+msgid "Connected"
+msgstr "Conectado"
+
+msgid "Disconnect"
+msgstr "Desconectar"
+
+msgid "PUBLIC IP"
+msgstr "IP PÚBLICO"
+
+msgid "Please wait for the network adapter to restart"
+msgstr "Aguarde o adaptador de rede reiniciar"
+
+msgid "Reboot Network Adapter"
+msgstr "Reiniciar adaptador de rede"
+
+msgid "Check vpn enabled"
+msgstr "Verificar vpn ativado"
+
+msgid "Check vpn disabled"
+msgstr "Verificar vpn desativado"
+
+msgid "VPN Status: OK"
+msgstr "Status VPN: OK"
+
+msgid "Warning! VPN KO"
+msgstr "Atenção! VPN KO"
+
+msgid "Protect your %s - By Madhouse"
+msgstr "Proteja seu %s - Por Madhouse"
+
+msgid "Select your vpn provider"
+msgstr "Selecione seu provedor de vpn"
+
+msgid "Choose your VPN provider among:"
+msgstr "Escolha seu provedor de VPN entre:"
+
+msgid "Choose the directory for the PrivateKey.key file"
+msgstr "Escolha o diretório para o arquivo PrivateKey.key"
+
+msgid "Write your Private key"
+msgstr "Escreva sua chave privada"
+
+msgid "Write your Private Key or edit the file located in"
+msgstr "Escreva sua chave privada ou edite o arquivo localizado em"
+
+msgid "or"
+msgstr "ou"
+
+msgid "Save the server list"
+msgstr "Salvar a lista de servidores"
+
+msgid "Privatekey file directory"
+msgstr "Diretório de arquivo de chave privada"
+
+msgid "Save the server list (will not download when starting the plugin)"
+msgstr "Salvar a lista de servidores (não será baixado ao iniciar o plug-in)"
+
+msgid "Enable vpn control"
+msgstr "Habilitar controle vpn"
+
+msgid "Enable Wireguard Vpn screen control, it will show a warning on the screen"
+msgstr "Ative o controle de tela Wireguard Vpn, ele mostrará um aviso na tela"
+
+msgid "Set the timeout"
+msgstr "Definir o tempo limite"
+
+msgid "Set the time (minutes) for Wireguard Vpn control"
+msgstr "Definir o tempo (minutos) para controle Wireguard Vpn"
+
+msgid "Show warning on screen"
+msgstr "Mostrar aviso na tela"
+
+msgid "Show the warning on the screen"
+msgstr "Mostrar o aviso na tela"
+
+msgid "Warning time on screen"
+msgstr "Tempo de aviso na tela"
+
+msgid "Shows the warning duration (seconds) on the screen"
+msgstr "Mostra a duração do aviso (segundos) na tela"
+
+msgid "Start Wireguard at boot"
+msgstr "Iniciar o Wireguard na inicialização"
+
+msgid "Start Wireguard Vpn after a full reboot"
+msgstr "Iniciar Wireguard VPN após uma reinicialização completa"
+
+msgid "Show Wireguard Vpn in main menu"
+msgstr "Mostrar Wireguard Vpn no menu principal"
+
+msgid "Show Wireguard in the main menu"
+msgstr "Mostrar Wireguard no menu principal"
+
+msgid "(* Requires restart Gui)"
+msgstr "(* Requer reinicialização do Gui)"
+
+msgid "Select the type of server list"
+msgstr "Selecione o tipo de lista de servidores"
+
+msgid "All servers"
+msgstr "Todos os servidores"
+
+msgid "Recommended servers"
+msgstr "Servidores recomendados"
+
+msgid "'All servers'"
+msgstr "'Todos os servidores'"
+
+msgid "it will take longer to process the servers, you will have the complete list of servers."
+msgstr "demorará mais para processar os servidores, você terá a lista completa de servidores."
+
+msgid "'Recommended servers'"
+msgstr "'Servidores recomendados'"
+
+msgid "you will have the list of recommended servers, it will take less time to process the list."
+msgstr "você terá a lista de servidores recomendados, levará menos tempo para processar a lista."
+
+msgid "Data saved correctly!"
+msgstr "Dados salvos corretamente!"
+
+msgid "Enter your Private Key"
+msgstr "Digite sua chave privada"
+
+msgid "Private key saved successfully!"
+msgstr "Chave privada salva com sucesso!"
+
+msgid "Load Private Key"
+msgstr "Carregar chave privada"
+
+msgid "Total servers: %s"
+msgstr "Total de servidores: %s"
+
+msgid "Checking Wireguard module"
+msgstr "Verificando módulo Wireguard"
+
+msgid "Server list order"
+msgstr "Ordem da lista de servidores"
+
+msgid "Sort by load (ascending)"
+msgstr "Classificar por carga (crescente)"
+
+msgid "Sort by server (alphabetically)"
+msgstr "Classificar por servidor (alfabeticamente)"
+
+msgid "Sort the list alphabetically or by ascending load"
+msgstr "Ordenar a lista em ordem alfabética ou por carregamento crescente"
+
+msgid "The file located in /etc/PrivateKey.key is empty"
+msgstr "O arquivo localizado em /etc/PrivateKey.key está vazio"
+
+msgid "The file located in /media/hdd/WgConfig/PrivateKey.key is empty"
+msgstr "O arquivo localizado em /media/hdd/WgConfig/PrivateKey.key está vazio"
+
+msgid "The file located in /media/usb/WgConfig/PrivateKey.key is empty"
+msgstr "O arquivo localizado em /media/usb/WgConfig/PrivateKey.key está vazio"
+
+msgid "Copy/paste your Private Key and then press the Blue button"
+msgstr "Copie/cole sua chave privada e clique no botão azul"

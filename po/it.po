@@ -20,6 +20,15 @@ msgstr "Disabilita ipv6"
 msgid "Set up a DNS"
 msgstr "Imposta un DNS"
 
+msgid "Finished restarting your network"
+msgstr "Riavvio della rete terminato"
+
+msgid "Please wait while your network is restarting..."
+msgstr "Attendere il riavvio della rete..."
+
+msgid "Do you want to restart the network interface?"
+msgstr "Vuoi riavviare l'interfaccia di rete?"
+
 msgid "Please mount the device as"
 msgstr "Si prega di montare il dispositivo come"
 
@@ -251,8 +260,8 @@ msgstr "Seleziona un server premendo il tasto OK"
 msgid "You want to stop the %s server?"
 msgstr "Vuoi arrestare il server %s?"
 
-msgid "Stop Wireguard"
-msgstr "Arresto Wireguard"
+msgid "Stopping Wireguard interface"
+msgstr "Arresto l'interfaccia Wireguard"
 
 msgid "Not connected"
 msgstr "Non connesso"

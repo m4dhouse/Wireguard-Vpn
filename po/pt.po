@@ -371,6 +371,12 @@ msgstr "Servidores recomendados"
 msgid "'All servers'"
 msgstr "'Todos os servidores'"
 
+msgid "'Servers by country'"
+msgstr "'Servidores por país'"
+
+msgid "Select the country"
+msgstr "Selecione o país"
+
 msgid "it will take longer to process the servers, you will have the complete list of servers."
 msgstr "demorará mais para processar os servidores, você terá a lista completa de servidores."
 

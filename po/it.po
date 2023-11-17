@@ -2,15 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2023-05-13 16:30+0100\n"
+"PO-Revision-Date: 2023-11-17 16:30+0100\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: Madhouse <anonm4d@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
-"%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
@@ -56,6 +55,11 @@ msgstr "Seleziona i tuoi file personali e ricordati di inserirli nella giusta di
 msgid "Select the file directory"
 msgstr "Seleziona la directory dei file"
 
+msgid "%d Second"
+msgid_plural "%d Seconds"
+msgstr[0] "%d Secondo"
+msgstr[1] "%d Secondi"
+
 msgid "Remember to insert only files with the .conf extension"
 msgstr "Ricordati di inserire solo file con estensione .conf"
 
@@ -86,11 +90,20 @@ msgstr "Di default è impostato un limite massimo di 16384 server da visualizzar
 msgid "Default is set to 500 maximum servers to display"
 msgstr "Di default è impostato un limite massimo di 500 server da visualizzare"
 
+msgid "Default: 10"
+msgstr "Predefinito: 10"
+
 msgid "The private key is incorrect"
 msgstr "La chiave privata non è corretta"
 
 msgid "Check the length of the private key"
 msgstr "Controlla la lunghezza della chiave privata"
+
+msgid "Internet check while restarting"
+msgstr "Controllo Internet durante il riavvio"
+
+msgid "Internet check during restart (in Seconds), if the result is negative the VPN tunnel is not established."
+msgstr "Controllo Internet al riavvio (in Secondi), se il risultato è negativo il tunnel VPN non viene stabilito."
 
 msgid "Bypass Wireguard"
 msgstr "Bypass Wireguard"

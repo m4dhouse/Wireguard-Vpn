@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2023-11-17 16:30+0100\n"
+"PO-Revision-Date: 2023-11-24 16:30+0100\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: Madhouse <anonm4d@gmail.com>\n"
 "Language: it\n"
@@ -12,6 +12,54 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "DNS leak test"
+msgstr "Test fuga DNS"
+
+msgid "Check Dns Leak"
+msgstr "Verifica fuga DNS"
+
+msgid "The test checks for any leakage of DNS"
+msgstr "Il test verifica le eventuali fughe di DNS"
+
+msgid "I run the DNS Leak test"
+msgstr "Avvio il test per le eventuali fughe di DNS"
+
+msgid "Please be patient!"
+msgstr "Attendere prego!"
+
+msgid "Your VPN IP: "
+msgstr "Il tuo IP VPN: "
+
+msgid "Your PUBLIC IP: "
+msgstr "Il tuo IP PUBBLICO: "
+
+msgid "No DNS servers found"
+msgstr "Nessun server DNS trovato"
+
+msgid "You use "
+msgstr "Utilizzate "
+
+msgid " DNS servers"
+msgstr " server DNS"
+
+msgid "DNS MAY BE LEAKING."
+msgstr "CI POSSONO ESSERE FUGHE DI DNS."
+
+msgid "PERFECT! "
+msgstr "PERFETTO! "
+
+msgid "Conclusion: "
+msgstr "Conclusioni: "
+
+msgid "Please set a different DNS in your network card"
+msgstr "Imposta un DNS diverso nella tua scheda di rete"
+
+msgid "Example Google DNS:"
+msgstr "Esempio DNS Google:"
+
+msgid "DNS IS NOT LEAKING."
+msgstr "NESSUNA FUGA DI DNS RILEVATA."
 
 msgid "Disable ipv6"
 msgstr "Disabilita ipv6"

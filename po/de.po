@@ -14,6 +14,54 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "DNS leak test"
+msgstr ""
+
+msgid "Check Dns Leak"
+msgstr ""
+
+msgid "The test checks for any leakage of DNS"
+msgstr ""
+
+msgid "I run the DNS Leak test"
+msgstr ""
+
+msgid "Please be patient!"
+msgstr ""
+
+msgid "Your VPN IP: "
+msgstr ""
+
+msgid "Your PUBLIC IP: "
+msgstr ""
+
+msgid "No DNS servers found"
+msgstr ""
+
+msgid "You use "
+msgstr ""
+
+msgid " DNS servers"
+msgstr ""
+
+msgid "DNS MAY BE LEAKING."
+msgstr ""
+
+msgid "PERFECT! "
+msgstr ""
+
+msgid "Conclusion: "
+msgstr ""
+
+msgid "Please set a different DNS in your network card"
+msgstr ""
+
+msgid "Example Google DNS:"
+msgstr ""
+
+msgid "DNS IS NOT LEAKING."
+msgstr ""
+
 msgid "Disable ipv6"
 msgstr "Ipv6 deaktivieren"
 

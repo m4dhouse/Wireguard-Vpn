@@ -14,6 +14,24 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "Test performed on host: %s"
+msgstr ""
+
+msgid "Choose a server for DNS testing"
+msgstr ""
+
+msgid "Choose a DNS test server from bash.ws or dnsleaktest.com"
+msgstr ""
+
+msgid "Set the MTU"
+msgstr ""
+
+msgid "The MTU 1384 brings benefits on packet transmission, in most cases it increases the value of download and upload"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
 msgid "DNS leak test"
 msgstr ""
 
@@ -53,12 +71,6 @@ msgstr ""
 msgid "Conclusion: "
 msgstr ""
 
-msgid "Please set a different DNS in your network card"
-msgstr ""
-
-msgid "Example Google DNS:"
-msgstr ""
-
 msgid "DNS IS NOT LEAKING."
 msgstr ""
 
@@ -91,9 +103,6 @@ msgstr "Configurar um DNS para conexão Wireguard."
 
 msgid "This will not affect your network settings."
 msgstr "Configurar um DNS para conexão Wireguard."
-
-msgid "Cloudflare (Recommended)"
-msgstr "Cloudflare (Recomendado)"
 
 #, python-format
 msgid "%d Second"

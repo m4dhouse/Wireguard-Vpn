@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2023-11-24 16:30+0100\n"
+"PO-Revision-Date: 2023-11-27 16:30+0100\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: Madhouse <anonm4d@gmail.com>\n"
 "Language: it\n"
@@ -12,6 +12,24 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Test performed on host: %s"
+msgstr "Test eseguito sull'host: %s"
+
+msgid "Choose a server for DNS testing"
+msgstr "Scegli un server per il test DNS"
+
+msgid "Choose a DNS test server from bash.ws or dnsleaktest.com"
+msgstr "Scegli un server per il test DNS da bash.ws o dnsleaktest.com"
+
+msgid "Set the MTU"
+msgstr "Imposta MTU"
+
+msgid "The MTU 1384 brings benefits on packet transmission, in most cases it increases the value of download and upload"
+msgstr "MTU 1384 porta dei benefici sulla trasmissione dei pacchetti, nella maggior parte dei casi aumenta i valori Download/Upload"
+
+msgid "Default"
+msgstr "Predefinito"
 
 msgid "DNS leak test"
 msgstr "Test fuga DNS"
@@ -52,12 +70,6 @@ msgstr "PERFETTO! "
 msgid "Conclusion: "
 msgstr "Conclusioni: "
 
-msgid "Please set a different DNS in your network card"
-msgstr "Imposta un DNS diverso nella tua scheda di rete"
-
-msgid "Example Google DNS:"
-msgstr "Esempio DNS Google:"
-
 msgid "DNS IS NOT LEAKING."
 msgstr "NESSUNA FUGA DI DNS RILEVATA."
 
@@ -90,9 +102,6 @@ msgstr "Imposta un DNS per la connessione Wireguard."
 
 msgid "This will not affect your network settings."
 msgstr "Questo non inciderà sulle impostazioni di rete."
-
-msgid "Cloudflare (Recommended)"
-msgstr "Cloudflare (Raccomandato)"
 
 msgid "Use your personal files"
 msgstr "Utilizza i file personali"

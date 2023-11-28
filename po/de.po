@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-11-17 16:30+0200\n"
-"Last-Translator: Madhouse <anonm4d@gmail.com>\n"
+"PO-Revision-Date: 2023-11-25 21:22+0100\n"
+"Last-Translator: Pike_Bishop\n"
 "Language-Team: Madhouse <anonm4d@gmail.com>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -14,53 +14,65 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
-msgid "DNS leak test"
+msgid "Test performed on host: %s"
 msgstr ""
+
+msgid "Choose a server for DNS testing"
+msgstr ""
+
+msgid "Choose a DNS test server from bash.ws or dnsleaktest.com"
+msgstr ""
+
+msgid "Set the MTU"
+msgstr ""
+
+msgid "The MTU 1384 brings benefits on packet transmission, in most cases it increases the value of download and upload"
+msgstr ""
+
+msgid "Default"
+msgstr "Standardmäßig"
+
+msgid "DNS leak test"
+msgstr "DNS-Leck Test"
 
 msgid "Check Dns Leak"
-msgstr ""
+msgstr "DNS-Leck prüfen"
 
 msgid "The test checks for any leakage of DNS"
-msgstr ""
+msgstr "Der Test prüft, ob ein DNS-Leck vorliegt"
 
 msgid "I run the DNS Leak test"
-msgstr ""
+msgstr "Test auf DNS-Leck wird durchgeführt"
 
 msgid "Please be patient!"
-msgstr ""
+msgstr "Bitte etwas Geduld!"
 
 msgid "Your VPN IP: "
-msgstr ""
+msgstr "Ihre VPN IP: "
 
 msgid "Your PUBLIC IP: "
-msgstr ""
+msgstr "Ihre PUBLIC IP: "
 
 msgid "No DNS servers found"
-msgstr ""
+msgstr "Keine DNS-Server gefunden"
 
 msgid "You use "
-msgstr ""
+msgstr "Sie benutzen "
 
 msgid " DNS servers"
-msgstr ""
+msgstr " DNS-Server"
 
 msgid "DNS MAY BE LEAKING."
-msgstr ""
+msgstr "DNS könnte ein Leck haben."
 
 msgid "PERFECT! "
-msgstr ""
+msgstr "PERFEKT! "
 
 msgid "Conclusion: "
-msgstr ""
-
-msgid "Please set a different DNS in your network card"
-msgstr ""
-
-msgid "Example Google DNS:"
-msgstr ""
+msgstr "Fazit: "
 
 msgid "DNS IS NOT LEAKING."
-msgstr ""
+msgstr "KEIN DNS-LECK VORHANDEN."
 
 msgid "Disable ipv6"
 msgstr "Ipv6 deaktivieren"
@@ -91,9 +103,6 @@ msgstr "Richten Sie einen DNS für die Wireguard-Verbindung ein."
 
 msgid "This will not affect your network settings."
 msgstr "Dies wird Ihre Netzwerkeinstellungen nicht beeinflussen."
-
-msgid "Cloudflare (Recommended)"
-msgstr "Cloudflare (empfohlen)"
 
 msgid "Use your personal files"
 msgstr "Verwenden Sie Ihre persönlichen Dateien"

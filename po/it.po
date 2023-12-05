@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2023-11-30 16:30+0100\n"
+"PO-Revision-Date: 2023-12-03 16:30+0100\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: Madhouse <anonm4d@gmail.com>\n"
 "Language: it\n"
@@ -12,6 +12,18 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "I check the files"
+msgstr "Controllo i file"
+
+msgid "Do you want to upgrade to the new %s version?"
+msgstr "Vuoi eseguire l'aggiornamento alla nuova versione %s?"
+
+msgid "Wireguard VPN plugin is updated"
+msgstr "WireGuard VPN plugin è aggiornato"
+
+msgid "Installed version: %s"
+msgstr "Versione installata: %s"
 
 msgid "Enabling it allows you to perform an internet check when your %s starts"
 msgstr "Abilitandolo ti consente di eseguire un controllo Internet all'avvio del %s"

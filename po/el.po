@@ -13,6 +13,18 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "I check the files"
+msgstr ""
+
+msgid "Do you want to upgrade to the new %s version?"
+msgstr ""
+
+msgid "Wireguard VPN plugin is updated"
+msgstr ""
+
+msgid "Installed version: %s"
+msgstr ""
+
 msgid "Enabling it allows you to perform an internet check when your %s starts"
 msgstr ""
 

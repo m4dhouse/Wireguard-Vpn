@@ -347,10 +347,10 @@ msgstr "Você deseja parar o servidor %s?"
 msgid "Stopping Wireguard interface"
 msgstr "Interrompendo a interface Wireguard"
 
-msgid "Not connected"
+msgid "NOT CONNECTED"
 msgstr "Não conectado"
 
-msgid "Connected"
+msgid "CONNECTED"
 msgstr "Conectado"
 
 msgid "Disconnect"

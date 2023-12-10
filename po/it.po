@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2023-12-03 16:30+0100\n"
+"PO-Revision-Date: 2023-12-09 16:30+0100\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: Madhouse <anonm4d@gmail.com>\n"
 "Language: it\n"
@@ -309,18 +309,6 @@ msgstr "Configurazione"
 msgid "Restart Network"
 msgstr "Riavvia la rete"
 
-msgid "Country:"
-msgstr "Nazione:"
-
-msgid "Provider:"
-msgstr "Provider:"
-
-msgid "Wireguard status"
-msgstr "Stato Wireguard"
-
-msgid "Server selected"
-msgstr "Server selezionato"
-
 msgid "Link to the %s server"
 msgstr "Collegamento al server %s"
 
@@ -351,17 +339,17 @@ msgstr "Vuoi arrestare il server %s?"
 msgid "Stopping Wireguard interface"
 msgstr "Arresto l'interfaccia Wireguard"
 
-msgid "Not connected"
-msgstr "Non connesso"
+msgid "NOT CONNECTED"
+msgstr "NON CONNESSO"
 
-msgid "Connected"
-msgstr "Connesso"
+msgid "CONNECTED"
+msgstr "CONNESSO"
 
 msgid "Disconnect"
 msgstr "Disconnetti"
 
-msgid "PUBLIC IP"
-msgstr "IP PUBBLICO"
+msgid "IP"
+msgstr "IP"
 
 msgid "Please wait for the network adapter to restart"
 msgstr "Per favore attendi il riavvio della scheda di rete"

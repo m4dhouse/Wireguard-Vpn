@@ -177,15 +177,12 @@ msgstr "Επιλέξτε τον πάροχο VPN σας ανάμεσα σε:"
 msgid "Close"
 msgstr "Κλείσιμο"
 
-msgid "Connected"
+msgid "CONNECTED"
 msgstr "Συνδεδεμένο"
 
 msgid "Copy/paste your Private Key and then press the Blue button"
 msgstr ""
 "Αντιγράψτε/επικολλήστε το ιδιωτικό σας κλειδί και πατήστε το μπλε κουμπί"
-
-msgid "Country:"
-msgstr "Χώρα:"
 
 msgid "Data saved correctly!"
 msgstr "Τα δεδομένα αποθηκεύτηκαν σωστά!"
@@ -269,11 +266,11 @@ msgstr "Φόρτωση ιδιωτ. κλειδιού"
 msgid "No files found!"
 msgstr "Δεν βρέθηκαν αρχεία!"
 
-msgid "Not connected"
+msgid "NOT CONNECTED"
 msgstr "Μη συνδεδεμένο"
 
-msgid "PUBLIC IP"
-msgstr "ΔΗΜΟΣΙΑ IP"
+msgid "IP"
+msgstr "IP"
 
 msgid "Please enter your Private Key by pressing the Green button"
 msgstr "Εισάγετε το ιδιωτικό σας κλειδί πατώντας το πράσινο κουμπί"
@@ -301,9 +298,6 @@ msgstr "Κατάλογος αρχείου ιδιωτικού κλειδιού"
 
 msgid "Protect your %s - By Madhouse"
 msgstr "Προστασία του %s σας - Από τον Madhouse"
-
-msgid "Provider:"
-msgstr "Πάροχος:"
 
 msgid "Put the files in %s"
 msgstr "Τοποθετήστε τα αρχεία στο %s"

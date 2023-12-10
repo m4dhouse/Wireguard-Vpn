@@ -350,10 +350,10 @@ msgstr "¿Quiere detener el servidor %s?"
 msgid "Stopping Wireguard interface"
 msgstr "Detención de la interfaz Wireguard"
 
-msgid "Not connected"
+msgid "NOT CONNECTED"
 msgstr "No conectado"
 
-msgid "Connected"
+msgid "CONNECTED"
 msgstr "Conectado"
 
 msgid "Disconnect"

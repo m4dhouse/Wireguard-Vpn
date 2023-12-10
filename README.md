@@ -5,7 +5,7 @@ Supported provider: Surfshark - NordVpn - ProtonVpn - MullvadVpn - iVpn
 
 It also supports personal .conf files
 
-![1](https://user-images.githubusercontent.com/35741027/210772426-88be32c5-1e04-4664-8e88-31adef68cce6.jpg)
+![wireguard](https://github.com/m4dhouse/Wireguard-Vpn/assets/35741027/81ab22d1-2adf-43d8-a02f-46d365364eb1)
 
 ![2](https://user-images.githubusercontent.com/35741027/210772467-6db07402-8d7b-4b1a-8bd8-56d10046bf27.jpg)
 

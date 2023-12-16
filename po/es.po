@@ -128,6 +128,11 @@ msgid_plural "%d Seconds"
 msgstr[0] "%d Segundo"
 msgstr[1] "%d Segundos"
 
+msgid "%d Minute"
+msgid_plural "%d Minutes"
+msgstr[0] ""
+msgstr[1] ""
+
 msgid "Internet check while restarting"
 msgstr "Comprobación de Internet al reiniciar"
 

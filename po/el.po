@@ -39,6 +39,11 @@ msgid_plural "%d Seconds"
 msgstr[0] ""
 msgstr[1] ""
 
+msgid "%d Minute"
+msgid_plural "%d Minutes"
+msgstr[0] ""
+msgstr[1] ""
+
 msgid "Choose a server for DNS testing"
 msgstr ""
 

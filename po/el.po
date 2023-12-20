@@ -13,6 +13,15 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "There appears to be a problem with your account."
+msgstr ""
+
+msgid "Try restarting yours %s"
+msgstr ""
+
+msgid "If the problem persists, check your account."
+msgstr ""
+
 msgid "I check the files"
 msgstr ""
 

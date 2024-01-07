@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2023-12-20 16:30+0100\n"
+"PO-Revision-Date: 2024-01-04 16:30+0100\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: Madhouse <anonm4d@gmail.com>\n"
 "Language: it\n"
@@ -12,6 +12,36 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Write the IP you find in the file"
+msgstr "Scrivi l'IP che trovi nel file"
+
+msgid "Write the IP that you find in the configuration file generated and downloaded from the website."
+msgstr "Scrivi l'IP che trovi nel file di configurazione generato e scaricato dal sito web."
+
+msgid "Example:"
+msgstr "Esempio:"
+
+msgid "Write your Private Key that you find in the configuration file or edit the file located in"
+msgstr "Scrivi la tua Chiave Privata che trovi nel file di configurazione o modifica il file che si trova in"
+
+msgid "Invalid IP, please write a valid IP"
+msgstr "Indirizzo IP non valido, scrivi un IP valido"
+
+msgid "Bandwidth"
+msgstr "Banda"
+
+msgid "The update server is unreachable"
+msgstr "Il server per l'aggiornamento non è raggiungibile"
+
+msgid "Connection to server failed!"
+msgstr "Connessione al server fallita!"
+
+msgid "You want to restore the connection?"
+msgstr "Vuoi ripristinare la connessione?"
+
+msgid "WireGuard protocol missing!"
+msgstr "Protocollo WireGuard mancante!"
 
 msgid "There appears to be a problem with your account."
 msgstr "Sembra che ci siano problemi sul tuo account."
@@ -341,8 +371,8 @@ msgstr "Server %s non trovato!"
 msgid "Try later or"
 msgstr "Riprova dopo o"
 
-msgid "check your internet connection"
-msgstr "controlla la tua connessione internet"
+msgid "Check your internet connection"
+msgstr "Controlla la tua connessione internet"
 
 msgid "Select a server and press the OK button"
 msgstr "Seleziona un server premendo il tasto OK"

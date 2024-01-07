@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-11-17 22:53+0200\n"
+"PO-Revision-Date: 2024-01-04 23:31+0100\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: Madhouse <anonm4d@gmail.com>\n"
 "Language: pt\n"
@@ -13,6 +13,36 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Write the IP you find in the file"
+msgstr ""
+
+msgid "Write the IP that you find in the configuration file generated and downloaded from the website."
+msgstr ""
+
+msgid "Example:"
+msgstr ""
+
+msgid "Write your Private Key that you find in the configuration file or edit the file located in"
+msgstr ""
+
+msgid "Invalid IP, please write a valid IP"
+msgstr ""
+
+msgid "Bandwidth"
+msgstr ""
+
+msgid "The update server is unreachable"
+msgstr ""
+
+msgid "Connection to server failed!"
+msgstr ""
+
+msgid "You want to restore the connection?"
+msgstr ""
+
+msgid "WireGuard protocol missing!"
+msgstr ""
 
 msgid "There appears to be a problem with your account."
 msgstr ""
@@ -349,8 +379,8 @@ msgstr "Servidor %s está parou!"
 msgid "Try later or"
 msgstr "Tente mais tarde ou"
 
-msgid "check your internet connection"
-msgstr "verifique sua conexão com a internet"
+msgid "Check your internet connection"
+msgstr "Verifique sua conexão com a internet"
 
 msgid "Select a server and press the OK button"
 msgstr "Selecione um servidor e clique o botão OK"

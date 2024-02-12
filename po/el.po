@@ -43,6 +43,9 @@ msgstr ""
 msgid "WireGuard protocol missing!"
 msgstr ""
 
+msgid "Check that WireGuard is installed in your image."
+msgstr ""
+
 msgid "There appears to be a problem with your account."
 msgstr ""
 

@@ -14,6 +14,18 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "Enable hanshake control"
+msgstr ""
+
+msgid "If enabled, check the handshake on the server every 10 minutes. If the server is down, it will try to establish a new handshake."
+msgstr ""
+
+msgid "Show a warning on the screen"
+msgstr ""
+
+msgid "If enabled, it will show a warning on the screen."
+msgstr ""
+
 msgid "Write the IP you find in the file"
 msgstr ""
 
@@ -451,8 +463,8 @@ msgstr "Serverliste speichern (wird beim Start des Plugins nicht heruntergeladen
 msgid "Enable vpn control"
 msgstr "VPN-Kontrolle aktivieren"
 
-msgid "Enable Wireguard Vpn screen control, it will show a warning on the screen"
-msgstr "Aktiviere Wireguard Vpn Bildschirmkontrolle, es wird eine Warnung auf dem Bildschirm angezeigt"
+msgid "Enable Wireguard Vpn screen control."
+msgstr "Aktiviere Wireguard Vpn Bildschirmkontrolle."
 
 msgid "Set the timeout"
 msgstr "Zeitüberschreitung einstellen"

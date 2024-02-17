@@ -449,8 +449,20 @@ msgstr "Salva la lista dei server (non verrà effettuato il download all'avvio d
 msgid "Enable vpn control"
 msgstr "Abilita il controllo della vpn"
 
-msgid "Enable Wireguard Vpn screen control, it will show a warning on the screen"
-msgstr "Abilita il controllo di Wireguard, mostrerà un avviso sullo schermo"
+msgid "Enable Wireguard Vpn screen control."
+msgstr "Abilita il controllo di Wireguard."
+
+msgid "Enable hanshake control"
+msgstr "Abilita il controllo dell'handshake"
+
+msgid "If enabled, check the handshake on the server every 10 minutes. If the server is down, it will try to establish a new handshake."
+msgstr "Se abilitato, effettuare un controllo ogni 10 Minuti dell'handshake sul server. Se il server risulterà non attivo, cercherà di stabilire un nuovo handshake."
+
+msgid "Show a warning on the screen"
+msgstr "Mostra un avviso sullo schermo"
+
+msgid "If enabled, it will show a warning on the screen."
+msgstr "Se abilitato, mostrerà un avviso sullo schermo."
 
 msgid "Set the timeout"
 msgstr "Imposta il timeout"

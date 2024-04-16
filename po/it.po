@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-02-12 16:30+0100\n"
+"PO-Revision-Date: 2024-04-16 16:30+0100\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: Madhouse <anonm4d@gmail.com>\n"
 "Language: it\n"
@@ -30,6 +30,9 @@ msgstr "Indirizzo IP non valido, scrivi un IP valido"
 
 msgid "Bandwidth"
 msgstr "Banda"
+
+msgid "Quick connection"
+msgstr "Connessione rapida"
 
 msgid "The update server is unreachable"
 msgstr "Il server per l'aggiornamento non è raggiungibile"

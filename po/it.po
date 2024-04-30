@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-04-16 16:30+0100\n"
+"PO-Revision-Date: 2024-04-30 16:30+0100\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: Madhouse <anonm4d@gmail.com>\n"
 "Language: it\n"
@@ -13,11 +13,23 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "Connection in progress..."
+msgstr "Connessione in corso..."
+
+msgid "Connection Established"
+msgstr "Connessione stabilita"
+
+msgid "Connection Unavailable!"
+msgstr "Connessione non disponibile!"
+
 msgid "Write the IP you find in the file"
 msgstr "Scrivi l'IP che trovi nel file"
 
 msgid "Write the IP that you find in the configuration file generated and downloaded from the website."
 msgstr "Scrivi l'IP che trovi nel file di configurazione generato e scaricato dal sito web."
+
+msgid "Connected from: %s"
+msgstr "Connesso dal: %s"
 
 msgid "Example:"
 msgstr "Esempio:"

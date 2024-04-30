@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2023-11-24 19:10+0200\n"
+"PO-Revision-Date: 2024-04-30 19:10+0200\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: giorbak\n"
 "Language: el\n"
@@ -12,6 +12,30 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Connection in progress..."
+msgstr ""
+
+msgid "Connection Established"
+msgstr ""
+
+msgid "Connection Unavailable!"
+msgstr ""
+
+msgid "Quick connection"
+msgstr ""
+
+msgid "Enable hanshake control"
+msgstr ""
+
+msgid "If enabled, check the handshake on the server every 10 minutes. If the server is down, it will try to establish a new handshake."
+msgstr ""
+
+msgid "Show a warning on the screen"
+msgstr ""
+
+msgid "If enabled, it will show a warning on the screen."
+msgstr ""
 
 msgid "Write the IP you find in the file"
 msgstr ""
@@ -262,11 +286,8 @@ msgstr ""
 msgid "Download speedtest.png failed!"
 msgstr "Η λήψη του speedtest.png απέτυχε!"
 
-msgid ""
-"Enable Wireguard Vpn screen control, it will show a warning on the screen"
-msgstr ""
-"Ενεργοποιήστε τον έλεγχο οθόνης Wireguard VPN, θα εμφανιστεί μια "
-"προειδοποίηση στην οθόνη"
+msgid "Enable Wireguard Vpn screen control."
+msgstr "Ενεργοποιήστε τον έλεγχο οθόνης Wireguard VPN."
 
 msgid "Enable vpn control"
 msgstr "Ενεργοποίηση ελέγχου VPN"

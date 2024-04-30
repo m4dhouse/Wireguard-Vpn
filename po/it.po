@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-02-12 16:30+0100\n"
+"PO-Revision-Date: 2024-04-30 16:30+0100\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: Madhouse <anonm4d@gmail.com>\n"
 "Language: it\n"
@@ -13,11 +13,23 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "Connection in progress..."
+msgstr "Connessione in corso..."
+
+msgid "Connection Established"
+msgstr "Connessione stabilita"
+
+msgid "Connection Unavailable!"
+msgstr "Connessione non disponibile!"
+
 msgid "Write the IP you find in the file"
 msgstr "Scrivi l'IP che trovi nel file"
 
 msgid "Write the IP that you find in the configuration file generated and downloaded from the website."
 msgstr "Scrivi l'IP che trovi nel file di configurazione generato e scaricato dal sito web."
+
+msgid "Connected from: %s"
+msgstr "Connesso dal: %s"
 
 msgid "Example:"
 msgstr "Esempio:"
@@ -30,6 +42,9 @@ msgstr "Indirizzo IP non valido, scrivi un IP valido"
 
 msgid "Bandwidth"
 msgstr "Banda"
+
+msgid "Quick connection"
+msgstr "Connessione rapida"
 
 msgid "The update server is unreachable"
 msgstr "Il server per l'aggiornamento non è raggiungibile"
@@ -449,8 +464,20 @@ msgstr "Salva la lista dei server (non verrà effettuato il download all'avvio d
 msgid "Enable vpn control"
 msgstr "Abilita il controllo della vpn"
 
-msgid "Enable Wireguard Vpn screen control, it will show a warning on the screen"
-msgstr "Abilita il controllo di Wireguard, mostrerà un avviso sullo schermo"
+msgid "Enable Wireguard Vpn screen control."
+msgstr "Abilita il controllo di Wireguard."
+
+msgid "Enable hanshake control"
+msgstr "Abilita il controllo dell'handshake"
+
+msgid "If enabled, check the handshake on the server every 10 minutes. If the server is down, it will try to establish a new handshake."
+msgstr "Se abilitato, effettuare un controllo ogni 10 Minuti dell'handshake sul server. Se il server risulterà non attivo, cercherà di stabilire un nuovo handshake."
+
+msgid "Show a warning on the screen"
+msgstr "Mostra un avviso sullo schermo"
+
+msgid "If enabled, it will show a warning on the screen."
+msgstr "Se abilitato, mostrerà un avviso sullo schermo."
 
 msgid "Set the timeout"
 msgstr "Imposta il timeout"

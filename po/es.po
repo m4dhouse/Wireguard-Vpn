@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-11-17 22:49+0200\n"
+"PO-Revision-Date: 2024-04-30 22:49+0200\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: Madhouse <anonm4d@gmail.com>\n"
 "Language: es\n"
@@ -13,6 +13,30 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Connection in progress..."
+msgstr ""
+
+msgid "Connection Established"
+msgstr ""
+
+msgid "Connection Unavailable!"
+msgstr ""
+
+msgid "Quick connection"
+msgstr ""
+
+msgid "Enable hanshake control"
+msgstr ""
+
+msgid "If enabled, check the handshake on the server every 10 minutes. If the server is down, it will try to establish a new handshake."
+msgstr ""
+
+msgid "Show a warning on the screen"
+msgstr ""
+
+msgid "If enabled, it will show a warning on the screen."
+msgstr ""
 
 msgid "Write the IP you find in the file"
 msgstr ""
@@ -460,8 +484,8 @@ msgstr "Guardar la lista de servidores (no se descargará al iniciar el compleme
 msgid "Enable vpn control"
 msgstr "Habilitar control vpn"
 
-msgid "Enable Wireguard Vpn screen control, it will show a warning on the screen"
-msgstr "Habilite el control de pantalla Wireguard Vpn, mostrará una advertencia en la pantalla"
+msgid "Enable Wireguard Vpn screen control."
+msgstr "Habilite el control de pantalla Wireguard Vpn."
 
 msgid "Set the timeout"
 msgstr "Establecer el tiempo de espera"

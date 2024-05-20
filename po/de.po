@@ -14,6 +14,12 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "Add bypasses"
+msgstr ""
+
+msgid "Add host/ip number to bypass WireGuard."
+msgstr ""
+
 msgid "The ' %s ' host (bypass) is unreachable.\n"
 msgstr ""
 
@@ -268,32 +274,8 @@ msgstr "Bypass Wireguard"
 msgid "This allows you to bypass wireguard"
 msgstr "Damit können Sie den Drahtschutz umgehen"
 
-msgid "1) Bypass host or ip:"
-msgstr "1) Umgehung von host oder ip:"
-
-msgid "2) Bypass host or ip:"
-msgstr "2) Umgehung von host oder ip:"
-
-msgid "3) Bypass host or ip:"
-msgstr "3) Umgehung von host oder ip:"
-
-msgid "4) Bypass host or ip:"
-msgstr "4) Umgehung von host oder ip:"
-
-msgid "5) Bypass host or ip:"
-msgstr "5) Umgehung von host oder ip:"
-
-msgid "6) Bypass host or ip:"
-msgstr "6) Umgehung von host oder ip:"
-
-msgid "7) Bypass host or ip:"
-msgstr "7) Umgehung von host oder ip:"
-
-msgid "8) Bypass host or ip:"
-msgstr "8) Umgehung von host oder ip:"
-
-msgid "9) Bypass host or ip:"
-msgstr "9) Umgehung von host oder ip:"
+msgid "%s) Bypass host or ip"
+msgstr "%s) Umgehung von host oder ip"
 
 msgid "This allows you to bypass wireguard traffic."
 msgstr "Damit können Sie den Wireguard-Datenverkehr umgehen."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-05-04 19:10+0200\n"
+"PO-Revision-Date: 2024-05-20 00:29+0300\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: giorbak\n"
 "Language: el\n"
@@ -10,180 +10,30 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Add bypasses"
+msgstr ""
+
+msgid "Add host/ip number to bypass WireGuard."
+msgstr ""
 
 msgid "The ' %s ' host (bypass) is unreachable.\n"
 msgstr ""
 
-msgid "DNS server settings"
-msgstr ""
-
-msgid "Choose a DNS server."
-msgstr ""
-
-msgid "DNS servers allow resolution of DNS host names to IP addresses."
-msgstr ""
-
-msgid "Check internet connection"
-msgstr ""
-
-msgid "Choose a DNS for testing your internet connection."
-msgstr ""
-
-msgid "Connection in progress..."
-msgstr ""
-
-msgid "Connection Established"
-msgstr ""
-
-msgid "Connection Unavailable!"
-msgstr ""
-
-msgid "Quick connection"
-msgstr ""
-
-msgid "Enable hanshake control"
-msgstr ""
-
-msgid "If enabled, check the handshake on the server every 10 minutes. If the server is down, it will try to establish a new handshake."
-msgstr ""
-
-msgid "Show a warning on the screen"
-msgstr ""
-
-msgid "If enabled, it will show a warning on the screen."
-msgstr ""
-
-msgid "Write the IP you find in the file"
-msgstr ""
-
-msgid "Write the IP that you find in the configuration file generated and downloaded from the website."
-msgstr ""
-
-msgid "Example:"
-msgstr ""
-
-msgid "Write your Private Key that you find in the configuration file or edit the file located in"
-msgstr ""
-
-msgid "Invalid IP, please write a valid IP"
-msgstr ""
-
-msgid "Bandwidth"
-msgstr ""
-
-msgid "The update server is unreachable"
-msgstr ""
-
-msgid "Connection to server failed!"
-msgstr ""
-
-msgid "You want to restore the connection?"
-msgstr ""
-
-msgid "WireGuard protocol missing!"
-msgstr ""
-
-msgid "Check that WireGuard is installed in your image."
-msgstr ""
-
-msgid "There appears to be a problem with your account."
-msgstr ""
-
-msgid "Try restarting yours %s"
-msgstr ""
-
-msgid "If the problem persists, check your account."
-msgstr ""
-
-msgid "I check the files"
-msgstr ""
-
-msgid "Do you want to upgrade to the new %s version?"
-msgstr ""
-
-msgid "Wireguard VPN plugin is updated"
-msgstr ""
-
-msgid "Installed version: %s"
-msgstr ""
-
-msgid "Enabling it allows you to perform an internet check when your %s starts"
-msgstr ""
-
-msgid "Set up internet control"
-msgstr ""
-
-msgid "Test performed on host: %s"
-msgstr ""
-
-msgid "%d Second"
-msgid_plural "%d Seconds"
-msgstr[0] ""
-msgstr[1] ""
+msgid " DNS servers"
+msgstr " διακομιστές DNS"
 
 msgid "%d Minute"
 msgid_plural "%d Minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d λεπτό"
+msgstr[1] "%d λεπτά"
 
-msgid "Choose a server for DNS testing"
-msgstr ""
-
-msgid "Choose a DNS test server from bash.ws or dnsleaktest.com"
-msgstr ""
-
-msgid "Set the MTU"
-msgstr ""
-
-msgid "The MTU 1384 brings benefits on packet transmission, in most cases it increases the value of download and upload"
-msgstr ""
-
-msgid "Default"
-msgstr ""
-
-msgid "DNS leak test"
-msgstr ""
-
-msgid "Check Dns Leak"
-msgstr ""
-
-msgid "The test checks for any leakage of DNS"
-msgstr ""
-
-msgid "I run the DNS Leak test"
-msgstr ""
-
-msgid "Please be patient!"
-msgstr ""
-
-msgid "Your VPN IP: "
-msgstr ""
-
-msgid "Your PUBLIC IP: "
-msgstr ""
-
-msgid "No DNS servers found"
-msgstr ""
-
-msgid "You use "
-msgstr ""
-
-msgid " DNS servers"
-msgstr ""
-
-msgid "DNS MAY BE LEAKING."
-msgstr ""
-
-msgid "PERFECT! "
-msgstr ""
-
-msgid "Conclusion: "
-msgstr ""
-
-msgid "DNS IS NOT LEAKING."
-msgstr ""
+msgid "%d Second"
+msgid_plural "%d Seconds"
+msgstr[0] "%d δευτερόλεπτο"
+msgstr[1] "%d δευτερόλεπτα"
 
 msgid "'All servers'"
 msgstr "'Όλοι οι διακομιστές'"
@@ -192,7 +42,7 @@ msgid "'Recommended servers'"
 msgstr "'Προτεινόμενοι διακομιστές'"
 
 msgid "'Server with static ip'"
-msgstr "'Διακομιστής με στατική ip'"
+msgstr "'Διακομιστές με στατική ip'"
 
 msgid "'Servers MultiHop'"
 msgstr "'Διακομιστές MultiHop'"
@@ -206,59 +56,62 @@ msgstr "(* Απαιτεί επανεκκίνηση του Gui)"
 msgid "* File located in /etc/WgConfig or /media/hdd/WgConfig"
 msgstr "* Το αρχείο βρίσκεται στο /etc/WgConfig ή στο /media/hdd/WgConfig"
 
-msgid "1) Bypass host or ip:"
-msgstr "1) Παράκαμψη host ή ip:"
-
-msgid "10) Bypass host or ip:"
-msgstr "10) Παράκαμψη host ή ip:"
-
-msgid "2) Bypass host or ip:"
-msgstr "2) Παράκαμψη host ή ip:"
-
-msgid "3) Bypass host or ip:"
-msgstr "3) Παράκαμψη host ή ip:"
-
-msgid "4) Bypass host or ip:"
-msgstr "4) Παράκαμψη host ή ip:"
-
-msgid "5) Bypass host or ip:"
-msgstr "5) Παράκαμψη host ή ip:"
-
-msgid "6) Bypass host or ip:"
-msgstr "6) Παράκαμψη host ή ip:"
-
-msgid "7) Bypass host or ip:"
-msgstr "7) Παράκαμψη host ή ip:"
-
-msgid "8) Bypass host or ip:"
-msgstr "8) Παράκαμψη host ή ip:"
-
-msgid "9) Bypass host or ip:"
-msgstr "9) Παράκαμψη host ή ip:"
+msgid "%s) Bypass host or ip"
+msgstr "%s) Παράκαμψη host ή ip"
 
 msgid "All servers"
 msgstr "Όλοι οι διακομιστές"
 
+msgid "Bandwidth"
+msgstr "Εύρος ζώνης"
+
 msgid "Bypass Wireguard"
 msgstr "Παράκαμψη Wireguard"
+
+msgid "CONNECTED"
+msgstr "ΣΥΝΔΕΔΕΜΕΝΟ"
+
+msgid "Check Dns Leak"
+msgstr "Έλεγχος διαρροής DNS"
+
+msgid "Check internet connection"
+msgstr "Έλεγχος σύνδεσης στο διαδίκτυο"
+
+msgid "Check that WireGuard is installed in your image."
+msgstr "Ελέγξτε ότι το WireGuard είναι εγκατεστημένο στο image σας."
 
 msgid "Check the length of the private key"
 msgstr "Έλεγχος μήκους του ιδιωτικού κλειδιού"
 
 msgid "Check vpn disabled"
-msgstr "Έλεγχος vpn απενεργοποιημένος"
+msgstr "Έλεγχος VPN απενεργοποιημένος"
 
 msgid "Check vpn enabled"
-msgstr "Έλεγχος vpn ενεργοποιημένος"
+msgstr "Έλεγχος VPN ενεργοποιημένος"
+
+msgid "Check your internet connection"
+msgstr "Ελέγξτε τη σύνδεσή σας στο διαδίκτυο"
 
 msgid "Checking Wireguard module"
 msgstr "Έλεγχος της μονάδας Wireguard"
 
+msgid "Choose a DNS for testing your internet connection."
+msgstr "Επιλέξτε ένα DNS για δοκιμή της σύνδεσής σας στο διαδίκτυο."
+
+msgid "Choose a DNS server."
+msgstr "Επιλέξτε έναν διακομιστή DNS."
+
+msgid "Choose a DNS test server from bash.ws or dnsleaktest.com"
+msgstr "Επιλέξτε έναν διακομιστή δοκιμής DNS από bash.ws ή dnsleaktest.com."
+
+msgid "Choose a server for DNS testing"
+msgstr "Επιλογή διακομιστή για δοκιμή DNS"
+
 msgid "Choose server and press ok"
-msgstr "Επιλέξτε διακομιστή και πατήστε OK"
+msgstr "Επιλέξτε έναν διακομιστή και πατήστε OK"
 
 msgid "Choose the directory for the PrivateKey.key file"
-msgstr "Επιλέξτε τον κατάλογο για το αρχείο PrivateKey.key"
+msgstr "Επιλέξτε τον κατάλογο για το αρχείο PrivateKey.key."
 
 msgid "Choose your VPN provider among:"
 msgstr "Επιλέξτε τον πάροχο VPN σας ανάμεσα σε:"
@@ -266,21 +119,59 @@ msgstr "Επιλέξτε τον πάροχο VPN σας ανάμεσα σε:"
 msgid "Close"
 msgstr "Κλείσιμο"
 
-msgid "CONNECTED"
-msgstr "Συνδεδεμένο"
+msgid "Conclusion: "
+msgstr "Συμπέρασμα: "
+
+msgid "Connected from: %s"
+msgstr "Συνδέθηκε στις: %s"
+
+msgid "Connection Established"
+msgstr "Η σύνδεση επιτεύχθηκε"
+
+msgid "Connection Unavailable!"
+msgstr "Η σύνδεση δεν είναι διαθέσιμη!"
+
+msgid "Connection in progress..."
+msgstr "Σύνδεση σε εξέλιξη..."
+
+msgid "Connection to server failed!"
+msgstr "Η σύνδεση με τον διακομιστή απέτυχε!"
 
 msgid "Copy/paste your Private Key and then press the Blue button"
 msgstr ""
 "Αντιγράψτε/επικολλήστε το ιδιωτικό σας κλειδί και πατήστε το μπλε κουμπί"
 
+msgid "DNS IS NOT LEAKING."
+msgstr "ΤΟ DNS ΔΕΝ ΕΧΕΙ ΔΙΑΡΡΟΗ."
+
+msgid "DNS MAY BE LEAKING."
+msgstr "ΤΟ DNS ΕΝΔΕΧΕΤΑΙ ΝΑ ΕΧΕΙ ΔΙΑΡΡΟΗ."
+
+msgid "DNS leak test"
+msgstr "Τεστ διαρροής DNS"
+
+msgid "DNS server settings"
+msgstr "Ρυθμίσεις διακομιστή DNS"
+
+msgid "DNS servers allow resolution of DNS host names to IP addresses."
+msgstr ""
+"Οι διακομιστές DNS επιτρέπουν την ανάλυση ονομάτων DNS host σε διευθύνσεις "
+"IP."
+
 msgid "Data saved correctly!"
 msgstr "Τα δεδομένα αποθηκεύτηκαν σωστά!"
+
+msgid "Default"
+msgstr "Προεπιλογή"
 
 msgid "Default is set to 16384 maximum servers to display"
 msgstr "Η προεπιλογή έχει οριστεί σε 16384 μέγιστους διακομιστές για εμφάνιση"
 
 msgid "Default is set to 500 maximum servers to display"
 msgstr "Η προεπιλογή έχει οριστεί σε 500 μέγιστους διακομιστές για εμφάνιση"
+
+msgid "Default: 10"
+msgstr "Προεπιλογή: 10"
 
 msgid "Disable ipv6"
 msgstr "Απενεργοποίηση ipv6"
@@ -293,6 +184,9 @@ msgstr "Θέλετε να επανεκκινήσετε το GUI;"
 
 msgid "Do you want to restart the network interface?"
 msgstr "Θέλετε να επανεκκινήσετε τη διασύνδεση δικτύου;"
+
+msgid "Do you want to upgrade to the new %s version?"
+msgstr "Θέλετε να κάνετε αναβάθμιση στη νέα έκδοση %s;"
 
 msgid ""
 "Double VPN, highest level of safety and security, tracking the real IP "
@@ -307,11 +201,22 @@ msgstr "Η λήψη του speedtest.png απέτυχε!"
 msgid "Enable Wireguard Vpn screen control."
 msgstr "Ενεργοποιήστε τον έλεγχο οθόνης Wireguard VPN."
 
+msgid "Enable hanshake control"
+msgstr "Ενεργοποίηση ελέγχου επικοινωνίας"
+
 msgid "Enable vpn control"
 msgstr "Ενεργοποίηση ελέγχου VPN"
 
+msgid "Enabling it allows you to perform an internet check when your %s starts"
+msgstr ""
+"Η ενεργοποίησή του επιτρέπει την εκτέλεση ελέγχου στο διαδίκτυο κατά την "
+"εκκίνηση του %s σας"
+
 msgid "Enter your Private Key"
 msgstr "Εισάγετε το ιδιωτικό σας κλειδί"
+
+msgid "Example:"
+msgstr "Παράδειγμα:"
 
 msgid "Example: 232.34.87.22"
 msgstr "Παράδειγμα: 232.34.87.22"
@@ -323,7 +228,7 @@ msgid "Exit"
 msgstr "Έξοδος"
 
 msgid "Finished restarting your network"
-msgstr "Ολοκληρώθηκε η επανεκκίνηση του δικτύου σας"
+msgstr "Η επανεκκίνηση του δικτύου σας ολοκληρώθηκε"
 
 msgid "I check Internet speedtest, be patient..."
 msgstr "Έλεγχος ταχύτητας διαδικτύου, να είστε υπομονετικοί..."
@@ -331,11 +236,50 @@ msgstr "Έλεγχος ταχύτητας διαδικτύου, να είστε 
 msgid "I check the available servers"
 msgstr "Έλεγχος των διαθέσιμων διακομιστών"
 
+msgid "I check the files"
+msgstr "Έλεγχος των αρχείων"
+
+msgid "I run the DNS Leak test"
+msgstr "Εκτέλεση δοκιμής διαρροής DNS"
+
+msgid "INFO"
+msgstr "INFO "
+
 msgid "IPv6 connections might compromise security."
 msgstr "Οι συνδέσεις IPv6 ενδέχεται να θέσουν σε κίνδυνο την ασφάλεια."
 
+msgid ""
+"If enabled, check the handshake on the server every 10 minutes. If the "
+"server is down, it will try to establish a new handshake."
+msgstr ""
+"Εάν είναι ενεργοποιημένο, ελέγχει την επικοινωνία με τον διακομιστή κάθε 10 "
+"λεπτά. Εάν ο διακομιστής είναι εκτός λειτουργίας, θα προσπαθήσει να "
+"δημιουργήσει μια νέα επικοινωνία."
+
+msgid "If enabled, it will show a warning on the screen."
+msgstr "Εάν είναι ενεργοποιημένο, θα εμφανίσει μια προειδοποίηση στην οθόνη."
+
+msgid "If the problem persists, check your account."
+msgstr "Εάν το πρόβλημα παραμένει, ελέγξτε τον λογαριασμό σας."
+
 msgid "Install update..."
 msgstr "Εγκατάσταση ενημέρωσης..."
+
+msgid "Installed version: %s"
+msgstr "Εγκατεστημένη έκδοση: %s"
+
+msgid ""
+"Internet check during restart (in Seconds), if the result is negative the "
+"VPN tunnel is not established."
+msgstr ""
+"Έλεγχος διαδικτύου κατά την επανεκκίνηση (σε δευτερόλεπτα), εάν το "
+"αποτέλεσμα είναι αρνητικό, το VPN tunnel δεν δημιουργήθηκε."
+
+msgid "Internet check while restarting"
+msgstr "Έλεγχος διαδικτύου κατά την επανεκκίνηση"
+
+msgid "Invalid IP, please write a valid IP"
+msgstr "Μη έγκυρη IP, παρακαλώ γράψτε μια έγκυρη IP"
 
 msgid "Keyboard"
 msgstr "Πληκτρολόγιο"
@@ -349,14 +293,20 @@ msgstr "Λίστα διακομιστών όπου θα έχουν πάντα τ
 msgid "Load Private Key"
 msgstr "Φόρτωση ιδιωτ. κλειδιού"
 
+msgid "NOT CONNECTED"
+msgstr "ΜΗ ΣΥΝΔΕΔΕΜΕΝΟ"
+
+msgid "No DNS servers found"
+msgstr "Δεν βρέθηκαν διακομιστές DNS"
+
 msgid "No files found!"
 msgstr "Δεν βρέθηκαν αρχεία!"
 
-msgid "NOT CONNECTED"
-msgstr "Μη συνδεδεμένο"
+msgid "PERFECT! "
+msgstr "ΤΕΛΕΙΑ! "
 
-msgid "IP"
-msgstr "IP"
+msgid "Please be patient!"
+msgstr "Παρακαλώ να είστε υπομονετικοί!"
 
 msgid "Please enter your Private Key by pressing the Green button"
 msgstr "Εισάγετε το ιδιωτικό σας κλειδί πατώντας το πράσινο κουμπί"
@@ -388,6 +338,9 @@ msgstr "Προστασία του %s σας - Από τον Madhouse"
 msgid "Put the files in %s"
 msgstr "Τοποθετήστε τα αρχεία στο %s"
 
+msgid "Quick connection"
+msgstr "Γρήγορη σύνδεση"
+
 msgid "Reboot Network Adapter"
 msgstr "Επανεκκινήστε τον προσαρμογέα δικτύου"
 
@@ -395,10 +348,10 @@ msgid "Recommended servers"
 msgstr "Προτεινόμενοι διακομιστές"
 
 msgid "Remember to insert only files with the .conf extension"
-msgstr "Θυμηθείτε να εισάγετε μόνο αρχεία με επέκταση .conf"
+msgstr "Θυμηθείτε να εισάγετε μόνο αρχεία με την επέκταση .conf."
 
 msgid "Remember to restart the GUI"
-msgstr "Θυμηθείτε να κάνετε επανεκκίνηση του GUI"
+msgstr "Θυμηθείτε να κάνετε επανεκκίνηση το GUI"
 
 msgid "Repeat test"
 msgstr "Επανάληψη δοκιμής"
@@ -421,7 +374,7 @@ msgstr "Αποθήκευση λίστας διακομιστών"
 msgid "Save the server list (will not download when starting the plugin)"
 msgstr ""
 "Αποθηκεύστε τη λίστα διακομιστών (δεν θα γίνει λήψη κατά την εκκίνηση του "
-"πρόσθετου)"
+"πρόσθετου)."
 
 msgid "Select a server and press the OK button"
 msgstr "Επιλέξτε έναν διακομιστή και πατήστε το κουμπί OK"
@@ -439,7 +392,7 @@ msgid ""
 "Select your personal files and remember to place them in the right directory"
 msgstr ""
 "Επιλέξτε τα προσωπικά σας αρχεία και θυμηθείτε να τα τοποθετήσετε στον σωστό "
-"κατάλογο"
+"κατάλογο."
 
 msgid "Select your vpn provider"
 msgstr "Επιλογή παρόχου VPN"
@@ -448,13 +401,10 @@ msgid "Server %s is Down!"
 msgstr "Ο διακομιστής %s είναι εκτός λειτουργίας!"
 
 msgid "Server list"
-msgstr "Λίστα διακομιστών"
+msgstr "Διακομιστές"
 
 msgid "Server list order"
 msgstr "Ταξινόμηση λίστας διακομιστών"
-
-msgid "Server selected"
-msgstr "Επιλεγμένος διακομιστής"
 
 msgid "Server with static ip"
 msgstr "Διακομιστής με στατική ip"
@@ -462,8 +412,11 @@ msgstr "Διακομιστής με στατική ip"
 msgid "Set a limit of servers to view"
 msgstr "Ορισμός ορίου διακομιστών για προβολή"
 
+msgid "Set the MTU"
+msgstr "Ορισμός MTU"
+
 msgid "Set the time (minutes) for Wireguard Vpn control"
-msgstr "Ορίστε τον χρόνο (λεπτά) για τον έλεγχο Wireguard Vpn"
+msgstr "Ορίστε τον χρόνο (λεπτά) για τον έλεγχο Wireguard VPN."
 
 msgid "Set the timeout"
 msgstr "Ορισμός χρονικού ορίου"
@@ -472,16 +425,22 @@ msgid "Set up a DNS"
 msgstr "Ορισμός DNS"
 
 msgid "Set up a DNS for Wireguard connection."
-msgstr "Ορίστε ένα DNS για τη σύνδεση Wireguard."
+msgstr "Ορίστε ένα DNS για τη σύνδεση του Wireguard."
+
+msgid "Set up internet control"
+msgstr "Ορισμός ελέγχου διαδικτύου"
 
 msgid "Settings"
 msgstr "Ρυθμίσεις"
 
 msgid "Show Wireguard Vpn in main menu"
-msgstr "Εμφάνιση του Wireguard Vpn στο κύριο μενού"
+msgstr "Εμφάνιση του Wireguard VPN στο κύριο μενού."
 
 msgid "Show Wireguard in the main menu"
 msgstr "Εμφάνιση Wireguard στο κύριο μενού"
+
+msgid "Show a warning on the screen"
+msgstr "Εμφάνιση προειδοποίησης στην οθόνη"
 
 msgid "Show results"
 msgstr "Εμφάνιση αποτελεσμάτων"
@@ -493,7 +452,7 @@ msgid "Show warning on screen"
 msgstr "Εμφάνιση προειδοποίησης στην οθόνη"
 
 msgid "Shows the warning duration (seconds) on the screen"
-msgstr "Εμφανίζει τη διάρκεια προειδοποίησης (δευτερόλεπτα) στην οθόνη"
+msgstr "Εμφανίζει τη διάρκεια προειδοποίησης (δευτερόλεπτα) στην οθόνη."
 
 msgid "Sort by load (ascending)"
 msgstr "Ταξινόμηση κατά φόρτωση (αύξουσα)"
@@ -502,13 +461,13 @@ msgid "Sort by server (alphabetically)"
 msgstr "Ταξινόμηση κατά διακομιστή (αλφαβητικά)"
 
 msgid "Sort the list alphabetically or by ascending load"
-msgstr "Ταξινόμηση της λίστας αλφαβητικά ή με αύξουσα φόρτωση"
+msgstr "Ταξινομήστε τη λίστα αλφαβητικά ή με αύξουσα φόρτωση."
 
 msgid "SpeedTest"
 msgstr "Δοκιμή ταχύτητας"
 
 msgid "Start Wireguard Vpn after a full reboot"
-msgstr "Εκκίνηση του Wireguard Vpn μετά από πλήρη επανεκκίνηση"
+msgstr "Εκκίνηση του Wireguard VPN μετά από πλήρη επανεκκίνηση."
 
 msgid "Start Wireguard at boot"
 msgstr "Έναρξη Wireguard κατά την εκκίνηση"
@@ -518,16 +477,26 @@ msgstr "Διακοπή διασύνδεσης Wireguard"
 
 msgid "Test completed, to test again press green button"
 msgstr ""
-"Η δοκιμή ολοκληρώθηκε, για να δοκιμάσετε ξανά πατήστε το πράσινο κουμπί"
+"Η δοκιμή ολοκληρώθηκε, για να δοκιμάσετε ξανά πατήστε το πράσινο κουμπί."
+
+msgid "Test performed on host: %s"
+msgstr "Η δοκιμή πραγματοποιήθηκε στον host: %s"
 
 msgid "Test your internet speed by Madhouse"
-msgstr "Δοκιμάστε την ταχύτητα του διαδικτύου σας από τον Madhouse"
+msgstr "Ελέγξτε την ταχύτητα του διαδικτύου σας από τον Madhouse"
 
 msgid "Testing download from"
 msgstr "Δοκιμή λήψης από"
 
 msgid "Testing upload speed"
 msgstr "Δοκιμή ταχύτητας μεταφόρτωσης"
+
+msgid ""
+"The MTU 1384 brings benefits on packet transmission, in most cases it "
+"increases the value of download and upload"
+msgstr ""
+"Το MTU 1384 φέρνει πλεονεκτήματα στη μετάδοση πακέτων, στις περισσότερες "
+"περιπτώσεις αυξάνει την τιμή λήψης και μεταφόρτωσης."
 
 msgid "The file located in /etc/PrivateKey.key is empty"
 msgstr "Το αρχείο που βρίσκεται στο /etc/PrivateKey.key είναι κενό"
@@ -543,11 +512,20 @@ msgstr ""
 msgid "The private key is incorrect"
 msgstr "Το ιδιωτικό κλειδί είναι λάθος"
 
+msgid "The test checks for any leakage of DNS"
+msgstr "Η δοκιμή ελέγχει για τυχόν διαρροή DNS."
+
+msgid "The update server is unreachable"
+msgstr "Ο διακομιστής ενημέρωσης δεν είναι προσβάσιμος"
+
+msgid "There appears to be a problem with your account."
+msgstr "Φαίνεται ότι υπάρχει πρόβλημα με τον λογαριασμό σας."
+
 msgid "This allows you to bypass wireguard"
-msgstr "Αυτό σας επιτρέπει να παρακάμψετε το wireguard"
+msgstr "Αυτό σας επιτρέπει να παρακάμψετε το Wireguard."
 
 msgid "This allows you to bypass wireguard traffic."
-msgstr "Αυτό σας επιτρέπει να παρακάμψετε την διακίνηση του wireguard.."
+msgstr "Αυτό σας επιτρέπει να παρακάμψετε την διακίνηση του Wireguard."
 
 msgid "This will not affect your network settings."
 msgstr "Αυτό δεν θα επηρεάσει τις ρυθμίσεις του δικτύου σας."
@@ -561,8 +539,14 @@ msgstr "Σύνολο διακομιστών: %s"
 msgid "Try later or"
 msgstr "Δοκιμάστε αργότερα ή"
 
+msgid "Try restarting yours %s"
+msgstr "Δοκιμάστε να επανεκκινήσετε το %s σας"
+
 msgid "Unable to get the ip of the selected server"
 msgstr "Δεν είναι δυνατή η λήψη της ip του επιλεγμένου διακομιστή"
+
+msgid "Update plugin"
+msgstr "Ενημέρωση Wguard"
 
 msgid "Use your personal files"
 msgstr "Χρήση προσωπικών σας αρχείων"
@@ -576,15 +560,41 @@ msgstr "Χρόνος προειδοποίησης στην οθόνη"
 msgid "Warning! VPN KO"
 msgstr "Προειδοποίηση! VPN KO"
 
-msgid "Wireguard status"
-msgstr "Κατάσταση Wireguard"
+msgid "WireGuard protocol missing!"
+msgstr "Λείπει το πρωτόκολλο WireGuard!"
+
+msgid "Wireguard VPN plugin is updated"
+msgstr "Το πρόσθετο Wireguard VPN είναι ενημερωμένο"
+
+msgid ""
+"Write the IP that you find in the configuration file generated and "
+"downloaded from the website."
+msgstr ""
+"Γράψτε την IP που βρίσκεται στο αρχείο διαμόρφωσης που δημιουργήθηκε και "
+"λήφθηκε από τον ιστότοπο."
+
+msgid "Write the IP you find in the file"
+msgstr "Εγγραφή IP από το αρχείο διαμόρφωσης"
 
 msgid "Write your Private Key or edit the file located in"
 msgstr ""
 "Γράψτε το ιδιωτικό σας κλειδί ή επεξεργαστείτε το αρχείο που βρίσκεται στο"
 
+msgid ""
+"Write your Private Key that you find in the configuration file or edit the "
+"file located in"
+msgstr ""
+"Γράψτε το ιδιωτικό σας κλειδί που βρίσκετε στο αρχείο διαμόρφωσης ή "
+"επεξεργαστείτε το αρχείο που βρίσκεται στο"
+
 msgid "Write your Private key"
 msgstr "Εγγραφή ιδιωτικού σας κλειδιού"
+
+msgid "You use "
+msgstr "Χρησιμοποιείτε "
+
+msgid "You want to restore the connection?"
+msgstr "Θέλετε να επαναφέρετε τη σύνδεση;"
 
 msgid "You want to stop the %s server?"
 msgstr "Θέλετε να σταματήσετε τον διακομιστή %s;"
@@ -592,8 +602,11 @@ msgstr "Θέλετε να σταματήσετε τον διακομιστή %s;
 msgid "You will have the complete list of servers."
 msgstr "Θα έχετε την πλήρη λίστα των διακομιστών."
 
-msgid "Check your internet connection"
-msgstr "Ελέγξτε τη σύνδεσή σας στο διαδίκτυο"
+msgid "Your PUBLIC IP: "
+msgstr "Η ΔΗΜΟΣΙΑ IP σας: "
+
+msgid "Your VPN IP: "
+msgstr "Η VPN IP σας: "
 
 msgid ""
 "it will take longer to process the servers, you will have the complete list "
@@ -615,5 +628,5 @@ msgid ""
 "you will have the list of recommended servers, it will take less time to "
 "process the list."
 msgstr ""
-"Θα έχετε τη λίστα των προτεινόμενων διακομιστών, θα χρειαστεί λιγότερος "
+"θα έχετε τη λίστα των προτεινόμενων διακομιστών, θα χρειαστεί λιγότερος "
 "χρόνος για την επεξεργασία της λίστας."

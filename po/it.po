@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-05-17 16:30+0100\n"
+"PO-Revision-Date: 2024-05-20 16:30+0100\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: Madhouse <anonm4d@gmail.com>\n"
 "Language: it\n"
@@ -12,6 +12,12 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Add bypasses"
+msgstr "Aggiungi i bypass"
+
+msgid "Add host/ip number to bypass WireGuard."
+msgstr "Aggiungi il numero di host/ip per bypassare WireGuard."
 
 msgid "The ' %s ' host (bypass) is unreachable.\n"
 msgstr "L'host ' %s ' (bypass) non è raggiungibile.\n"
@@ -266,35 +272,8 @@ msgstr "Bypass Wireguard"
 msgid "This allows you to bypass wireguard"
 msgstr "Ciò consente di bypassare wireguard"
 
-msgid "1) Bypass host or ip:"
-msgstr "1) Ignora host o ip:"
-
-msgid "2) Bypass host or ip:"
-msgstr "2) Ignora host o ip:"
-
-msgid "3) Bypass host or ip:"
-msgstr "3) Ignora host o ip:"
-
-msgid "4) Bypass host or ip:"
-msgstr "4) Ignora host o ip:"
-
-msgid "5) Bypass host or ip:"
-msgstr "5) Ignora host o ip:"
-
-msgid "6) Bypass host or ip:"
-msgstr "6) Ignora host o ip:"
-
-msgid "7) Bypass host or ip:"
-msgstr "7) Ignora host o ip:"
-
-msgid "8) Bypass host or ip:"
-msgstr "8) Ignora host o ip:"
-
-msgid "9) Bypass host or ip:"
-msgstr "9) Ignora host o ip:"
-
-msgid "10) Bypass host or ip:"
-msgstr "10) Ignora host o ip:"
+msgid "%s) Bypass host or ip"
+msgstr "%s) Ignora host o ip"
 
 msgid "This allows you to bypass wireguard traffic."
 msgstr "Ciò consente di bypassare il traffico wireguard."
@@ -305,8 +284,8 @@ msgstr "Esempio: wireguard.no-ip.biz"
 msgid "Example: 232.34.87.22"
 msgstr "Esempio: 232.34.87.22"
 
-msgid "* File located in /etc/WgConfig or /media/hdd/WgConfig"
-msgstr "* File situato in /etc/WgConfig o /media/hdd/WgConfig"
+msgid "* File located in /etc/WgConfig or /media/hdd/WgConfig or /media/usb/WgConfig"
+msgstr "* File situato in /etc/WgConfig o /media/hdd/WgConfig o /media/usb/WgConfig"
 
 msgid "Unable to get the ip of the selected server"
 msgstr "Impossibile ottenere l'ip del server selezionato"

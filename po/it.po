@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-05-20 16:30+0100\n"
+"PO-Revision-Date: 2024-05-23 16:30+0100\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: Madhouse <anonm4d@gmail.com>\n"
 "Language: it\n"
@@ -12,6 +12,45 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Edit the file located in /etc/wg_token.key and paste your access token."
+msgstr "Edita il file situato in /etc/wg_token.key e incolla il tuo token di accesso."
+
+msgid "Failed to retrieve Nordlynx Private Key."
+msgstr "Impossibile recuperare la Chiave Privata Nordlynx."
+
+msgid "Private key"
+msgstr "Chiave Privata"
+
+msgid "Write or load your Private Key."
+msgstr "Scrivi o carica la tua Chiave Privata."
+
+msgid "Access via Token"
+msgstr "Accesso via Token"
+
+msgid "Create your access token via the NordVpn website."
+msgstr "Crea il tuo token di accesso tramite il sito web di NordVpn."
+
+msgid "Load the access token with the BLUE button."
+msgstr "Carica il token di accesso con il pulsante BLU."
+
+msgid "Select the type of access"
+msgstr "Seleziona il tipo di accesso"
+
+msgid "Load token access"
+msgstr "Carica il token"
+
+msgid "Kill switch enabled"
+msgstr "Kill switch abilitato"
+
+msgid "Enable Kill switch"
+msgstr "Abilita il Kill switch"
+
+msgid "If your VPN connection drops, a kill switch cuts off your internet connection."
+msgstr "Se la tua connessione VPN cade, un kill switch interrompe la connessione internet."
+
+msgid "If the connection drops and you would like to restore it, disable the Kill switch, then Save."
+msgstr "Se la connessione si interrompe e desideri ripristinarla, disattiva il Kill switch, dopo Salva."
 
 msgid "Add bypasses"
 msgstr "Aggiungi i bypass"

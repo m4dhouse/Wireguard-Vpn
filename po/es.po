@@ -14,6 +14,45 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "Edit the file located in /etc/wg_token.key and paste your access token."
+msgstr ""
+
+msgid "Failed to retrieve Nordlynx Private Key."
+msgstr ""
+
+msgid "Private key"
+msgstr ""
+
+msgid "Write or load your Private Key."
+msgstr ""
+
+msgid "Access via Token"
+msgstr ""
+
+msgid "Create your access token via the NordVpn website."
+msgstr ""
+
+msgid "Load the access token with the BLUE button."
+msgstr ""
+
+msgid "Select the type of access"
+msgstr ""
+
+msgid "Load token access"
+msgstr ""
+
+msgid "Kill switch enabled"
+msgstr ""
+
+msgid "Enable Kill switch"
+msgstr ""
+
+msgid "If your VPN connection drops, a kill switch cuts off your internet connection."
+msgstr ""
+
+msgid "If the connection drops and you would like to restore it, disable the Kill switch, then Save."
+msgstr ""
+
 msgid "Add bypasses"
 msgstr ""
 

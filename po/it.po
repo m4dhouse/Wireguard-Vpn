@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-05-23 16:30+0100\n"
+"PO-Revision-Date: 2024-05-31 16:30+0100\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: Madhouse <anonm4d@gmail.com>\n"
 "Language: it\n"
@@ -12,6 +12,12 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Your private key"
+msgstr "La tua chiave privata"
+
+msgid "has been imported successfully."
+msgstr "è stata importata con successo."
 
 msgid "Edit the file located in /etc/wg_token.key and paste your access token."
 msgstr "Edita il file situato in /etc/wg_token.key e incolla il tuo token di accesso."
@@ -605,14 +611,8 @@ msgstr "Ordina per server (in ordine alfabetico)"
 msgid "Sort the list alphabetically or by ascending load"
 msgstr "Ordina l'elenco in ordine alfabetico o per carico (crescente)"
 
-msgid "The file located in /etc/PrivateKey.key is empty"
-msgstr "Il file che si trova in /etc/PrivateKey.key è vuoto"
-
-msgid "The file located in /media/hdd/WgConfig/PrivateKey.key is empty"
-msgstr "Il file che si trova in /media/hdd/WgConfig/PrivateKey.key è vuoto"
-
-msgid "The file located in /media/usb/WgConfig/PrivateKey.key is empty"
-msgstr "Il file che si trova in /media/usb/WgConfig/PrivateKey.key è vuoto"
+msgid "The file located in %s is empty."
+msgstr "Il file che si trova in %s è vuoto."
 
 msgid "Copy/paste your Private Key and then press the Blue button"
 msgstr "Copia/incolla la tua Chiave Privata e poi premi il pulsante Blu"

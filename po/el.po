@@ -13,6 +13,12 @@ msgstr ""
 "X-Generator: Poedit 3.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "Your private key"
+msgstr ""
+
+msgid "has been imported successfully."
+msgstr ""
+
 msgid "Edit the file located in /etc/wg_token.key and paste your access token."
 msgstr ""
 
@@ -537,16 +543,8 @@ msgstr ""
 "Το MTU 1384 φέρνει πλεονεκτήματα στη μετάδοση πακέτων, στις περισσότερες "
 "περιπτώσεις αυξάνει την τιμή λήψης και μεταφόρτωσης."
 
-msgid "The file located in /etc/PrivateKey.key is empty"
-msgstr "Το αρχείο που βρίσκεται στο /etc/PrivateKey.key είναι κενό"
-
-msgid "The file located in /media/hdd/WgConfig/PrivateKey.key is empty"
-msgstr ""
-"Το αρχείο που βρίσκεται στο /media/hdd/WgConfig/PrivateKey.key είναι κενό"
-
-msgid "The file located in /media/usb/WgConfig/PrivateKey.key is empty"
-msgstr ""
-"Το αρχείο που βρίσκεται στο /media/usb/WgConfig/PrivateKey.key είναι κενό"
+msgid "The file located in %s is empty."
+msgstr "Το αρχείο που βρίσκεται στο %s είναι κενό."
 
 msgid "The private key is incorrect"
 msgstr "Το ιδιωτικό κλειδί είναι λάθος"

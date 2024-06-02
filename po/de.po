@@ -14,6 +14,12 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "Your private key"
+msgstr ""
+
+msgid "has been imported successfully."
+msgstr ""
+
 msgid "Edit the file located in /etc/wg_token.key and paste your access token."
 msgstr ""
 
@@ -607,14 +613,8 @@ msgstr "Sortierung nach Server (alphabetisch)"
 msgid "Sort the list alphabetically or by ascending load"
 msgstr "Sortiere die Liste alphabetisch oder nach aufsteigender Last"
 
-msgid "The file located in /etc/PrivateKey.key is empty"
-msgstr "Die Datei in /etc/PrivateKey.key ist leer"
-
-msgid "The file located in /media/hdd/WgConfig/PrivateKey.key is empty"
-msgstr "Die Datei im Verzeichnis /media/hdd/WgConfig/PrivateKey.key ist leer"
-
-msgid "The file located in /media/usb/WgConfig/PrivateKey.key is empty"
-msgstr "Die Datei in /media/usb/WgConfig/PrivateKey.key ist leer"
+msgid "The file located in %s is empty."
+msgstr "Die Datei in %s ist leer."
 
 msgid "Copy/paste your Private Key and then press the Blue button"
 msgstr "Kopieren/Einfügen Sie Ihren privaten Schlüssel und drücken Sie dann die blaue Taste"

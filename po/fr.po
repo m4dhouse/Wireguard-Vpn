@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-06-03 22:41+0200\n"
+"PO-Revision-Date: 2024-06-06 22:05+0200\n"
 "Last-Translator: Gruick1\n"
 "Language-Team: your_name <your_email@gmail.com>\n"
 "Language: fr\n"
@@ -14,11 +14,29 @@ msgstr ""
 "X-Generator: Poedit 3.4.4\n"
 "X-Poedit-SourceCharset: iso-8859-15\n"
 
-msgid "Show update message"
+msgid "Write your account number"
 msgstr ""
 
-msgid "Show a message if there is an update."
+msgid "Write your account number generated during subscription."
 msgstr ""
+
+msgid "Enter your account number!"
+msgstr ""
+
+msgid "Do you want to generate your Mullvad account data?"
+msgstr ""
+
+msgid "Mullvad account does not exist!"
+msgstr ""
+
+msgid "Update plugin"
+msgstr "Mise à jour"
+
+msgid "Show update message"
+msgstr "Afficher le message de mise à jour"
+
+msgid "Show a message if there is an update."
+msgstr "Afficher un message en cas de mise à jour."
 
 msgid "Your private key"
 msgstr "Votre clé privé"
@@ -39,13 +57,13 @@ msgid "Write or load your Private Key."
 msgstr "Ecrire ou charger votre clé privée."
 
 msgid "Access via Token"
-msgstr "Accès  via Jeton"
+msgstr "Accès par Jeton"
 
 msgid "Create your access token via the NordVpn website."
 msgstr "Créer votre  jeton accès via le site web NordVpn."
 
 msgid "Load the access token with the BLUE button."
-msgstr "Chargez le jeton d’accès avec le bouton BLEU."
+msgstr "Appuyez sur le bouton BLEU pour charger le jeton d'accès."
 
 msgid "Select the type of access"
 msgstr "Sélectionnez le type d’accès"
@@ -174,13 +192,13 @@ msgid "Choose a DNS test server from bash.ws or dnsleaktest.com"
 msgstr "Choisissez un serveur de test DNS à partir de bash.ws ou dnsleaktest.com"
 
 msgid "Set the MTU"
-msgstr "Définir leMTU"
+msgstr "Définir le MTU"
 
 msgid "The MTU 1384 brings benefits on packet transmission, in most cases it increases the value of download and upload"
 msgstr "Le MTU 1384 apporte des avantages sur la transmission de paquets, dans la plupart des cas il augmente la valeur du téléchargement et de l'upload"
 
 msgid "Default"
-msgstr "Defaut"
+msgstr "Défaut"
 
 msgid "DNS leak test"
 msgstr "Test de fuite DNS"
@@ -258,10 +276,10 @@ msgid "Use your personal files"
 msgstr "Utilisez vos fichiers personnels"
 
 msgid "Select your personal files and remember to place them in the right directory"
-msgstr "Sélectionnez vos fichiers personnels et pensez à les placer dans le bon répertoire"
+msgstr "Sélectionner vos fichiers personnels et pensez à les placer dans le bon répertoire"
 
 msgid "Select the file directory"
-msgstr "Sélectionnez le répertoire du fichier"
+msgstr "Sélectionner le répertoire du fichier"
 
 msgid "%d Second"
 msgid_plural "%d Seconds"
@@ -280,7 +298,7 @@ msgid "No files found!"
 msgstr "Aucun fichier trouvé!"
 
 msgid "Put the files in %s"
-msgstr "Mettez les fichiers dans %s"
+msgstr "Mettre les fichiers dans %s"
 
 msgid "Total files: %s"
 msgstr "Nombre total de fichiers : %s"
@@ -310,7 +328,7 @@ msgid "The private key is incorrect"
 msgstr "La clé privée est incorrecte"
 
 msgid "Check the length of the private key"
-msgstr "Vérifiez la longueur de la clé privée"
+msgstr "Vérifier la longueur de la clé privée"
 
 msgid "Internet check while restarting"
 msgstr "Vérification internet au redémarrage"
@@ -364,7 +382,7 @@ msgid "Download speedtest.png failed!"
 msgstr "Téléchargement speedtest.png a échoué !"
 
 msgid "Press MENU to update"
-msgstr "Appuyez sur MENU pour mettre à jour"
+msgstr "Appuyer sur MENU pour mettre à jour"
 
 msgid "Install update..."
 msgstr "Installe la mise à jour..."
@@ -376,7 +394,7 @@ msgid "Close"
 msgstr "Fermer"
 
 msgid "Save"
-msgstr "Enregistrez"
+msgstr "Enregistrer"
 
 msgid "Keyboard"
 msgstr "Clavier"
@@ -451,10 +469,10 @@ msgid "Stopping Wireguard interface"
 msgstr "Arrêt de l’interface Wireguard"
 
 msgid "NOT CONNECTED"
-msgstr "PAS CONNECTE"
+msgstr "NON CONNECTÉ"
 
 msgid "CONNECTED"
-msgstr "CONNECTE"
+msgstr "CONNECTÉ"
 
 msgid "Disconnect"
 msgstr "Déconnecter"
@@ -508,10 +526,10 @@ msgid "Privatekey file directory"
 msgstr "Répertoire de fichiers de clé privée"
 
 msgid "Save the server list (will not download when starting the plugin)"
-msgstr "Enregistrez la liste des serveurs (ne sera pas téléchargée au démarrage du plugin)"
+msgstr "Sauvegarder la liste des serveurs (ne sera pas téléchargée au démarrage du plugin)"
 
 msgid "Enable vpn control"
-msgstr "Activer contrôle vpn"
+msgstr "Activer le contrôle vpn"
 
 msgid "Enable Wireguard Vpn screen control."
 msgstr "Activer le contrôle d’écran Wireguard Vpn."

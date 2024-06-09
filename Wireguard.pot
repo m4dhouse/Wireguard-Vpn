@@ -171,6 +171,9 @@ msgstr ""
 msgid "DNS servers allow resolution of DNS host names to IP addresses."
 msgstr ""
 
+msgid "Do you want to generate your Mullvad account data?"
+msgstr ""
+
 msgid "Do you want to restart the GUI?"
 msgstr ""
 
@@ -187,6 +190,9 @@ msgid "Download speedtest.png failed!"
 msgstr ""
 
 msgid "Edit the file located in /etc/wg_token.key and paste your access token."
+msgstr ""
+
+msgid "Enter your account number!"
 msgstr ""
 
 msgid "Enable hanshake control"
@@ -298,6 +304,9 @@ msgid "Load the access token with the BLUE button."
 msgstr ""
 
 msgid "Load token access"
+msgstr ""
+
+msgid "Mullvad account does not exist!"
 msgstr ""
 
 msgid "No DNS servers found"
@@ -555,6 +564,9 @@ msgstr ""
 msgid "Unable to get the ip of the selected server"
 msgstr ""
 
+msgid "Update plugin"
+msgstr ""
+
 msgid "Use your personal files"
 msgstr ""
 
@@ -589,6 +601,12 @@ msgid "Write your Private Key that you find in the configuration file or edit th
 msgstr ""
 
 msgid "Write your Private key"
+msgstr ""
+
+msgid "Write your account number"
+msgstr ""
+
+msgid "Write your account number generated during subscription."
 msgstr ""
 
 msgid "You use "

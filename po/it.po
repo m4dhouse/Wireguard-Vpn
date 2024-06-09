@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-04 16:30+0100\n"
+"PO-Revision-Date: 2024-06-09 16:30+0100\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: Madhouse <anonm4d@gmail.com>\n"
 "Language: it\n"
@@ -12,6 +12,24 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Write your account number"
+msgstr "Scrivi il numero del tuo account"
+
+msgid "Write your account number generated during subscription."
+msgstr "Scrivi il numero del tuo account generato durante la sottoscrizione dell'abbonamento."
+
+msgid "Enter your account number!"
+msgstr "Inserisci il tuo numero del tuo account!"
+
+msgid "Do you want to generate your Mullvad account data?"
+msgstr "Vuoi generare i dati del tuo account Mullvad?"
+
+msgid "Mullvad account does not exist!"
+msgstr "L'account inserito di Mullvad non esiste!"
+
+msgid "Update plugin"
+msgstr "Aggiorna plugin"
 
 msgid "Show update message"
 msgstr "Mostra messaggio aggiornamento"

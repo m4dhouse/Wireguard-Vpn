@@ -132,6 +132,12 @@ msgstr ""
 msgid "Copy/paste your Private Key and then press the Blue button"
 msgstr ""
 
+msgid "Create a backup script"
+msgstr ""
+
+msgid "Create a backup of your configurations to be able to restore it in a new image. The backup (wireguard_backup.sh script) will be saved in:"
+msgstr ""
+
 msgid "Create your access token via the NordVpn website."
 msgstr ""
 

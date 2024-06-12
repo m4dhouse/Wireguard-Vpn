@@ -14,6 +14,12 @@ msgstr ""
 "X-Generator: Poedit 3.4.4\n"
 "X-Poedit-SourceCharset: iso-8859-15\n"
 
+msgid "Create a backup script"
+msgstr ""
+
+msgid "Create a backup of your configurations to be able to restore it in a new image. The backup (wireguard_backup.sh script) will be saved in:"
+msgstr ""
+
 msgid "Write your account number"
 msgstr ""
 

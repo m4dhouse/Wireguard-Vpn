@@ -15,10 +15,10 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 
 msgid "Create a backup script"
-msgstr ""
+msgstr "Erstellen eines Sicherungsskripts"
 
 msgid "Create a backup of your configurations to be able to restore it in a new image. The backup (wireguard_backup.sh script) will be saved in:"
-msgstr ""
+msgstr "Erstellen Sie eine Sicherung Ihrer Konfigurationen, um sie in einem neuen Image wiederherstellen zu können. Die Sicherung (Skript wireguard_backup.sh) wird gespeichert in:"
 
 msgid "Write your account number"
 msgstr "Geben Sie Ihre Kontonummer ein"
@@ -234,7 +234,7 @@ msgid "Your VPN IP: "
 msgstr "Ihre VPN IP: "
 
 msgid "Your PUBLIC IP: "
-msgstr "Ihre PUBLIC IP: "
+msgstr "Ihre ÖFFENTLICHE IP: "
 
 msgid "No DNS servers found"
 msgstr "Keine DNS-Server gefunden"
@@ -345,7 +345,7 @@ msgid "Check the length of the private key"
 msgstr "Überprüfe die Länge des privaten Schlüssels"
 
 msgid "Bypass Wireguard"
-msgstr "Bypass Wireguard"
+msgstr "Wireguard umgehen"
 
 msgid "This allows you to bypass wireguard"
 msgstr "Damit können Sie Wireguard umgehen"
@@ -495,10 +495,10 @@ msgid "CONNECTED"
 msgstr "VERBUNDEN"
 
 msgid "Disconnect"
-msgstr "Getrennt"
+msgstr "Trennen"
 
 msgid "PUBLIC IP"
-msgstr "PUBLIC IP"
+msgstr "ÖFFENTLICHE IP"
 
 msgid "Please wait for the network adapter to restart"
 msgstr "Bitte warten Sie auf den Neustart des Netzwerkadapters"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-06-06 22:05+0200\n"
+"PO-Revision-Date: 2024-06-13 22:31+0200\n"
 "Last-Translator: Gruick1\n"
 "Language-Team: your_name <your_email@gmail.com>\n"
 "Language: fr\n"
@@ -15,25 +15,25 @@ msgstr ""
 "X-Poedit-SourceCharset: iso-8859-15\n"
 
 msgid "Create a backup script"
-msgstr ""
+msgstr "Créer un script de sauvegarde"
 
 msgid "Create a backup of your configurations to be able to restore it in a new image. The backup (wireguard_backup.sh script) will be saved in:"
-msgstr ""
+msgstr "Créer une sauvegarde de vos configurations pour pouvoir les restaurer dans une nouvelle image. La sauvegarde (script wireguard_backup.sh) sera enregistrée dans :"
 
 msgid "Write your account number"
-msgstr ""
+msgstr "Inscrivez votre numéro de compte"
 
 msgid "Write your account number generated during subscription."
-msgstr ""
+msgstr "Inscrivez votre numéro de compte généré lors de l'inscription."
 
 msgid "Enter your account number!"
-msgstr ""
+msgstr "Saisissez votre numéro de compte !"
 
 msgid "Do you want to generate your Mullvad account data?"
-msgstr ""
+msgstr "Vous souhaitez générer les données de votre compte Mullvad ?"
 
 msgid "Mullvad account does not exist!"
-msgstr ""
+msgstr "Le compte Mullvad n'existe pas !"
 
 msgid "Update plugin"
 msgstr "Mise à jour"
@@ -45,7 +45,7 @@ msgid "Show a message if there is an update."
 msgstr "Afficher un message en cas de mise à jour."
 
 msgid "Your private key"
-msgstr "Votre clé privé"
+msgstr "Votre clé privée"
 
 msgid "has been imported successfully."
 msgstr "a été importé avec succès."

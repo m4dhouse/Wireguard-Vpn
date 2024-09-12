@@ -140,11 +140,11 @@ msgstr "Η σύνδεση δεν είναι διαθέσιμη!"
 msgid "Copy/paste your Private Key and then press the Blue button"
 msgstr "Αντιγράψτε/επικολλήστε το ιδιωτικό σας κλειδί και πατήστε το μπλε κουμπί"
 
-msgid "Create a backup script"
-msgstr "Δημιουργία script αντιγράφου ασφαλείας"
+msgid "Create a backup"
+msgstr "Δημιουργία shell αντιγράφου ασφαλείας"
 
-msgid "Create a backup of your configurations to be able to restore it in a new image. The backup (wireguard_backup.sh script) will be saved in:"
-msgstr "Δημιουργήστε ένα αντίγραφο ασφαλείας των διαμορφώσεών σας για να μπορείτε να τις επαναφέρετε σε ένα νέο image. Το αντίγραφο ασφαλείας (wireguard_backup.sh script) θα αποθηκευτεί στο:"
+msgid "Create a backup of your configurations to be able to restore it in a new image. The backup (wireguard_backup.sh shell) will be saved in:"
+msgstr "Δημιουργήστε ένα αντίγραφο ασφαλείας των διαμορφώσεών σας για να μπορείτε να τις επαναφέρετε σε ένα νέο image. Το αντίγραφο ασφαλείας (wireguard_backup.sh shell) θα αποθηκευτεί στο:"
 
 msgid "Create your access token via the NordVpn website."
 msgstr "Δημιουργήστε το token πρόσβασής σας μέσω του ιστότοπου NordVpn."

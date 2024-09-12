@@ -23,10 +23,10 @@ msgstr ""
 msgid "Unable to write to file."
 msgstr ""
 
-msgid "Create a backup script"
+msgid "Create a backup"
 msgstr ""
 
-msgid "Create a backup of your configurations to be able to restore it in a new image. The backup (wireguard_backup.sh script) will be saved in:"
+msgid "Create a backup of your configurations to be able to restore it in a new image. The backup (wireguard_backup.sh shell) will be saved in:"
 msgstr ""
 
 msgid "Write your account number"

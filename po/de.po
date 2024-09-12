@@ -4,8 +4,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2024-04-30 21:22+0100\n"
-"Last-Translator: Pike_Bishop\n"
-"Language-Team: Madhouse <anonm4d@gmail.com>\n"
+"Last-Translator: Tommy007\n"
+"Language-Team: Tommy007 <xxxxxx@gmail.com>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 
 msgid "The host %s ' %s ' is duplicated.\n"
-msgstr ""
+msgstr "Der Host %s ' %s ' ist dupliziert.\n"
 
 msgid "Error creating backup file: Out of disk space %s."
 msgstr "Fehler beim Erstellen der Sicherungsdatei: Nicht genügend Speicherplatz %s."
@@ -23,11 +23,11 @@ msgstr "Fehler beim Erstellen der Sicherungsdatei: Nicht genügend Speicherplatz
 msgid "Unable to write to file."
 msgstr "Datei kann nicht geschrieben werden."
 
-msgid "Create a backup script"
+msgid "Create a backup"
 msgstr "Erstellen eines Sicherungsskripts"
 
-msgid "Create a backup of your configurations to be able to restore it in a new image. The backup (wireguard_backup.sh script) will be saved in:"
-msgstr "Erstellen Sie eine Sicherung Ihrer Konfigurationen, um sie in einem neuen Image wiederherstellen zu können. Die Sicherung (Skript wireguard_backup.sh) wird gespeichert in:"
+msgid "Create a backup of your configurations to be able to restore it in a new image. The backup (wireguard_backup.sh shell) will be saved in:"
+msgstr "Erstellen Sie eine Sicherung Ihrer Konfigurationen, um sie in einem neuen Image wiederherstellen zu können. Die Sicherung (Shell wireguard_backup.sh) wird gespeichert in:"
 
 msgid "Write your account number"
 msgstr "Geben Sie Ihre Kontonummer ein"
@@ -183,7 +183,7 @@ msgid "There appears to be a problem with your account."
 msgstr "Es scheint ein Problem mit Ihrem Konto zu geben."
 
 msgid "Try restarting yours %s"
-msgstr "Versuchen Sie einen Neustart Ihres %s"
+msgstr "Versuchen Sie einen Neustart Ihrer %s"
 
 msgid "If the problem persists, check your account."
 msgstr "Wenn das Problem weiterhin besteht, überprüfen Sie Ihr Konto."
@@ -423,7 +423,7 @@ msgid "I check the available servers"
 msgstr "Ich prüfe die verfügbaren Server"
 
 msgid "Repeat test"
-msgstr "Wiederhole den Test"
+msgstr "Test wiederholen"
 
 msgid "Result successfully saved in /tmp/speedtest.png"
 msgstr "Ergebnis erfolgreich in /tmp/speedtest.png gespeichert"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-16 16:30+0100\n"
+"PO-Revision-Date: 2024-06-20 16:30+0100\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: Madhouse <anonm4d@gmail.com>\n"
 "Language: it\n"
@@ -13,17 +13,20 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "The host %s ' %s ' is duplicated.\n"
+msgstr "L'host %s ' %s ' è un duplicato.\n"
+
 msgid "Error creating backup file: Out of disk space %s."
 msgstr "Errore durante la creazione del file di backup: spazio su disco %s insufficiente."
 
 msgid "Unable to write to file."
 msgstr "Impossibile scrivere sul file."
 
-msgid "Create a backup script"
-msgstr "Crea uno script per il backup"
+msgid "Create a backup"
+msgstr "Crea uno backup"
 
-msgid "Create a backup of your configurations to be able to restore it in a new image. The backup (wireguard_backup.sh script) will be saved in:"
-msgstr "Crea un backup delle tue configurazioni per poterlo ripristinare in una nuova immagine. Il backup (script wireguard_backup.sh) verrà salvato in:"
+msgid "Create a backup of your configurations to be able to restore it in a new image. The backup (wireguard_backup.sh shell) will be saved in:"
+msgstr "Crea un backup delle tue configurazioni per poterlo ripristinare in una nuova immagine. Il backup (shell wireguard_backup.sh) verrà salvato in:"
 
 msgid "Write your account number"
 msgstr "Scrivi il numero del tuo account"

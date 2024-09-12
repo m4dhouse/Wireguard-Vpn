@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-19 16:48+0000\n"
-"PO-Revision-Date: 2024-06-12 20:30+0300\n"
+"PO-Revision-Date: 2024-06-16 23:12+0300\n"
 "Last-Translator: \n"
 "Language-Team: giorbak\n"
 "Language: el\n"
@@ -14,17 +14,20 @@ msgstr ""
 "X-Generator: Poedit 3.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
-msgid "Error creating backup file: Out of disk space %s."
+msgid "The host %s ' %s ' is duplicated.\n"
 msgstr ""
 
+msgid "Error creating backup file: Out of disk space %s."
+msgstr "Σφάλμα κατά τη δημιουργία του αρχείου αντιγράφου ασφαλείας: Δεν υπάρχει χώρος στο δίσκο %s."
+
 msgid "Unable to write to file."
-msgstr ""
+msgstr "Δεν είναι δυνατή η εγγραφή στο αρχείο."
 
 msgid " DNS servers"
 msgstr " διακομιστές DNS"
 
 msgid "'All servers'"
-msgstr "'Όλοι οι διακομιστές '"
+msgstr "'Όλοι οι διακομιστές'"
 
 msgid "'Recommended servers'"
 msgstr "'Προτεινόμενοι διακομιστές'"
@@ -137,11 +140,11 @@ msgstr "Η σύνδεση δεν είναι διαθέσιμη!"
 msgid "Copy/paste your Private Key and then press the Blue button"
 msgstr "Αντιγράψτε/επικολλήστε το ιδιωτικό σας κλειδί και πατήστε το μπλε κουμπί"
 
-msgid "Create a backup script"
-msgstr "Δημιουργία script αντιγράφου ασφαλείας"
+msgid "Create a backup"
+msgstr "Δημιουργία shell αντιγράφου ασφαλείας"
 
-msgid "Create a backup of your configurations to be able to restore it in a new image. The backup (wireguard_backup.sh script) will be saved in:"
-msgstr "Δημιουργήστε ένα αντίγραφο ασφαλείας των διαμορφώσεών σας για να μπορείτε να τις επαναφέρετε σε ένα νέο image. Το αντίγραφο ασφαλείας (wireguard_backup.sh script) θα αποθηκευτεί στο:"
+msgid "Create a backup of your configurations to be able to restore it in a new image. The backup (wireguard_backup.sh shell) will be saved in:"
+msgstr "Δημιουργήστε ένα αντίγραφο ασφαλείας των διαμορφώσεών σας για να μπορείτε να τις επαναφέρετε σε ένα νέο image. Το αντίγραφο ασφαλείας (wireguard_backup.sh shell) θα αποθηκευτεί στο:"
 
 msgid "Create your access token via the NordVpn website."
 msgstr "Δημιουργήστε το token πρόσβασής σας μέσω του ιστότοπου NordVpn."
@@ -528,7 +531,7 @@ msgid "Testing upload speed"
 msgstr "Δοκιμή ταχύτητας μεταφόρτωσης"
 
 msgid "The ' %s ' host (bypass) is unreachable.\n"
-msgstr "Ο host ' %s' (παράκαμψη) δεν είναι προσβάσιμος.\n"
+msgstr "Ο host ' %s ' (παράκαμψη) δεν είναι προσβάσιμος.\n"
 
 msgid "The file located in %s is empty."
 msgstr "Το αρχείο που βρίσκεται στο %s είναι κενό."

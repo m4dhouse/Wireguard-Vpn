@@ -14,6 +14,9 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "Restart enigma2 to apply the update."
+msgstr ""
+
 msgid "The host %s ' %s ' is duplicated.\n"
 msgstr "Der Host %s ' %s ' ist dupliziert.\n"
 

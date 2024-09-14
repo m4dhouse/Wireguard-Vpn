@@ -387,6 +387,9 @@ msgstr ""
 msgid "Remember to restart the GUI"
 msgstr ""
 
+msgid "Restart enigma2 to apply the update."
+msgstr ""
+
 msgid "Repeat test"
 msgstr ""
 

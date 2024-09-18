@@ -14,6 +14,12 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "Sort the list alphabetically or by ascending bandwidth"
+msgstr ""
+
+msgid "Sort by bandwidth (ascending)"
+msgstr ""
+
 msgid "Restart enigma2 to apply the update."
 msgstr ""
 

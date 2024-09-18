@@ -501,7 +501,13 @@ msgstr ""
 msgid "Sort by server (alphabetically)"
 msgstr ""
 
+msgid "Sort by bandwidth (ascending)"
+msgstr ""
+
 msgid "Sort the list alphabetically or by ascending load"
+msgstr ""
+
+msgid "Sort the list alphabetically or by ascending bandwidth"
 msgstr ""
 
 msgid "Start Wireguard at boot"

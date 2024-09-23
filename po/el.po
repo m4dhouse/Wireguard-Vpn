@@ -14,6 +14,12 @@ msgstr ""
 "X-Generator: Poedit 3.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "Days"
+msgstr "ημέρες"
+
+msgid "Do you want to view the latest Changelog?"
+msgstr "Θέλετε να δείτε το πιο πρόσφατο αρχείο καταγραφής αλλαγών;"
+
 msgid "Sort the list alphabetically or by ascending bandwidth"
 msgstr "Ταξινομήστε τη λίστα αλφαβητικά ή με αύξουσα σειρά εύρους ζώνης"
 
@@ -146,8 +152,8 @@ msgstr "Εγγραφή IP από το αρχείο διαμόρφωσης"
 msgid "Write the IP that you find in the configuration file generated and downloaded from the website."
 msgstr "Γράψτε την IP που βρίσκεται στο αρχείο διαμόρφωσης που δημιουργήθηκε και λήφθηκε από τον ιστότοπο."
 
-msgid "Connected from: %s"
-msgstr "Συνδέθηκε στις: %s"
+msgid "Connected by: %s"
+msgstr "Συνδέθηκε από: %s"
 
 msgid "Example:"
 msgstr "Παράδειγμα:"

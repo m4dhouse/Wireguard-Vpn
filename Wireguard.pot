@@ -111,7 +111,7 @@ msgstr ""
 msgid "Conclusion: "
 msgstr ""
 
-msgid "Connected from: %s"
+msgid "Connected by: %s"
 msgstr ""
 
 msgid "CONNECTED"
@@ -139,6 +139,9 @@ msgid "Create a backup of your configurations to be able to restore it in a new 
 msgstr ""
 
 msgid "Create your access token via the NordVpn website."
+msgstr ""
+
+msgid "Days"
 msgstr ""
 
 msgid "Data saved correctly!"
@@ -175,6 +178,9 @@ msgid "DNS server settings"
 msgstr ""
 
 msgid "DNS servers allow resolution of DNS host names to IP addresses."
+msgstr ""
+
+msgid "Do you want to view the latest Changelog?"
 msgstr ""
 
 msgid "Do you want to generate your Mullvad account data?"
@@ -501,7 +507,13 @@ msgstr ""
 msgid "Sort by server (alphabetically)"
 msgstr ""
 
+msgid "Sort by bandwidth (ascending)"
+msgstr ""
+
 msgid "Sort the list alphabetically or by ascending load"
+msgstr ""
+
+msgid "Sort the list alphabetically or by ascending bandwidth"
 msgstr ""
 
 msgid "Start Wireguard at boot"

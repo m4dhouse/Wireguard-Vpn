@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-09-12 23:41+0300\n"
+"PO-Revision-Date: 2024-09-19 00:08+0300\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: giorbak\n"
 "Language: el\n"
@@ -14,8 +14,20 @@ msgstr ""
 "X-Generator: Poedit 3.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "Days"
+msgstr "ημέρες"
+
+msgid "Do you want to view the latest Changelog?"
+msgstr "Θέλετε να δείτε το πιο πρόσφατο αρχείο καταγραφής αλλαγών;"
+
+msgid "Sort the list alphabetically or by ascending bandwidth"
+msgstr "Ταξινομήστε τη λίστα αλφαβητικά ή με αύξουσα σειρά εύρους ζώνης"
+
+msgid "Sort by bandwidth (ascending)"
+msgstr "Ταξινόμηση κατά εύρος ζώνης (αύξουσα)"
+
 msgid "Restart enigma2 to apply the update."
-msgstr ""
+msgstr "Επανεκκινήστε το enigma2 για να εφαρμόσετε την ενημέρωση."
 
 msgid "The host %s ' %s ' is duplicated.\n"
 msgstr "Ο host %s ' %s ' είναι διπλός.\n"
@@ -140,8 +152,8 @@ msgstr "Εγγραφή IP από το αρχείο διαμόρφωσης"
 msgid "Write the IP that you find in the configuration file generated and downloaded from the website."
 msgstr "Γράψτε την IP που βρίσκεται στο αρχείο διαμόρφωσης που δημιουργήθηκε και λήφθηκε από τον ιστότοπο."
 
-msgid "Connected from: %s"
-msgstr "Συνδέθηκε στις: %s"
+msgid "Connected by: %s"
+msgstr "Συνδέθηκε από: %s"
 
 msgid "Example:"
 msgstr "Παράδειγμα:"
@@ -652,7 +664,7 @@ msgid "Sort by server (alphabetically)"
 msgstr "Ταξινόμηση κατά διακομιστή (αλφαβητικά)"
 
 msgid "Sort the list alphabetically or by ascending load"
-msgstr "Ταξινομήστε τη λίστα αλφαβητικά ή με αύξουσα φόρτωση."
+msgstr "Ταξινομήστε τη λίστα αλφαβητικά ή με αύξουσα σειρά φόρτωσης."
 
 msgid "The file located in %s is empty."
 msgstr "Το αρχείο που βρίσκεται στο %s είναι κενό."

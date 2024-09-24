@@ -14,8 +14,23 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "Days"
+msgstr "Tage"
+
+msgid "Connected by: %s"
+msgstr "Verbunden seit: %s"
+
+msgid "Do you want to view the latest Changelog?"
+msgstr "Möchten Sie den aktuellen Changelog anzeigen?"
+
+msgid "Sort the list alphabetically or by ascending bandwidth"
+msgstr "Sortieren Sie die Liste alphabetisch oder nach aufsteigender Bandbreite"
+
+msgid "Sort by bandwidth (ascending)"
+msgstr "Sortierung nach Bandbreite (aufsteigend)"
+
 msgid "Restart enigma2 to apply the update."
-msgstr ""
+msgstr "Starten Sie enigma2 neu, um das Update anzuwenden."
 
 msgid "The host %s ' %s ' is duplicated.\n"
 msgstr "Der Host %s ' %s ' ist dupliziert.\n"
@@ -660,4 +675,4 @@ msgid "The file located in %s is empty."
 msgstr "Die Datei in %s ist leer."
 
 msgid "Copy/paste your Private Key and then press the Blue button"
-msgstr "Kopieren/Einfügen Sie Ihren privaten Schlüssel und drücken Sie dann die blaue Taste"
+msgstr "Kopieren/Einfügen Ihres privaten Schlüssels und drücken Sie dann die blaue Taste"

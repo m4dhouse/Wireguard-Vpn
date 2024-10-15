@@ -14,6 +14,12 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "Stop the currently playing service"
+msgstr "Beenden Sie den aktuell wiedergegebenen Dienst"
+
+msgid "Stops the service playing (streaming) if it connects to a new server and resumes service."
+msgstr "Stoppt die Wiedergabe (das Streaming) des Dienstes, wenn eine Verbindung zu einem neuen Server hergestellt wird, und nimmt den Dienst wieder auf."
+
 msgid "Days"
 msgstr "Tage"
 
@@ -21,7 +27,7 @@ msgid "Connected by: %s"
 msgstr "Verbunden seit: %s"
 
 msgid "Do you want to view the latest Changelog?"
-msgstr "Möchten Sie den aktuellen Changelog anzeigen?"
+msgstr "Möchten Sie das aktuelle Änderungsprotokoll anzeigen?"
 
 msgid "Sort the list alphabetically or by ascending bandwidth"
 msgstr "Sortieren Sie die Liste alphabetisch oder nach aufsteigender Bandbreite"
@@ -135,7 +141,7 @@ msgid "DNS servers allow resolution of DNS host names to IP addresses."
 msgstr "DNS-Server ermöglichen die Auflösung von DNS-Hostnamen in IP-Adressen."
 
 msgid "Check internet connection"
-msgstr "Internetverbindung prüfen"
+msgstr "Internetverbindung überprüfen"
 
 msgid "Choose a DNS for testing your internet connection."
 msgstr "Wählen Sie einen DNS, um Ihre Internetverbindung zu testen."
@@ -207,7 +213,7 @@ msgid "If the problem persists, check your account."
 msgstr "Wenn das Problem weiterhin besteht, überprüfen Sie Ihr Konto."
 
 msgid "I check the files"
-msgstr "Ich prüfe die Dateien"
+msgstr "Ich überprüfe die Dateien"
 
 msgid "Do you want to upgrade to the new %s version?"
 msgstr "Möchten Sie auf die neue %s-Version aktualisieren?"
@@ -246,7 +252,7 @@ msgid "DNS leak test"
 msgstr "DNS-Leck Test"
 
 msgid "Check Dns Leak"
-msgstr "DNS-Leck prüfen"
+msgstr "DNS-Leck überprüfen"
 
 msgid "The test checks for any leakage of DNS"
 msgstr "Der Test prüft, ob ein DNS-Leck vorliegt"
@@ -435,10 +441,10 @@ msgid "Keyboard"
 msgstr "Tastatur"
 
 msgid "I check Internet speedtest, be patient..."
-msgstr "Ich überprüfe Internet-Geschwindigkeitstest, sei geduldig..."
+msgstr "Ich überprüfe die Internetgeschwindigkeit, sei geduldig..."
 
 msgid "I check the available servers"
-msgstr "Ich prüfe die verfügbaren Server"
+msgstr "Ich überprüfe die verfügbaren Server"
 
 msgid "Repeat test"
 msgstr "Test wiederholen"
@@ -534,10 +540,10 @@ msgid "Reboot Network Adapter"
 msgstr "Netzwerkadapter neu starten"
 
 msgid "Check vpn enabled"
-msgstr "Prüfe vpn aktiviert"
+msgstr "Überprüfe vpn aktiviert"
 
 msgid "Check vpn disabled"
-msgstr "Prüfe vpn deaktiviert"
+msgstr "Überprüfe vpn deaktiviert"
 
 msgid "VPN Status: OK"
 msgstr "VPN Status: OK"

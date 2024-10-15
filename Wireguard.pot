@@ -525,6 +525,12 @@ msgstr ""
 msgid "Stopping Wireguard interface"
 msgstr ""
 
+msgid "Stop the currently playing service"
+msgstr ""
+
+msgid "Stops the service playing (streaming) if it connects to a new server and resumes service."
+msgstr ""
+
 msgid "Test completed, to test again press green button"
 msgstr ""
 

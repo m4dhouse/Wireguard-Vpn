@@ -42,6 +42,9 @@ msgstr ""
 msgid "%s) Bypass host or ip"
 msgstr ""
 
+msgid "AUTO START"
+msgstr ""
+
 msgid "Access via Token"
 msgstr ""
 
@@ -54,10 +57,19 @@ msgstr ""
 msgid "All servers"
 msgstr ""
 
+msgid "BACKUP"
+msgstr ""
+
+msgid "BYPASS"
+msgstr ""
+
 msgid "Bandwidth"
 msgstr ""
 
 msgid "Bypass Wireguard"
+msgstr ""
+
+msgid "CHOICE OF PROVIDER"
 msgstr ""
 
 msgid "Check Dns Leak"
@@ -139,6 +151,9 @@ msgid "Create a backup of your configurations to be able to restore it in a new 
 msgstr ""
 
 msgid "Create your access token via the NordVpn website."
+msgstr ""
+
+msgid "DNS LEAK TEST"
 msgstr ""
 
 msgid "Days"
@@ -300,6 +315,9 @@ msgstr ""
 msgid "it will take longer to process the servers, you will have the complete list of servers."
 msgstr ""
 
+msgid "KILL SWITCH"
+msgstr ""
+
 msgid "Keyboard"
 msgstr ""
 
@@ -324,6 +342,9 @@ msgstr ""
 msgid "Mullvad account does not exist!"
 msgstr ""
 
+msgid "NETWORK AND INTERNET"
+msgstr ""
+
 msgid "No DNS servers found"
 msgstr ""
 
@@ -333,10 +354,16 @@ msgstr ""
 msgid "NOT CONNECTED"
 msgstr ""
 
+msgid "ON-SCREEN ALERTS"
+msgstr ""
+
 msgid "or edit the file located in"
 msgstr ""
 
 msgid "or"
+msgstr ""
+
+msgid "PERSONAL FILES"
 msgstr ""
 
 msgid "PERFECT! "
@@ -403,6 +430,15 @@ msgid "Restart Network"
 msgstr ""
 
 msgid "Result successfully saved in /tmp/speedtest.png"
+msgstr ""
+
+msgid "STOP AND RESUME SERVICE"
+msgstr ""
+
+msgid "SHOW IN MAIN MENU"
+msgstr ""
+
+msgid "SHOW UPDATE MESSAGE"
 msgstr ""
 
 msgid "Save results"

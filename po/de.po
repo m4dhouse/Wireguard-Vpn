@@ -14,6 +14,42 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "PERSONAL FILES"
+msgstr "PERSÖNLICHE DATEIEN"
+
+msgid "NETWORK AND INTERNET"
+msgstr "NETZWERK UND INTERNET"
+
+msgid "STOP AND RESUME SERVICE"
+msgstr "DIENST ANHALTEN UND WIEDER AUFNEHMEN"
+
+msgid "DNS LEAK TEST"
+msgstr "DNS-LECK TEST"
+
+msgid "KILL SWITCH"
+msgstr "ABSCHALTAUTOMATIK"
+
+msgid "ON-SCREEN ALERTS"
+msgstr "WARNHINWEISE AUF DEM BILDSCHIRM"
+
+msgid "AUTO START"
+msgstr "AUTOMATISCHER START"
+
+msgid "SHOW IN MAIN MENU"
+msgstr "IM HAUPTMENÜ ANZEIGEN"
+
+msgid "BACKUP"
+msgstr "SICHERUNG"
+
+msgid "SHOW UPDATE MESSAGE"
+msgstr "AKTUALISIERUNGSMELDUNG ANZEIGEN"
+
+msgid "BYPASS"
+msgstr "UMGEHUNG"
+
+msgid "CHOICE OF PROVIDER"
+msgstr "WAHL DES ANBIETERS"
+
 msgid "Stop the currently playing service"
 msgstr "Beenden Sie den aktuell wiedergegebenen Dienst"
 
@@ -48,7 +84,7 @@ msgid "Unable to write to file."
 msgstr "Datei kann nicht geschrieben werden."
 
 msgid "Create a backup"
-msgstr "Erstellen eines Sicherungsskripts"
+msgstr "Erstellen einee Sicherung"
 
 msgid "Create a backup of your configurations to be able to restore it in a new image. The backup (wireguard_backup.sh shell) will be saved in:"
 msgstr "Erstellen Sie eine Sicherung Ihrer Konfigurationen, um sie in einem neuen Image wiederherstellen zu können. Die Sicherung (Shell wireguard_backup.sh) wird gespeichert in:"
@@ -225,7 +261,7 @@ msgid "Installed version: %s"
 msgstr "Installierte Version: %s"
 
 msgid "Enabling it allows you to perform an internet check when your %s starts"
-msgstr "Wenn Sie diese Option aktivieren, können Sie eine Internetprüfung durchführen, wenn Ihr %s startet"
+msgstr "Wenn Sie diese Option aktivieren, können Sie eine Internetprüfung durchführen, wenn Ihre %s startet"
 
 msgid "Set up internet control"
 msgstr "Internet-Kontrolle einrichten"

@@ -14,6 +14,42 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "PERSONAL FILES"
+msgstr ""
+
+msgid "NETWORK AND INTERNET"
+msgstr ""
+
+msgid "STOP AND RESUME SERVICE"
+msgstr ""
+
+msgid "DNS LEAK TEST"
+msgstr ""
+
+msgid "KILL SWITCH"
+msgstr ""
+
+msgid "ON-SCREEN ALERTS"
+msgstr ""
+
+msgid "AUTO START"
+msgstr ""
+
+msgid "SHOW IN MAIN MENU"
+msgstr ""
+
+msgid "BACKUP"
+msgstr ""
+
+msgid "SHOW UPDATE MESSAGE"
+msgstr ""
+
+msgid "BYPASS"
+msgstr ""
+
+msgid "CHOICE OF PROVIDER"
+msgstr ""
+
 msgid "Stop the currently playing service"
 msgstr ""
 

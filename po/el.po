@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-10-15 07:35+0300\n"
+"PO-Revision-Date: 2024-10-19 16:35+0300\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: giorbak\n"
 "Language: el\n"
@@ -14,11 +14,47 @@ msgstr ""
 "X-Generator: Poedit 3.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "PERSONAL FILES"
+msgstr "ΠΡΟΣΩΠΙΚΑ ΑΡΧΕΙΑ"
+
+msgid "NETWORK AND INTERNET"
+msgstr "ΔΙΚΤΥΟ ΚΑΙ ΔΙΑΔΙΚΤΥΟ"
+
+msgid "STOP AND RESUME SERVICE"
+msgstr "ΔΙΑΚΟΠΗ ΚΑΙ ΣΥΝΕΧΙΣΗ ΥΠΗΡΕΣΙΑΣ"
+
+msgid "DNS LEAK TEST"
+msgstr "ΔΟΚΙΜΗ ΔΙΑΡΡΟΗΣ DNS"
+
+msgid "KILL SWITCH"
+msgstr "ΔΙΑΚΟΠΤΗΣ ΤΕΡΜΑΤΙΣΜΟΥ"
+
+msgid "ON-SCREEN ALERTS"
+msgstr "ΕΙΔΟΠΟΙΗΣΕΙΣ ΣΤΗΝ ΟΘΟΝΗ"
+
+msgid "AUTO START"
+msgstr "ΑΥΤΟΜΑΤΗ ΕΚΚΙΝΗΣΗ"
+
+msgid "SHOW IN MAIN MENU"
+msgstr "ΕΜΦΑΝΙΣΗ ΣΤΟ ΚΥΡΙΟ ΜΕΝΟΥ"
+
+msgid "BACKUP"
+msgstr "ΑΝΤΙΓΡΑΦΟ ΑΣΦΑΛΕΙΑΣ"
+
+msgid "SHOW UPDATE MESSAGE"
+msgstr "ΕΜΦΑΝΙΣΗ ΜΗΝΥΜΑΤΟΣ ΕΝΗΜΕΡΩΣΗΣ"
+
+msgid "BYPASS"
+msgstr "ΠΑΡΑΚΑΜΨΗ"
+
+msgid "CHOICE OF PROVIDER"
+msgstr "ΕΠΙΛΟΓΗ ΠΑΡΟΧΟΥ"
+
 msgid "Stop the currently playing service"
-msgstr "Διακοπή της τρέχουσας υπηρεσίας αναπαραγωγής"
+msgstr "Διακοπή της τρέχουσας αναπαραγόμενης υπηρεσίας"
 
 msgid "Stops the service playing (streaming) if it connects to a new server and resumes service."
-msgstr "Σταματά την αναπαραγωγή της υπηρεσίας (ροή) εάν συνδεθεί σε νέο διακομιστή και συνεχίζει την υπηρεσία."
+msgstr "Διακόπτει την αναπαραγωγή της υπηρεσίας (ροή) εάν συνδεθεί σε νέο διακομιστή και συνεχίζει την υπηρεσία."
 
 msgid "Days"
 msgstr "ημέρες"

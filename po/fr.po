@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-06-26 18:21+0200\n"
+"PO-Revision-Date: 2024-10-20 11:29+0200\n"
 "Last-Translator: Gruick1\n"
 "Language-Team: your_name <your_email@gmail.com>\n"
 "Language: fr\n"
@@ -15,58 +15,58 @@ msgstr ""
 "X-Poedit-SourceCharset: iso-8859-15\n"
 
 msgid "PERSONAL FILES"
-msgstr ""
+msgstr "DOSSIERS PERSONNELS"
 
 msgid "NETWORK AND INTERNET"
-msgstr ""
+msgstr "RESEAU ET INTERNET"
 
 msgid "STOP AND RESUME SERVICE"
-msgstr ""
+msgstr "ARRET ET REPRISE DU SERVICE"
 
 msgid "DNS LEAK TEST"
-msgstr ""
+msgstr "TEST FUITE DNS"
 
 msgid "KILL SWITCH"
-msgstr ""
+msgstr "COUPE CIRCUIT"
 
 msgid "ON-SCREEN ALERTS"
-msgstr ""
+msgstr "ALERTES À L'ÉCRAN"
 
 msgid "AUTO START"
-msgstr ""
+msgstr "DEMARRAGE AUTOMATIQUE"
 
 msgid "SHOW IN MAIN MENU"
-msgstr ""
+msgstr "AFFICHER DANS LE MENU PRINCIPAL"
 
 msgid "BACKUP"
-msgstr ""
+msgstr "SAUVEGARDE"
 
 msgid "SHOW UPDATE MESSAGE"
-msgstr ""
+msgstr "AFFICHER LE MESSAGE DE MISE À JOUR"
 
 msgid "BYPASS"
-msgstr ""
+msgstr "DERIVATION"
 
 msgid "CHOICE OF PROVIDER"
-msgstr ""
+msgstr "CHOIX DU FOURNISSEUR"
 
 msgid "Stop the currently playing service"
-msgstr ""
+msgstr "Arrêter le service en cours de lecture"
 
 msgid "Stops the service playing (streaming) if it connects to a new server and resumes service."
-msgstr ""
+msgstr "Arrête la lecture du service (streaming) s'il se connecte à un nouveau serveur et reprend le service."
 
 msgid "Days"
-msgstr ""
+msgstr "Jours"
 
 msgid "Do you want to view the latest Changelog?"
-msgstr ""
+msgstr "Voulez-vous voir le dernier  journal des modifications?"
 
 msgid "Sort by bandwidth (ascending)"
-msgstr ""
+msgstr "Trier par largeur de bande (croissant)"
 
 msgid "Restart enigma2 to apply the update."
-msgstr ""
+msgstr "Redémarrez enigma2 pour appliquer la mise à jour."
 
 msgid "The host %s ' %s ' is duplicated.\n"
 msgstr "L'hôte %s ' %s ' est dupliqué.\n"

@@ -30,7 +30,7 @@ msgid "KILL SWITCH"
 msgstr "ABSCHALTAUTOMATIK"
 
 msgid "ON-SCREEN ALERTS"
-msgstr "WARNHINWEISE AUF DEM BILDSCHIRM"
+msgstr "BILDSCHIRMWARNUNGEN"
 
 msgid "AUTO START"
 msgstr "AUTOMATISCHER START"
@@ -300,7 +300,7 @@ msgid "Please be patient!"
 msgstr "Bitte etwas Geduld!"
 
 msgid "Your VPN IP: "
-msgstr "Ihre VPN IP: "
+msgstr "Ihre VPN-IP: "
 
 msgid "Your PUBLIC IP: "
 msgstr "Ihre ÖFFENTLICHE IP: "
@@ -396,7 +396,7 @@ msgid "'Servers MultiHop'"
 msgstr "'Server MultiHop'"
 
 msgid "Double VPN, highest level of safety and security, tracking the real IP address is mathematically impossible."
-msgstr "Double VPN, höchste Sicherheitsstufe, Rückverfolgung der echten IP Adresse ist mathematisch unmöglich."
+msgstr "Doppeltes VPN, höchste Sicherheitsstufe, Rückverfolgung der echten IP-Adresse ist mathematisch unmöglich."
 
 msgid "Set a limit of servers to view"
 msgstr "Legen Sie ein Limit der anzuzeigenden Server fest"
@@ -582,7 +582,7 @@ msgid "Check vpn disabled"
 msgstr "Überprüfe vpn deaktiviert"
 
 msgid "VPN Status: OK"
-msgstr "VPN Status: OK"
+msgstr "VPN-Status: OK"
 
 msgid "Warning! VPN KO"
 msgstr "Warnung! VPN KO"
@@ -621,13 +621,13 @@ msgid "Enable vpn control"
 msgstr "VPN-Kontrolle aktivieren"
 
 msgid "Enable Wireguard Vpn screen control."
-msgstr "Aktiviere Wireguard Vpn Bildschirmkontrolle."
+msgstr "Aktiviere Wireguard Vpn-Bildschirmkontrolle."
 
 msgid "Set the timeout"
 msgstr "Zeitüberschreitung einstellen"
 
 msgid "Set the time (minutes) for Wireguard Vpn control"
-msgstr "Legen Sie die Zeit (Minuten) für die Wireguard Vpn Kontrolle fest"
+msgstr "Legen Sie die Zeit (Minuten) für die Wireguard Vpn-Kontrolle fest"
 
 msgid "Show warning on screen"
 msgstr "Warnung auf dem Bildschirm anzeigen"

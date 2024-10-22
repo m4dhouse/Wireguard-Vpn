@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-10-19 16:35+0300\n"
+"PO-Revision-Date: 2024-10-22 20:14+0200\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: giorbak\n"
 "Language: el\n"
@@ -11,8 +11,47 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.2\n"
+"X-Generator: Poedit 3.4.4\n"
 "X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "White"
+msgstr "Λευκό"
+
+msgid "Green"
+msgstr "Πράσινο"
+
+msgid "Turquoise"
+msgstr "Τυρκουάζ"
+
+msgid "Tiffany"
+msgstr "Τίφανι"
+
+msgid "Sand"
+msgstr "Αμμώδες"
+
+msgid "Ocher Yellow"
+msgstr "Κίτρινη ώχρα"
+
+msgid "Orange"
+msgstr "Πορτοκαλί"
+
+msgid "Grey"
+msgstr "Γκρι"
+
+msgid "CONFIGURATION ITEM COLORS"
+msgstr "ΡΥΘΜΙΣΗ ΧΡΩΜΑΤΩΝ ΣΤΟΙΧΕΙΩΝ"
+
+msgid "Select the color of the entries."
+msgstr "Επιλέξτε το χρώμα των καταχωρήσεων."
+
+msgid "Color of entries"
+msgstr "Χρώμα καταχωρήσεων"
+
+msgid "Color of sub entries"
+msgstr "Χρώμα δευτερευουσών καταχωρήσεων"
+
+msgid "Select the color of the sub entries."
+msgstr "Επιλέξτε το χρώμα των δευτερευουσών καταχωρήσεων."
 
 msgid "PERSONAL FILES"
 msgstr "ΠΡΟΣΩΠΙΚΑ ΑΡΧΕΙΑ"
@@ -57,7 +96,7 @@ msgid "Stops the service playing (streaming) if it connects to a new server and 
 msgstr "Διακόπτει την αναπαραγωγή της υπηρεσίας (ροή) εάν συνδεθεί σε νέο διακομιστή και συνεχίζει την υπηρεσία."
 
 msgid "Days"
-msgstr "ημέρες"
+msgstr "Ημέρες"
 
 msgid "Do you want to view the latest Changelog?"
 msgstr "Θέλετε να δείτε το πιο πρόσφατο αρχείο καταγραφής αλλαγών;"
@@ -153,7 +192,7 @@ msgid "If your VPN connection drops, a kill switch cuts off your internet connec
 msgstr "Εάν η σύνδεσή σας VPN πέσει, ο διακόπτης τερματισμού διακόπτει τη σύνδεσή σας στο διαδίκτυο."
 
 msgid "If the connection drops and you would like to restore it, disable the Kill switch, then Save."
-msgstr "Εάν η σύνδεση πέσει και θέλετε να την επαναφέρετε, απενεργοποιήστε το διακόπτη τερματισμού και πατήστε Αποθήκευση."
+msgstr "Εάν η σύνδεση πέσει και θέλετε να την επαναφέρετε, απενεργοποιήστε τον διακόπτη τερματισμού και πατήστε Αποθήκευση."
 
 msgid "Add bypasses"
 msgstr "Προσθήκη παρακάμψεων"
@@ -195,7 +234,7 @@ msgid "Write the IP that you find in the configuration file generated and downlo
 msgstr "Γράψτε την IP που βρίσκεται στο αρχείο διαμόρφωσης που δημιουργήθηκε και λήφθηκε από τον ιστότοπο."
 
 msgid "Connected by: %s"
-msgstr "Συνδέθηκε από: %s"
+msgstr "Σύνδεση από: %s"
 
 msgid "Example:"
 msgstr "Παράδειγμα:"
@@ -261,13 +300,13 @@ msgid "Choose a server for DNS testing"
 msgstr "Επιλογή διακομιστή για δοκιμή DNS"
 
 msgid "Choose a DNS test server from bash.ws or dnsleaktest.com"
-msgstr "Επιλέξτε έναν διακομιστή δοκιμής DNS από bash.ws ή dnsleaktest.com."
+msgstr "Επιλέξτε έναν διακομιστή δοκιμής DNS από bash.ws ή dnsleaktest.com"
 
 msgid "Set the MTU"
 msgstr "Ορισμός MTU"
 
 msgid "The MTU 1384 brings benefits on packet transmission, in most cases it increases the value of download and upload"
-msgstr "Το MTU 1384 φέρνει πλεονεκτήματα στη μετάδοση πακέτων, στις περισσότερες περιπτώσεις αυξάνει την τιμή λήψης και μεταφόρτωσης."
+msgstr "Το MTU 1384 φέρνει πλεονεκτήματα στη μετάδοση πακέτων, στις περισσότερες περιπτώσεις αυξάνει την τιμή λήψης και μεταφόρτωσης"
 
 msgid "Default"
 msgstr "Προεπιλογή"
@@ -279,7 +318,7 @@ msgid "Check Dns Leak"
 msgstr "Έλεγχος διαρροής DNS"
 
 msgid "The test checks for any leakage of DNS"
-msgstr "Η δοκιμή ελέγχει για τυχόν διαρροή DNS."
+msgstr "Η δοκιμή ελέγχει για τυχόν διαρροή DNS"
 
 msgid "I run the DNS Leak test"
 msgstr "Εκτέλεση δοκιμής διαρροής DNS"
@@ -348,7 +387,7 @@ msgid "Use your personal files"
 msgstr "Χρήση προσωπικών σας αρχείων"
 
 msgid "Select your personal files and remember to place them in the right directory"
-msgstr "Επιλέξτε τα προσωπικά σας αρχεία και θυμηθείτε να τα τοποθετήσετε στον σωστό κατάλογο."
+msgstr "Επιλέξτε τα προσωπικά σας αρχεία και θυμηθείτε να τα τοποθετήσετε στον σωστό κατάλογο"
 
 msgid "Select the file directory"
 msgstr "Επιλογή καταλόγου αρχείων"
@@ -364,7 +403,7 @@ msgstr[0] "%d λεπτό"
 msgstr[1] "%d λεπτά"
 
 msgid "Remember to insert only files with the .conf extension"
-msgstr "Θυμηθείτε να εισάγετε μόνο αρχεία που έχουν επέκταση .conf."
+msgstr "Θυμηθείτε να εισάγετε μόνο αρχεία που έχουν επέκταση .conf"
 
 msgid "No files found!"
 msgstr "Δεν βρέθηκαν αρχεία!"
@@ -412,7 +451,7 @@ msgid "Bypass Wireguard"
 msgstr "Παράκαμψη Wireguard"
 
 msgid "This allows you to bypass wireguard"
-msgstr "Αυτό σας επιτρέπει να παρακάμψετε το Wireguard."
+msgstr "Αυτό σας επιτρέπει να παρακάμψετε το Wireguard"
 
 msgid "%s) Bypass host or ip"
 msgstr "%s) Παράκαμψη host ή ip"
@@ -493,7 +532,7 @@ msgid "Show results"
 msgstr "Εμφάνιση αποτελεσμάτων"
 
 msgid "Test completed, to test again press green button"
-msgstr "Η δοκιμή ολοκληρώθηκε, για να δοκιμάσετε ξανά πατήστε το πράσινο κουμπί."
+msgstr "Η δοκιμή ολοκληρώθηκε, για να δοκιμάσετε ξανά πατήστε το πράσινο κουμπί"
 
 msgid "Test your internet speed by Madhouse"
 msgstr "Ελέγξτε την ταχύτητα του διαδικτύου σας από τον Madhouse"
@@ -580,7 +619,7 @@ msgid "Choose your VPN provider among:"
 msgstr "Επιλέξτε τον πάροχο VPN σας ανάμεσα σε:"
 
 msgid "Choose the directory for the PrivateKey.key file"
-msgstr "Επιλέξτε τον κατάλογο για το αρχείο PrivateKey.key."
+msgstr "Επιλέξτε τον κατάλογο για το αρχείο PrivateKey.key"
 
 msgid "Write your Private key"
 msgstr "Εγγραφή ιδιωτικού σας κλειδιού"
@@ -622,7 +661,7 @@ msgid "Set the timeout"
 msgstr "Ορισμός χρονικού ορίου"
 
 msgid "Set the time (minutes) for Wireguard Vpn control"
-msgstr "Ορίστε τον χρόνο (λεπτά) για τον έλεγχο Wireguard VPN."
+msgstr "Ορίστε τον χρόνο (λεπτά) για τον έλεγχο Wireguard VPN"
 
 msgid "Show warning on screen"
 msgstr "Εμφάνιση προειδοποίησης στην οθόνη"
@@ -634,16 +673,16 @@ msgid "Warning time on screen"
 msgstr "Χρόνος προειδοποίησης στην οθόνη"
 
 msgid "Shows the warning duration (seconds) on the screen"
-msgstr "Εμφανίζει τη διάρκεια προειδοποίησης (δευτερόλεπτα) στην οθόνη."
+msgstr "Εμφανίζει τη διάρκεια προειδοποίησης (δευτερόλεπτα) στην οθόνη"
 
 msgid "Start Wireguard at boot"
 msgstr "Έναρξη Wireguard κατά την εκκίνηση"
 
 msgid "Start Wireguard Vpn after a full reboot"
-msgstr "Εκκίνηση του Wireguard VPN μετά από πλήρη επανεκκίνηση."
+msgstr "Εκκίνηση του Wireguard VPN μετά από πλήρη επανεκκίνηση"
 
 msgid "Show Wireguard Vpn in main menu"
-msgstr "Εμφάνιση του Wireguard VPN στο κύριο μενού."
+msgstr "Εμφάνιση του Wireguard VPN στο κύριο μενού"
 
 msgid "Show Wireguard in the main menu"
 msgstr "Εμφάνιση Wireguard στο κύριο μενού"
@@ -706,7 +745,7 @@ msgid "Sort by server (alphabetically)"
 msgstr "Ταξινόμηση κατά διακομιστή (αλφαβητικά)"
 
 msgid "Sort the list alphabetically or by ascending load"
-msgstr "Ταξινομήστε τη λίστα αλφαβητικά ή με αύξουσα σειρά φόρτωσης."
+msgstr "Ταξινομήστε τη λίστα αλφαβητικά ή με αύξουσα σειρά φόρτωσης"
 
 msgid "The file located in %s is empty."
 msgstr "Το αρχείο που βρίσκεται στο %s είναι κενό."
@@ -718,4 +757,4 @@ msgid "SpeedTest"
 msgstr "Δοκιμή ταχύτητας"
 
 msgid "INFO"
-msgstr "INFO "
+msgstr "INFO"

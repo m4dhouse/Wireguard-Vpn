@@ -2,7 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-10-14 16:30+0100\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-10-22 14:31+0200\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: Madhouse <anonm4d@gmail.com>\n"
 "Language: it\n"
@@ -10,8 +11,47 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.4.4\n"
 "X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Grey"
+msgstr "Grigio"
+
+msgid "White"
+msgstr "Bianco"
+
+msgid "Green"
+msgstr "Verde"
+
+msgid "Turquoise"
+msgstr "Turchese"
+
+msgid "Tiffany"
+msgstr "Tiffany"
+
+msgid "Sand"
+msgstr "Sabbia"
+
+msgid "Ocher Yellow"
+msgstr "Giallo Ocra"
+
+msgid "Orange"
+msgstr "Arancione"
+
+msgid "CONFIGURATION ITEM COLORS"
+msgstr "COLORI VOCI CONFIGURAZIONE"
+
+msgid "Select the color of the entries."
+msgstr "Seleziona il colore delle voci."
+
+msgid "Color of entries"
+msgstr "Colore delle voci"
+
+msgid "Color of sub entries"
+msgstr "Colore delle voci secondarie"
+
+msgid "Select the color of the sub entries."
+msgstr "Seleziona il colore delle voci secondarie."
 
 msgid "PERSONAL FILES"
 msgstr "FILE PERSONALI"
@@ -456,7 +496,7 @@ msgid "Press MENU to update"
 msgstr "Premi MENU per aggiornare"
 
 msgid "Install update..."
-msgstr "Installo aggiornamento"
+msgstr "Installo aggiornamento…"
 
 msgid "Exit"
 msgstr "Esci"

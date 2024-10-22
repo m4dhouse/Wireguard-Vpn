@@ -29,7 +29,6 @@ msgstr ""
 msgid "'Servers by country'"
 msgstr ""
 
-
 msgid "'Servers MultiHop'"
 msgstr ""
 
@@ -67,6 +66,15 @@ msgid "Bandwidth"
 msgstr ""
 
 msgid "Bypass Wireguard"
+msgstr ""
+
+msgid "CONFIGURATION ITEM COLORS"
+msgstr ""
+
+msgid "Color of entries"
+msgstr ""
+
+msgid "Color of sub entries"
 msgstr ""
 
 msgid "CHOICE OF PROVIDER"
@@ -261,6 +269,12 @@ msgstr ""
 msgid "Finished restarting your network"
 msgstr ""
 
+msgid "Green"
+msgstr ""
+
+msgid "Grey"
+msgstr ""
+
 msgid "has been imported successfully."
 msgstr ""
 
@@ -354,6 +368,12 @@ msgstr ""
 msgid "NOT CONNECTED"
 msgstr ""
 
+msgid "Ocher Yellow"
+msgstr ""
+
+msgid "Orange"
+msgstr ""
+
 msgid "ON-SCREEN ALERTS"
 msgstr ""
 
@@ -432,6 +452,9 @@ msgstr ""
 msgid "Result successfully saved in /tmp/speedtest.png"
 msgstr ""
 
+msgid "Sand"
+msgstr ""
+
 msgid "STOP AND RESUME SERVICE"
 msgstr ""
 
@@ -472,6 +495,12 @@ msgid "Select your personal files and remember to place them in the right direct
 msgstr ""
 
 msgid "Select your vpn provider"
+msgstr ""
+
+msgid "Select the color of the sub entries."
+msgstr ""
+
+msgid "Select the color of the entries."
 msgstr ""
 
 msgid "Server %s is Down!"
@@ -567,6 +596,12 @@ msgstr ""
 msgid "Stops the service playing (streaming) if it connects to a new server and resumes service."
 msgstr ""
 
+msgid "Turquoise"
+msgstr ""
+
+msgid "Tiffany"
+msgstr ""
+
 msgid "Test completed, to test again press green button"
 msgstr ""
 
@@ -640,6 +675,9 @@ msgid "Use your personal files"
 msgstr ""
 
 msgid "VPN Status: OK"
+msgstr ""
+
+msgid "White"
 msgstr ""
 
 msgid "Warning time on screen"

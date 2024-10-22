@@ -14,6 +14,42 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "White"
+msgstr ""
+
+msgid "Green"
+msgstr ""
+
+msgid "Turquoise"
+msgstr ""
+
+msgid "Tiffany"
+msgstr ""
+
+msgid "Sand"
+msgstr ""
+
+msgid "Ocher Yellow"
+msgstr ""
+
+msgid "Orange"
+msgstr ""
+
+msgid "CONFIGURATION ITEM COLORS"
+msgstr ""
+
+msgid "Select the color of the entries."
+msgstr ""
+
+msgid "Select the color of the sub entries."
+msgstr ""
+
+msgid "Color of entries"
+msgstr ""
+
+msgid "Color of sub entries"
+msgstr ""
+
 msgid "PERSONAL FILES"
 msgstr ""
 

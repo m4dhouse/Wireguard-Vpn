@@ -3,16 +3,56 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-10-20 11:29+0200\n"
+"PO-Revision-Date: 2024-10-22 18:35+0200\n"
 "Last-Translator: Gruick1\n"
 "Language-Team: your_name <your_email@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Poedit 3.4.4\n"
-"X-Poedit-SourceCharset: iso-8859-15\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Grey"
+msgstr "Gris"
+
+msgid "White"
+msgstr "Blanc"
+
+msgid "Green"
+msgstr "Vert"
+
+msgid "Turquoise"
+msgstr "Turquoise"
+
+msgid "Tiffany"
+msgstr "Tiffany"
+
+msgid "Sand"
+msgstr "Sable"
+
+msgid "Ocher Yellow"
+msgstr "Jaune ocre"
+
+msgid "Orange"
+msgstr "Orange"
+
+msgid "Color of entries"
+msgstr "Couleur des entrées"
+
+msgid "Color of sub entries"
+msgstr "Couleur des sous-entrées"
+
+msgid "CONFIGURATION ITEM COLORS"
+msgstr "COLUEURS DES ELEMENTS DE CONFIGURATION"
+
+msgid "Select the color of the entries."
+msgstr "Sélectionnez la couleur des entrées."
+
+msgid "Select the color of the sub entries."
+msgstr "Sélectionnez la couleur des sous-entrées."
 
 msgid "PERSONAL FILES"
 msgstr "DOSSIERS PERSONNELS"

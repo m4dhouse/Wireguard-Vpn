@@ -68,7 +68,7 @@ msgstr ""
 msgid "Bypass Wireguard"
 msgstr ""
 
-msgid "CONFIGURATION ITEM COLORS"
+msgid "SKIN AND COLORS ITEMS"
 msgstr ""
 
 msgid "Color of entries"
@@ -477,6 +477,12 @@ msgid "Save"
 msgstr ""
 
 msgid "Select a server and press the OK button"
+msgstr ""
+
+msgid "Select the skin"
+msgstr ""
+
+msgid "Select your favorite skin."
 msgstr ""
 
 msgid "Select the country"

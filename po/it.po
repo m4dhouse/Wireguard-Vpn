@@ -14,6 +14,12 @@ msgstr ""
 "X-Generator: Poedit 3.4.4\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "Select the skin"
+msgstr "Seleziona la skin"
+
+msgid "Select your favorite skin."
+msgstr "Seleziona la tua skin preferita."
+
 msgid "Grey"
 msgstr "Grigio"
 
@@ -38,8 +44,8 @@ msgstr "Giallo Ocra"
 msgid "Orange"
 msgstr "Arancione"
 
-msgid "CONFIGURATION ITEM COLORS"
-msgstr "COLORI VOCI CONFIGURAZIONE"
+msgid "SKIN AND COLORS ITEMS"
+msgstr "SKIN E COLORI VOCI"
 
 msgid "Select the color of the entries."
 msgstr "Seleziona il colore delle voci."

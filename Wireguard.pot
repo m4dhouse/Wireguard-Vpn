@@ -203,6 +203,9 @@ msgstr ""
 msgid "DNS servers allow resolution of DNS host names to IP addresses."
 msgstr ""
 
+msgid "Do you want to import the backup file?"
+msgstr ""
+
 msgid "Do you want to view the latest Changelog?"
 msgstr ""
 
@@ -276,6 +279,9 @@ msgid "Grey"
 msgstr ""
 
 msgid "has been imported successfully."
+msgstr ""
+
+msgid "I import the backup"
 msgstr ""
 
 msgid "I check Internet speedtest, be patient..."

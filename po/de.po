@@ -14,11 +14,17 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "Do you want to import the backup file?"
+msgstr "Möchten Sie die Sicherungsdatei importieren?"
+
+msgid "I import the backup"
+msgstr "Ich importiere die Sicherung"
+
 msgid "Select the skin"
-msgstr ""
+msgstr "Wählen Sie den Skin aus"
 
 msgid "Select your favorite skin."
-msgstr ""
+msgstr "Wählen Sie Ihren Lieblingsskin aus."
 
 msgid "Grey"
 msgstr "Grau"
@@ -129,7 +135,7 @@ msgid "Unable to write to file."
 msgstr "Datei kann nicht geschrieben werden."
 
 msgid "Create a backup"
-msgstr "Erstellen einee Sicherung"
+msgstr "Erstellen Sie eine Sicherung"
 
 msgid "Create a backup of your configurations to be able to restore it in a new image. The backup (wireguard_backup.sh shell) will be saved in:"
 msgstr "Erstellen Sie eine Sicherung Ihrer Konfigurationen, um sie in einem neuen Image wiederherstellen zu können. Die Sicherung (Shell wireguard_backup.sh) wird gespeichert in:"
@@ -195,7 +201,7 @@ msgid "Kill switch enabled"
 msgstr "Abschaltautomatik aktiviert"
 
 msgid "Enable Kill switch"
-msgstr "Abschaltautomatik einschalten"
+msgstr "Abschaltautomatik aktivieren"
 
 msgid "If your VPN connection drops, a kill switch cuts off your internet connection."
 msgstr "Wenn Ihre VPN-Verbindung abbricht, unterbricht eine Abschaltautomatik Ihre Internetverbindung."

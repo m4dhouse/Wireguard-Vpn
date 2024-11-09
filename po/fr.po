@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-11-01 14:37+0100\n"
+"PO-Revision-Date: 2024-11-09 01:25+0100\n"
 "Last-Translator: Gruick1\n"
 "Language-Team: your_name <your_email@gmail.com>\n"
 "Language: fr\n"
@@ -15,11 +15,17 @@ msgstr ""
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SearchPath-0: .\n"
 
+msgid "Do you want to import the backup file?"
+msgstr "Voulez-vous importer le fichier de sauvegarde ?"
+
+msgid "I import the backup"
+msgstr "J'importe la sauvegarde"
+
 msgid "Select the skin"
-msgstr ""
+msgstr "Sélectionnez le thème"
 
 msgid "Select your favorite skin."
-msgstr ""
+msgstr "Sélectionnez votre thème favori."
 
 msgid "Grey"
 msgstr "Gris"
@@ -46,19 +52,19 @@ msgid "Orange"
 msgstr "Orange"
 
 msgid "Color of entries"
-msgstr "Couleur des entrées"
+msgstr "Couleur des menus"
 
 msgid "Color of sub entries"
-msgstr "Couleur des sous-entrées"
+msgstr "Couleur du  texte"
 
 msgid "SKIN AND COLORS ITEMS"
-msgstr ""
+msgstr "THEME ET COULEURS DES TEXTES"
 
 msgid "Select the color of the entries."
-msgstr "Sélectionnez la couleur des entrées."
+msgstr "Sélectionnez la couleur des menus."
 
 msgid "Select the color of the sub entries."
-msgstr "Sélectionnez la couleur des sous-entrées."
+msgstr "Sélectionnez la couleur du texte."
 
 msgid "PERSONAL FILES"
 msgstr "DOSSIERS PERSONNELS"

@@ -14,6 +14,12 @@ msgstr ""
 "X-Generator: Poedit 3.4.4\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "Do you want to import the backup file?"
+msgstr "Vuoi importare il file di backup?"
+
+msgid "I import the backup"
+msgstr "Importo il backup"
+
 msgid "Select the skin"
 msgstr "Seleziona la skin"
 

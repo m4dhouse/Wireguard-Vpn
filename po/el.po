@@ -14,6 +14,12 @@ msgstr ""
 "X-Generator: Poedit 3.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "Play sound"
+msgstr "Αναπαραγωγή ήχου"
+
+msgid "Page: %d/%d"
+msgstr "Σελίδα: %d/%d"
+
 msgid "Do you want to import the backup file?"
 msgstr "Θέλετε να εισάγετε το αρχείο αντιγράφου ασφαλείας;"
 
@@ -741,8 +747,8 @@ msgstr "Το ιδιωτικό κλειδί αποθηκεύτηκε με επι�
 msgid "Load Private Key"
 msgstr "Φόρτωση ιδιωτ. κλειδιού"
 
-msgid "Total servers: %s"
-msgstr "Σύνολο διακομιστών: %s"
+msgid "Total servers: %d/%d"
+msgstr "Σύνολο διακομιστών: %d/%d"
 
 msgid "Checking Wireguard module"
 msgstr "Έλεγχος της μονάδας Wireguard"

@@ -395,6 +395,12 @@ msgstr ""
 msgid "PERFECT! "
 msgstr ""
 
+msgid "Page: %d/%d"
+msgstr ""
+
+msgid "Play sound"
+msgstr ""
+
 msgid "Please be patient!"
 msgstr ""
 
@@ -665,7 +671,7 @@ msgstr ""
 msgid "Total files: %s"
 msgstr ""
 
-msgid "Total servers: %s"
+msgid "Total servers: %d/%d"
 msgstr ""
 
 msgid "Try later or"

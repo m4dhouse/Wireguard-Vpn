@@ -15,6 +15,12 @@ msgstr ""
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SearchPath-0: .\n"
 
+msgid "Play sound"
+msgstr "Jouer du son"
+
+msgid "Page: %d/%d"
+msgstr "Page: %d/%d"
+
 msgid "Do you want to import the backup file?"
 msgstr "Voulez-vous importer le fichier de sauvegarde ?"
 
@@ -739,8 +745,8 @@ msgstr "Clé Privée enregistrée avec succès !"
 msgid "Load Private Key"
 msgstr "Charge Clé privée"
 
-msgid "Total servers: %s"
-msgstr "Total serveurs: %s"
+msgid "Total servers: %d/%d"
+msgstr "Total serveurs: %d/%d"
 
 msgid "Checking Wireguard module"
 msgstr "Vérification du module Wireguard"

@@ -14,6 +14,12 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "Play sound"
+msgstr ""
+
+msgid "Page: %d/%d"
+msgstr ""
+
 msgid "Do you want to import the backup file?"
 msgstr ""
 
@@ -742,8 +748,8 @@ msgstr "Chave privada salva com sucesso!"
 msgid "Load Private Key"
 msgstr "Carregar chave privada"
 
-msgid "Total servers: %s"
-msgstr "Total de servidores: %s"
+msgid "Total servers: %d/%d"
+msgstr "Total de servidores: %d/%d"
 
 msgid "Checking Wireguard module"
 msgstr "Verificando módulo Wireguard"

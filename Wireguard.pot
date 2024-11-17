@@ -68,6 +68,12 @@ msgstr ""
 msgid "Bypass Wireguard"
 msgstr ""
 
+msgid "Button"
+msgstr ""
+
+msgid "Stop"
+msgstr ""
+
 msgid "SKIN AND COLORS ITEMS"
 msgstr ""
 
@@ -75,6 +81,9 @@ msgid "Color of entries"
 msgstr ""
 
 msgid "Color of sub entries"
+msgstr ""
+
+msgid "Click"
 msgstr ""
 
 msgid "CHOICE OF PROVIDER"
@@ -159,6 +168,9 @@ msgid "Create a backup of your configurations to be able to restore it in a new 
 msgstr ""
 
 msgid "Create your access token via the NordVpn website."
+msgstr ""
+
+msgid "Disabled"
 msgstr ""
 
 msgid "DNS LEAK TEST"
@@ -279,6 +291,9 @@ msgid "Grey"
 msgstr ""
 
 msgid "has been imported successfully."
+msgstr ""
+
+msgid "Interface"
 msgstr ""
 
 msgid "I import the backup"

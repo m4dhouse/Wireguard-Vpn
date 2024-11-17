@@ -15,10 +15,28 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 
 msgid "Play sound"
-msgstr "Ton abspielen"
+msgstr ""
+
+msgid "Click"
+msgstr ""
+
+msgid "Interface"
+msgstr ""
+
+msgid "Button"
+msgstr ""
+
+msgid "Stop"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
 
 msgid "Page: %d/%d"
 msgstr "Seite: %d/%d"
+
+msgid "Total servers: %d/%d"
+msgstr "Server insgesamt: %d/%d"
 
 msgid "Do you want to import the backup file?"
 msgstr "Möchten Sie die Sicherungsdatei importieren?"
@@ -348,7 +366,7 @@ msgid "Check Dns Leak"
 msgstr "DNS-Leck überprüfen"
 
 msgid "The test checks for any leakage of DNS"
-msgstr "Der Test prüft, ob ein DNS-Leck vorliegt"
+msgstr "Der Test überprüft, ob ein DNS-Leck vorliegt"
 
 msgid "I run the DNS Leak test"
 msgstr "Test auf DNS-Leck wird durchgeführt"
@@ -444,7 +462,7 @@ msgstr[0] "%d Minute"
 msgstr[1] "%d Minuten"
 
 msgid "Internet check while restarting"
-msgstr "Internet-Check beim Neustart"
+msgstr "Internetprüfung beim Neustart"
 
 msgid "Internet check during restart (in Seconds), if the result is negative the VPN tunnel is not established."
 msgstr "Internetprüfung beim Neustart (in Sekunden), bei negativem Ergebnis wird der VPN-Tunnel nicht aufgebaut."
@@ -751,9 +769,6 @@ msgstr "Privater Schlüssel erfolgreich gespeichert!"
 
 msgid "Load Private Key"
 msgstr "Privaten Schlüssel laden"
-
-msgid "Total servers: %d/%d"
-msgstr "Server insgesamt: %d/%d"
 
 msgid "Checking Wireguard module"
 msgstr "Überprüfe Wireguard-Modul"

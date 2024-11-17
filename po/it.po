@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-10-22 14:31+0200\n"
+"PO-Revision-Date: 2024-11-11 14:31+0200\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: Madhouse <anonm4d@gmail.com>\n"
 "Language: it\n"
@@ -13,6 +13,21 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.4.4\n"
 "X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Click"
+msgstr "Click"
+
+msgid "Interface"
+msgstr "Interfaccia"
+
+msgid "Button"
+msgstr "Bottone"
+
+msgid "Stop"
+msgstr "Stop"
+
+msgid "Disabled"
+msgstr "Disabilitato"
 
 msgid "Play sound"
 msgstr "Riproduci suono"

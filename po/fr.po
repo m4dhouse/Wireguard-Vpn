@@ -15,6 +15,21 @@ msgstr ""
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SearchPath-0: .\n"
 
+msgid "Click"
+msgstr ""
+
+msgid "Interface"
+msgstr ""
+
+msgid "Button"
+msgstr ""
+
+msgid "Stop"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
 msgid "Play sound"
 msgstr "Jouer du son"
 

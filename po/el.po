@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-11-09 04:01+0200\n"
+"PO-Revision-Date: 2024-11-17 20:36+0200\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: giorbak\n"
 "Language: el\n"
@@ -15,19 +15,19 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 
 msgid "Click"
-msgstr ""
+msgstr "Κλικ"
 
 msgid "Interface"
-msgstr ""
+msgstr "Διασύνδεση"
 
 msgid "Button"
-msgstr ""
+msgstr "Κουμπί"
 
 msgid "Stop"
-msgstr ""
+msgstr "Διακοπή"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Απενεργοποίηση"
 
 msgid "Play sound"
 msgstr "Αναπαραγωγή ήχου"
@@ -156,7 +156,7 @@ msgid "Create a backup"
 msgstr "Δημιουργία αντιγράφου ασφαλείας"
 
 msgid "Create a backup of your configurations to be able to restore it in a new image. The backup (wireguard_backup.sh shell) will be saved in:"
-msgstr "Δημιουργήστε ένα αντίγραφο ασφαλείας των διαμορφώσεών σας για να μπορείτε να τις επαναφέρετε σε ένα νέο image. Το αντίγραφο ασφαλείας (wireguard_backup.sh shell) θα αποθηκευτεί στο:"
+msgstr "Δημιουργήστε ένα αντίγραφο ασφαλείας των ρυθμίσεών σας για να μπορείτε να τις επαναφέρετε σε ένα νέο image. Το αντίγραφο ασφαλείας (wireguard_backup.sh shell) θα αποθηκευτεί στο:"
 
 msgid "Write your account number"
 msgstr "Εγγραφή αριθμού λογαριασμού σας"

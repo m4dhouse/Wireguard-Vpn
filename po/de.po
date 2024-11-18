@@ -15,22 +15,22 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 
 msgid "Play sound"
-msgstr ""
+msgstr "Ton abspielen"
 
 msgid "Click"
-msgstr ""
+msgstr "Klicken"
 
 msgid "Interface"
-msgstr ""
+msgstr "Schnittstelle"
 
 msgid "Button"
-msgstr ""
+msgstr "Schaltfläche"
 
 msgid "Stop"
-msgstr ""
+msgstr "Stoppen"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Deaktiviert"
 
 msgid "Page: %d/%d"
 msgstr "Seite: %d/%d"

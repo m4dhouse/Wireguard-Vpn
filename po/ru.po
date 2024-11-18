@@ -1,0 +1,781 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wireguard\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-11-17 21:00+0200\n"
+"Last-Translator: airforce\n"
+"Language-Team: airforce <kosmosspace@gmail.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-SourceCharset: iso-8859-5\n"
+
+msgid "Play sound"
+msgstr "Воспроизвести звук"
+
+msgid "Page: %d/%d"
+msgstr "Страница: %d/%d"
+
+msgid "Do you want to import the backup file?"
+msgstr "Вы хотите импортировать файл резервной копии?"
+
+msgid "I import the backup"
+msgstr "Я импортирую резервную копию"
+
+msgid "Select the skin"
+msgstr "Выберите скин"
+
+msgid "Select your favorite skin."
+msgstr "Выберите ваш фаворитный скин."
+
+msgid "Grey"
+msgstr "Серый"
+
+msgid "White"
+msgstr "Белый"
+
+msgid "Green"
+msgstr "Зеленый"
+
+msgid "Turquoise"
+msgstr "Бирюзовый"
+
+msgid "Tiffany"
+msgstr "Светлоголубой"
+
+msgid "Sand"
+msgstr "Песочный"
+
+msgid "Ocher Yellow"
+msgstr "Охра Желтая"
+
+msgid "Orange"
+msgstr "Оранжевый"
+
+msgid "Color of entries"
+msgstr "Цвет меню"
+
+msgid "Color of sub entries"
+msgstr "Цвет текста"
+
+msgid "SKIN AND COLORS ITEMS"
+msgstr "ЭЛЕМЕНТЫ СКИНА И ЦВЕТА"
+
+msgid "Select the color of the entries."
+msgstr "Выберите цвет меню."
+
+msgid "Select the color of the sub entries."
+msgstr "Выберите цвет текста."
+
+msgid "PERSONAL FILES"
+msgstr "ПЕРСОНАЛЬНЫЕ ФАЙЛЫ"
+
+msgid "NETWORK AND INTERNET"
+msgstr "СЕТЬ И ИНТЕРНЕТ"
+
+msgid "STOP AND RESUME SERVICE"
+msgstr "ОСТАНОВИТЬ И ВОЗОБНОВИТЬ СЕРВИС"
+
+msgid "DNS leak test"
+msgstr "Тест на утечку DNS"
+
+msgid "KILL SWITCH"
+msgstr "АВАРИЙНЫЙ ВЫКЛЮЧАТЕЛЬ"
+
+msgid "ON-SCREEN ALERTS"
+msgstr "ОПОВЕЩЕНИЯ НА ЭКРАНЕ"
+
+msgid "AUTO START"
+msgstr "АВТОЗАПУСК"
+
+msgid "SHOW IN MAIN MENU"
+msgstr "ПОКАЗАТЬ В ГЛАВНОМ МЕНЮ"
+
+msgid "BACKUP"
+msgstr "РЕЗЕРВНОЕ КОПИРОВАНИЕ"
+
+msgid "SHOW UPDATE MESSAGE"
+msgstr "ПОКАЗАТЬ СООБЩЕНИЕ ОБ ОБНОВЛЕНИИ"
+
+msgid "BYPASS"
+msgstr "ОБХОД"
+
+msgid "CHOICE OF PROVIDER"
+msgstr "ВЫБОР ПОСТАВЩИКА"
+
+msgid "Stop the currently playing service"
+msgstr "Остановить воспроизвидение текущего сервиса"
+
+msgid "Stops the service playing (streaming) if it connects to a new server and resumes service."
+msgstr "Останавливает воспроизведение сервиса (потоковую передачу), если он подключается к новому серверу, и возобновляет работу."
+
+msgid "Days"
+msgstr "Дней"
+
+msgid "Do you want to view the latest Changelog?"
+msgstr "Хотите увидеть журнал последних изменений?"
+
+msgid "Sort the list alphabetically or by ascending bandwidth"
+msgstr "Сортировать список по алфавиту или по возрастанию пропускной способности"
+
+msgid "Sort by bandwidth (ascending)"
+msgstr "Сортировать по пропускной способности (по возрастанию)"
+
+msgid "Restart enigma2 to apply the update."
+msgstr "Перезапустите enigma2, чтобы применить обновление."
+
+msgid "Error creating backup file: Out of disk space %s."
+msgstr "Ошибка создания файла резервной копии: не хватает места на диске %s."
+
+msgid "Unable to write to file."
+msgstr "Не удалось записать в файл."
+
+msgid "Create a backup script"
+msgstr "Создайте сценарий резервного копирования"
+
+msgid "Create a backup of your configurations to be able to restore it in a new image. The backup (wireguard_backup.sh shell) will be saved in:"
+msgstr "Создайте резервную копию своих конфигураций, чтобы иметь возможность восстановить ее в новом образе. Резервная копия (скрипт wireguard_backup.sh) будет сохранена в:"
+
+msgid "Write your account number"
+msgstr "Введите номер вашей учетной записи"
+
+msgid "Write your account number generated during subscription."
+msgstr "Введите номер вашей учетной записи, сгенерированный во время подписки."
+
+msgid "Enter your account number!"
+msgstr "Введите номер вашей учетной записи!"
+
+msgid "Do you want to generate your Mullvad account data?"
+msgstr "Вы хотите сгенерировать данные учетной записи Mullvad?"
+
+msgid "Mullvad account does not exist!"
+msgstr "Учетная запись Mullvad не существует!"
+
+msgid "Update plugin"
+msgstr "Обновить плагин"
+
+msgid "Show update message"
+msgstr "Показать сообщение об обновлении"
+
+msgid "Show a message if there is an update."
+msgstr "Показывать сообщение о наличии обновления."
+
+msgid "Your private key"
+msgstr "Ваш private key"
+
+msgid "has been imported successfully."
+msgstr "был успешно импортирован."
+
+msgid "Edit the file located in /etc/wg_token.key and paste your access token."
+msgstr "Отредактируйте файл, расположенный в /etc/wg_token.key и вставьте свой токен доступа."
+
+msgid "Failed to retrieve Nordlynx Private Key."
+msgstr "Не удалось получить Private Key Nordlynx."
+
+msgid "Private key"
+msgstr "Private key"
+
+msgid "Write or load your Private Key."
+msgstr "Введите или загрузите ваш Private Key."
+
+msgid "Access via Token"
+msgstr "Доступ через токен"
+
+msgid "Create your access token via the NordVpn website."
+msgstr "Создайте свой токен доступа через веб-сайт NordVpn."
+
+msgid "Load the access token with the BLUE button."
+msgstr "Загрузить токен доступа по СИНЕЙ кнопке."
+
+msgid "Select the type of access"
+msgstr "Выберите тип доступа"
+
+msgid "Load token access"
+msgstr "Загрузить токен доступа"
+
+msgid "Kill switch enabled"
+msgstr "Аварийный выключатель включен"
+
+msgid "Enable Kill switch"
+msgstr "Включить аварийный выключатель"
+
+msgid "If your VPN connection drops, a kill switch cuts off your internet connection."
+msgstr "Если ваше VPN-подключение прервется, аварийный выключатель отключит ваше интернет-соединение."
+
+msgid "If the connection drops and you would like to restore it, disable the Kill switch, then Save."
+msgstr "Если соединение прервано и вы хотите его восстановить, нажмите Аварийный выключатель, затем нажмите Сохранить."
+
+msgid "Add bypasses"
+msgstr "Добавить обход"
+
+msgid "Add host/ip number to bypass WireGuard."
+msgstr "Добавить номер хоста/IP для обхода WireGuard."
+
+msgid "The ' %s ' host (bypass) is unreachable.\n"
+msgstr "Хост (обход) ' %s '  недоступен.\n"
+
+msgid "DNS server settings"
+msgstr "Настройки DNS-сервера"
+
+msgid "Choose a DNS server."
+msgstr "Выберите DNS-сервер."
+
+msgid "DNS servers allow resolution of DNS host names to IP addresses."
+msgstr "Разрешить DNS-серверам преобразовывать имена хостов DNS в IP-адреса."
+
+msgid "Check internet connection"
+msgstr "Проверка подключения к интернету"
+
+msgid "Choose a DNS for testing your internet connection."
+msgstr "Выберите DNS для проверки подключения к интернету."
+
+msgid "Connection in progress..."
+msgstr "Соединение устанавливается..."
+
+msgid "Connection Established"
+msgstr "Соединение установлено"
+
+msgid "Connection Unavailable!"
+msgstr "Подключение недоступно!"
+
+msgid "Write the IP you find in the file"
+msgstr "Введите IP, который вы найдете в файле"
+
+msgid "Write the IP that you find in the configuration file generated and downloaded from the website."
+msgstr "Введите IP, который вы найдете в файле конфигурации, сгенерированном и загруженном с веб-сайта."
+
+msgid "Connected by: %s"
+msgstr "Подключено к: %s"
+
+msgid "Example:"
+msgstr "Пример:"
+
+msgid "Write your Private Key that you find in the configuration file or edit the file located in"
+msgstr "Введите ваш Private Key, который вы найдете в файле конфигурации, или отредактируйте файл, расположенный в"
+
+msgid "Invalid IP, please write a valid IP"
+msgstr "Неверный IP, пожалуйста, введите правильный IP"
+
+msgid "Bandwidth"
+msgstr "Пропускная способность"
+
+msgid "Quick connection"
+msgstr "Быстрое подключение"
+
+msgid "The update server is unreachable"
+msgstr "Сервер обновлений недоступен"
+
+msgid "Connection to server failed!"
+msgstr "Не удалось подключиться к серверу!"
+
+msgid "You want to restore the connection?"
+msgstr "Вы хотите восстановить соединение?"
+
+msgid "WireGuard protocol missing!"
+msgstr "Протокол WireGuard отсутствует!"
+
+msgid "Check that WireGuard is installed in your image."
+msgstr "Проверьте, установлен ли WireGuard в вашем образе."
+
+msgid "There appears to be a problem with your account."
+msgstr "Похоже, возникла проблема с вашей учетной записью."
+
+msgid "Try restarting yours %s"
+msgstr "Попробуйте перезапустить ваш %s"
+
+msgid "If the problem persists, check your account."
+msgstr "Если проблема сохраняется, проверьте свой аккаунт."
+
+msgid "I check the files"
+msgstr "Я проверяю файлы"
+
+msgid "Do you want to upgrade to the new %s version?"
+msgstr "Вы хотите обновиться до новой %s версии?"
+
+msgid "Wireguard VPN plugin is updated"
+msgstr "Плагин Wireguard VPN обновлен"
+
+msgid "Installed version: %s"
+msgstr "Установленная версия: %s"
+
+msgid "Enabling it allows you to perform an internet check when your %s starts"
+msgstr "Включение позволяет вам выполнять проверку Интернета при %s запуске"
+
+msgid "Set up internet control"
+msgstr "Настроить управление интернетом"
+
+msgid "Test performed on host: %s"
+msgstr "Тест выполнен на хосте: %s"
+
+msgid "Choose a server for DNS testing"
+msgstr "Выберите сервер для тестирования DNS"
+
+msgid "Choose a DNS test server from bash.ws or dnsleaktest.com"
+msgstr "Выберите тестовый сервер DNS из bash.ws или dnsleaktest.com"
+
+msgid "Set the MTU"
+msgstr "Установить MTU"
+
+msgid "The MTU 1384 brings benefits on packet transmission, in most cases it increases the value of download and upload"
+msgstr "MTU 1384 приносит пользу при передаче пакетов, в большинстве случаев он увеличивает величину загрузки и выгрузки"
+
+msgid "Default"
+msgstr "По умолчанию"
+
+msgid "Check Dns Leak"
+msgstr "Проверка утечки DNS"
+
+msgid "The test checks for any leakage of DNS"
+msgstr "Тест проверяет наличие утечек DNS"
+
+msgid "I run the DNS Leak test"
+msgstr "Я запускаю тест на утечку DNS"
+
+msgid "Please be patient!"
+msgstr "Пожалуйста, будьте терпеливы!"
+
+msgid "Your VPN IP: "
+msgstr "Ваш VPN IP: "
+
+msgid "Your PUBLIC IP: "
+msgstr "Ваш ПУБЛИЧНЫЙ IP: "
+
+msgid "No DNS servers found"
+msgstr "DNS-серверы не найдены"
+
+msgid "You use "
+msgstr "Вы используете "
+
+msgid " DNS servers"
+msgstr " DNS-серверы"
+
+msgid "DNS MAY BE LEAKING."
+msgstr "ВОЗМОЖНА УТЕЧКА DNS."
+
+msgid "PERFECT! "
+msgstr "ИДЕАЛЬНО! "
+
+msgid "Conclusion: "
+msgstr "Вывод: "
+
+msgid "DNS IS NOT LEAKING."
+msgstr "НЕТ УТЕЧКИ DNS."
+
+msgid "Disable ipv6"
+msgstr "Отключить ipv6"
+
+msgid "Set up a DNS"
+msgstr "Настроить DNS"
+
+msgid "Finished restarting your network"
+msgstr "Перезапуск вашей сети завершен"
+
+msgid "Please wait while your network is restarting..."
+msgstr "Пожалуйста, подождите пока ваша сеть перезагрузится..."
+
+msgid "Do you want to restart the network interface?"
+msgstr "Вы хотите перезапустить сетевой интерфейс?"
+
+msgid "Please mount the device as"
+msgstr "Пожалуйста, смонтируйте устройство как"
+
+msgid "Remember to restart the GUI"
+msgstr "Не забудьте перезапустить графический интерфейс"
+
+msgid "Do you want to restart the GUI?"
+msgstr "Вы хотите перезапустить графический интерфейс?"
+
+msgid "Set up a DNS for Wireguard connection."
+msgstr "Настроить DNS для подключения Wireguard."
+
+msgid "This will not affect your network settings."
+msgstr "Это не повлияет на ваши настройки сети."
+
+msgid "Use your personal files"
+msgstr "Использовать ваши личные файлы"
+
+msgid "Select your personal files and remember to place them in the right directory"
+msgstr "Выберите ваши личные файлы и не забудьте поместить их в соответствующий каталог"
+
+msgid "Select the file directory"
+msgstr "Выберите каталог файлов"
+
+msgid "%d Second"
+msgid_plural "%d Seconds"
+msgstr[0] "%d Секунда"
+msgstr[1] "%d Секунды"
+
+msgid "%d Minute"
+msgid_plural "%d Minutes"
+msgstr[0] "%d Минута"
+msgstr[1] "%d Минуты"
+
+msgid "Remember to insert only files with the .conf extension"
+msgstr "Не забудьте вставлять файлы только с расширением .conf"
+
+msgid "No files found!"
+msgstr "Файлы не найдены!"
+
+msgid "Put the files in %s"
+msgstr "Поместите файлы в %s"
+
+msgid "Total files: %s"
+msgstr "Всего файлов: %s"
+
+msgid "'Servers MultiHop'"
+msgstr "'Серверы MultiHop'"
+
+msgid "Double VPN, highest level of safety and security, tracking the real IP address is mathematically impossible."
+msgstr "Двойной VPN, высочайший уровень безопасности, отслеживание реального IP-адреса математически невозможно."
+
+msgid "through"
+msgstr "через"
+
+msgid "Set a limit of servers to view"
+msgstr "Установить ограничение серверов для просмотра"
+
+msgid "Default is set to 16384 maximum servers to display"
+msgstr "По умолчанию установлено максимальное количество отображаемых серверов 16384"
+
+msgid "Default is set to 500 maximum servers to display"
+msgstr "По умолчанию установлено максимальное количество отображаемых серверов 500"
+
+msgid "Default: 10"
+msgstr "По умолчанию: 10"
+
+msgid "The private key is incorrect"
+msgstr "Некорректный private key"
+
+msgid "Check the length of the private key"
+msgstr "Проверьте длину private key"
+
+msgid "Internet check while restarting"
+msgstr "Проверка интернета при перезагрузке"
+
+msgid "Internet check during restart (in Seconds), if the result is negative the VPN tunnel is not established."
+msgstr "Проверка интернета во время перезагрузки (в секундах), если результат отрицательный, VPN-туннель не установлен."
+
+msgid "Bypass Wireguard"
+msgstr "Обход Wireguard"
+
+msgid "This allows you to bypass wireguard"
+msgstr "Это позволяет обойти Wireguard"
+
+msgid "%s) Bypass host or ip"
+msgstr "%s) Обход хоста или ip"
+
+msgid "This allows you to bypass wireguard traffic."
+msgstr "Это позволяет обойти трафик Wireguard."
+
+msgid "Example: wireguard.no-ip.biz"
+msgstr "Пример: wireguard.no-ip.biz"
+
+msgid "Example: 232.34.87.22"
+msgstr "Пример: 232.34.87.22"
+
+msgid "* File located in /etc/WgConfig or /media/hdd/WgConfig or /media/usb/WgConfig"
+msgstr "Файл расположен в /etc/WgConfig или /media/hdd/WgConfig или /media/usb/WgConfig"
+
+msgid "Unable to get the ip of the selected server"
+msgstr "Не удалось получить ip выбранного сервера"
+
+msgid "IPv6 connections might compromise security."
+msgstr "Подключения IPv6 могут поставить под угрозу безопасность."
+
+msgid "Server with static ip"
+msgstr "Сервер со статическим ip"
+
+msgid "'Server with static ip'"
+msgstr "'Сервер со статическим ip'"
+
+msgid "List of servers where they will always have the same ip addresses."
+msgstr "Список серверов, на которых всегда будут одинаковые IP-адреса."
+
+msgid "You will have the complete list of servers."
+msgstr "У вас будет полный список серверов."
+
+msgid "Choose server and press ok"
+msgstr "Выберите сервер и нажмите ok"
+
+msgid "Download speedtest.png failed!"
+msgstr "Загрузка speedtest.png не удалась!"
+
+msgid "Press MENU to update"
+msgstr "Нажмите МЕНЮ для обновления"
+
+msgid "Install update..."
+msgstr "Установить обновление..."
+
+msgid "Exit"
+msgstr "Выход"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Keyboard"
+msgstr "Клавиатура"
+
+msgid "I check Internet speedtest, be patient..."
+msgstr "Я проверяю скорость интернета, будьте терпеливы..."
+
+msgid "I check the available servers"
+msgstr "Я проверяю доступные серверы"
+
+msgid "Repeat test"
+msgstr "Повторить тест"
+
+msgid "Result successfully saved in /tmp/speedtest.png"
+msgstr "Результат успешно сохранен в /tmp/speedtest.png"
+
+msgid "Save results"
+msgstr "Сохранить результаты"
+
+msgid "Server list"
+msgstr "Список серверов"
+
+msgid "Show results"
+msgstr "Показать результаты"
+
+msgid "Test completed, to test again press green button"
+msgstr "Тест завершен, для повторного теста нажмите зеленую кнопку"
+
+msgid "Test your internet speed by Madhouse"
+msgstr "Тест с помощью плагина internet speed by Madhouse"
+
+msgid "Testing download from"
+msgstr "Проверка загрузки с"
+
+msgid "Testing upload speed"
+msgstr "Проверка скорости загрузки"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Restart Network"
+msgstr "Перезапустить сеть"
+
+msgid "Link to the %s server"
+msgstr "Ссылка на %s сервер"
+
+msgid "Private key does not exist"
+msgstr "Private key не существует"
+
+msgid "Please enter your Private Key by pressing the Green button"
+msgstr "Пожалуйста, введите свой Private Key по Зеленой кнопке"
+
+msgid "or edit the file located in"
+msgstr "или отредактируйте файл, расположенный в"
+
+msgid "Server %s is Down!"
+msgstr "Сервер %s отключен!"
+
+msgid "Try later or"
+msgstr "Попробуйте позже или"
+
+msgid "Check your internet connection"
+msgstr "Проверьте подключение к интернету"
+
+msgid "Select a server and press the OK button"
+msgstr "Выберите сервер и нажмите кнопку ОК"
+
+msgid "You want to stop the %s server?"
+msgstr "Вы хотите остановить %s сервер?"
+
+msgid "Stopping Wireguard interface"
+msgstr "Остановка интерфейса Wireguard"
+
+msgid "NOT CONNECTED"
+msgstr "НЕТ ПОДКЛЮЧЕНИЯ"
+
+msgid "CONNECTED"
+msgstr "ПОДКЛЮЧЕНО"
+
+msgid "Disconnect"
+msgstr "Отключено"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Please wait for the network adapter to restart"
+msgstr "Пожалуйста, подождите, пока сетевой адаптер перезагрузится"
+
+msgid "Reboot Network Adapter"
+msgstr "Перезагрузка сетевого адаптера"
+
+msgid "Check vpn enabled"
+msgstr "Проверьте включение vpn"
+
+msgid "Check vpn disabled"
+msgstr "Проверьте отключение vpn"
+
+msgid "VPN Status: OK"
+msgstr "Статус VPN: ОК"
+
+msgid "Warning! VPN KO"
+msgstr "Предупреждение! VPN KO"
+
+msgid "Protect your %s - By Madhouse"
+msgstr "Защита вашего %s - By Madhouse"
+
+msgid "Select your vpn provider"
+msgstr "Выберите вашего провайдера vpn"
+
+msgid "Choose your VPN provider among:"
+msgstr "Выберите поставщика VPN среди:"
+
+msgid "Choose the directory for the PrivateKey.key file"
+msgstr "Выберите каталог для файла PrivateKey.key"
+
+msgid "Write your Private key"
+msgstr "Введите ваш Private key"
+
+msgid "Write your Private Key or edit the file located in"
+msgstr "Введите ваш Private Key или отредактируйте файл, расположенный в"
+
+msgid "or"
+msgstr "или"
+
+msgid "Save the server list"
+msgstr "Сохранить список серверов"
+
+msgid "Privatekey file directory"
+msgstr "Каталог файлов Privatekey"
+
+msgid "Save the server list (will not download when starting the plugin)"
+msgstr "Сохранить список серверов (не будет загружен при запуске плагина)"
+
+msgid "Enable vpn control"
+msgstr "Включить управление vpn"
+
+msgid "Enable Wireguard Vpn screen control."
+msgstr "Включить управление экраном Wireguard Vpn."
+
+msgid "Enable hanshake control"
+msgstr "Включить управление hanshake"
+
+msgid "If enabled, check the handshake on the server every 10 minutes. If the server is down, it will try to establish a new handshake."
+msgstr "Если включено, проверять handshake на сервере каждые 10 минут. Если сервер не работает, он попытается установить новый handshake."
+
+msgid "Show a warning on the screen"
+msgstr "Показать предупреждение на экране"
+
+msgid "If enabled, it will show a warning on the screen."
+msgstr "Если эта функция включена, на экране появится предупреждение."
+
+msgid "Set the timeout"
+msgstr "Установить тайм-аут"
+
+msgid "Set the time (minutes) for Wireguard Vpn control"
+msgstr "Установить время (минуты) для управления Wireguard Vpn"
+
+msgid "Show warning on screen"
+msgstr "Показать предупреждение на экране"
+
+msgid "Show the warning on the screen"
+msgstr "Показать предупреждение на экране"
+
+msgid "Warning time on screen"
+msgstr "Предупреждение на экране"
+
+msgid "Shows the warning duration (seconds) on the screen"
+msgstr "Показать длительность предупреждения (секунды) на экране"
+
+msgid "Start Wireguard at boot"
+msgstr "Запустить Wireguard при загрузке"
+
+msgid "Start Wireguard Vpn after a full reboot"
+msgstr "Запустить Wireguard Vpn после полной перезагрузки"
+
+msgid "Show Wireguard Vpn in main menu"
+msgstr "Показать Wireguard Vpn в главном меню"
+
+msgid "Show Wireguard in the main menu"
+msgstr "Показать Wireguard в главном меню"
+
+msgid "(* Requires restart Gui)"
+msgstr "(* Требуется перезапуск интерфейса)"
+
+msgid "Select the type of server list"
+msgstr "Выберите тип списка серверов"
+
+msgid "All servers"
+msgstr "Все серверы"
+
+msgid "Recommended servers"
+msgstr "Рекомендуемые серверы"
+
+msgid "'All servers'"
+msgstr "'Все серверы'"
+
+msgid "'Servers by country'"
+msgstr "'Серверы по странам'"
+
+msgid "Select the country"
+msgstr "Выберите страну"
+
+msgid "it will take longer to process the servers, you will have the complete list of servers."
+msgstr "обработка серверов займет больше времени, у вас будет полный список серверов."
+
+msgid "'Recommended servers'"
+msgstr "'Рекомендуемые серверы'"
+
+msgid "you will have the list of recommended servers, it will take less time to process the list."
+msgstr "Обработка серверов займет больше времени, но у вас будет полный список серверов."
+
+msgid "Data saved correctly!"
+msgstr "Данные сохранены правильно!"
+
+msgid "Enter your Private Key"
+msgstr "Введите свой Private Key"
+
+msgid "Private key saved successfully!"
+msgstr "Private key успешно сохранен!"
+
+msgid "Load Private Key"
+msgstr "Загрузить Private Key"
+
+msgid "Total servers: %d/%d"
+msgstr "Всего серверов: %d/%d"
+
+msgid "Checking Wireguard module"
+msgstr "Проверка модуля Wireguard"
+
+msgid "Server list order"
+msgstr "Упорядоченный список серверов"
+
+msgid "Sort by load (ascending)"
+msgstr "Сортировать по нагрузке (по возрастанию)"
+
+msgid "Sort by server (alphabetically)"
+msgstr "Сортировать по серверу (по алфавиту)"
+
+msgid "Sort the list alphabetically or by ascending load"
+msgstr "Сортировать список по алфавиту или по возрастанию нагрузки"
+
+msgid "The file located in %s is empty."
+msgstr "Файл, расположенный в %s, пуст."
+
+msgid "Copy/paste your Private Key and then press the Blue button"
+msgstr "Скопируйте/вставьте свой Private Key, а затем нажмите Cинюю кнопку"
+
+msgid "Button"
+msgstr "Кнопка"
+
+msgid "Stop"
+msgstr "Стоп"
+
+msgid "Click"
+msgstr "Нажмите"
+
+msgid "Disabled"
+msgstr "Выключено"
+
+msgid "Interface"
+msgstr "Интерфейс"

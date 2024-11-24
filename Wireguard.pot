@@ -32,6 +32,9 @@ msgstr ""
 msgid "'Servers MultiHop'"
 msgstr ""
 
+msgid "(Experimental)"
+msgstr ""
+
 msgid "(* Requires restart Gui)"
 msgstr ""
 
@@ -77,6 +80,9 @@ msgstr ""
 msgid "SKIN AND COLORS ITEMS"
 msgstr ""
 
+msgid "SKIN, COLORS AND SOUNDS"
+msgstr ""
+
 msgid "Color of entries"
 msgstr ""
 
@@ -84,6 +90,9 @@ msgid "Color of sub entries"
 msgstr ""
 
 msgid "Click"
+msgstr ""
+
+msgid "Choose a sound"
 msgstr ""
 
 msgid "CHOICE OF PROVIDER"
@@ -404,16 +413,28 @@ msgstr ""
 msgid "or"
 msgstr ""
 
+msgid "Ping servers"
+msgstr ""
+
+msgid "Ping all servers"
+msgstr ""
+
 msgid "PERSONAL FILES"
 msgstr ""
 
 msgid "PERFECT! "
 msgstr ""
 
-msgid "Page: %d/%d"
+msgid "Page: %s%s%s"
 msgstr ""
 
 msgid "Play sound"
+msgstr ""
+
+msgid "Play sound in enigma2"
+msgstr ""
+
+msgid "Play sound in enigma2 after exiting plugin"
 msgstr ""
 
 msgid "Please be patient!"
@@ -477,6 +498,12 @@ msgid "Restart Network"
 msgstr ""
 
 msgid "Result successfully saved in /tmp/speedtest.png"
+msgstr ""
+
+msgid "Server selected"
+msgstr ""
+
+msgid "Select different ping options to show them in the list."
 msgstr ""
 
 msgid "Sand"
@@ -650,6 +677,15 @@ msgstr ""
 msgid "Testing upload speed"
 msgstr ""
 
+msgid "The WireGuard package is not installed!"
+msgstr ""
+
+msgid "The WireGuard kernel module is not loaded!"
+msgstr ""
+
+msgid "The file /etc/wireguard/wg0.conf was not found!"
+msgstr ""
+
 msgid "The ' %s ' host (bypass) is unreachable.\n"
 msgstr ""
 
@@ -686,7 +722,7 @@ msgstr ""
 msgid "Total files: %s"
 msgstr ""
 
-msgid "Total servers: %d/%d"
+msgid "Total servers: %s%s%s"
 msgstr ""
 
 msgid "Try later or"

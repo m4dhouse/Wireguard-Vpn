@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-11-17 21:00+0200\n"
+"PO-Revision-Date: 2024-11-24 15:00+0200\n"
 "Last-Translator: airforce\n"
 "Language-Team: airforce <kosmosspace@gmail.com>\n"
 "Language: ru\n"
@@ -14,11 +14,47 @@ msgstr ""
 "X-Generator: Poedit 3.4.4\n"
 "X-Poedit-SourceCharset: iso-8859-5\n"
 
+msgid "Ping servers"
+msgstr "Пинг серверов"
+
+msgid "Ping all servers"
+msgstr "Пинг всех серверов"
+
+msgid "Server selected"
+msgstr "Сервер выбран"
+
+msgid "Select different ping options to show them in the list."
+msgstr "Выберите различные параметры пинга, чтобы отобразить их в списке."
+
+msgid "SKIN, COLORS AND SOUNDS"
+msgstr "СКИН, ЦВЕТА И ЗВУКИ"
+
+msgid "Choose a sound"
+msgstr "Выберите звук"
+
+msgid "Play sound in enigma2"
+msgstr "Воспроизвести звук в enigma2"
+
+msgid "Play sound in enigma2 after exiting plugin"
+msgstr "Воспроизвести звук в enigma2 после выхода из плагина"
+
+msgid "(Experimental)"
+msgstr "(Экспериментальный)"
+
+msgid "The WireGuard package is not installed!"
+msgstr "Пакет WireGuard не установлен!"
+
+msgid "The WireGuard kernel module is not loaded!"
+msgstr "Модуль ядра WireGuard не загружен!"
+
+msgid "The file /etc/wireguard/wg0.conf was not found!"
+msgstr "Файл /etc/wireguard/wg0.conf не найден!"
+
 msgid "Play sound"
 msgstr "Воспроизвести звук"
 
-msgid "Page: %d/%d"
-msgstr "Страница: %d/%d"
+msgid "Page: %s%s%s"
+msgstr "Страница: %s%s%s"
 
 msgid "Do you want to import the backup file?"
 msgstr "Вы хотите импортировать файл резервной копии?"
@@ -61,9 +97,6 @@ msgstr "Цвет меню"
 
 msgid "Color of sub entries"
 msgstr "Цвет текста"
-
-msgid "SKIN AND COLORS ITEMS"
-msgstr "ЭЛЕМЕНТЫ СКИНА И ЦВЕТА"
 
 msgid "Select the color of the entries."
 msgstr "Выберите цвет меню."
@@ -741,8 +774,8 @@ msgstr "Private key успешно сохранен!"
 msgid "Load Private Key"
 msgstr "Загрузить Private Key"
 
-msgid "Total servers: %d/%d"
-msgstr "Всего серверов: %d/%d"
+msgid "Total servers: %s%s%s"
+msgstr "Всего серверов: %s%s%s"
 
 msgid "Checking Wireguard module"
 msgstr "Проверка модуля Wireguard"

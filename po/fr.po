@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-11-09 01:25+0100\n"
+"PO-Revision-Date: 2024-11-24 13:46+0100\n"
 "Last-Translator: Gruick1\n"
 "Language-Team: your_name <your_email@gmail.com>\n"
 "Language: fr\n"
@@ -15,26 +15,62 @@ msgstr ""
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SearchPath-0: .\n"
 
+msgid "Ping servers"
+msgstr "Test des serveurs"
+
+msgid "Ping all servers"
+msgstr "Test tous les serveurs"
+
+msgid "Server selected"
+msgstr "Serveur choisi"
+
+msgid "Select different ping options to show them in the list."
+msgstr "Sélectionnez les différentes options de test pour les afficher dans la liste."
+
+msgid "SKIN, COLORS AND SOUNDS"
+msgstr "THEME, LES COULEURS ET LES SONS"
+
+msgid "Choose a sound"
+msgstr "Choisir un son"
+
+msgid "Play sound in enigma2"
+msgstr "Jouer un son dans enigma2"
+
+msgid "Play sound in enigma2 after exiting plugin"
+msgstr "Jouer le son dans enigma2 après avoir quitté le plugin"
+
+msgid "(Experimental)"
+msgstr "(Expérimental)"
+
+msgid "The WireGuard package is not installed!"
+msgstr "Le paquet WireGuard n'est pas installé!"
+
+msgid "The WireGuard kernel module is not loaded!"
+msgstr "Le module du noyau WireGuard n'est pas chargé!"
+
+msgid "The file /etc/wireguard/wg0.conf was not found!"
+msgstr "Le fichier /etc/wireguard/wg0.conf n'a pas été trouvé!"
+
 msgid "Click"
-msgstr ""
+msgstr "Clic"
 
 msgid "Interface"
-msgstr ""
+msgstr "Interface"
 
 msgid "Button"
-msgstr ""
+msgstr "Bouton"
 
 msgid "Stop"
-msgstr ""
+msgstr "Arret"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Désactiver"
 
 msgid "Play sound"
 msgstr "Jouer du son"
 
-msgid "Page: %d/%d"
-msgstr "Page: %d/%d"
+msgid "Page: %s%s%s"
+msgstr "Page: %s%s%s"
 
 msgid "Do you want to import the backup file?"
 msgstr "Voulez-vous importer le fichier de sauvegarde ?"
@@ -77,9 +113,6 @@ msgstr "Couleur des menus"
 
 msgid "Color of sub entries"
 msgstr "Couleur du  texte"
-
-msgid "SKIN AND COLORS ITEMS"
-msgstr "THEME ET COULEURS DES TEXTES"
 
 msgid "Select the color of the entries."
 msgstr "Sélectionnez la couleur des menus."
@@ -760,8 +793,8 @@ msgstr "Clé Privée enregistrée avec succès !"
 msgid "Load Private Key"
 msgstr "Charge Clé privée"
 
-msgid "Total servers: %d/%d"
-msgstr "Total serveurs: %d/%d"
+msgid "Total servers: %s%s%s"
+msgstr "Total serveurs: %s%s%s"
 
 msgid "Checking Wireguard module"
 msgstr "Vérification du module Wireguard"

@@ -14,6 +14,42 @@ msgstr ""
 "X-Generator: Poedit 3.4.4\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "Ping servers"
+msgstr "Ping server"
+
+msgid "Ping all servers"
+msgstr "Pinga tutti i server"
+
+msgid "Server selected"
+msgstr "Server selezionato"
+
+msgid "Select different ping options to show them in the list."
+msgstr "Seleziona le diverse opzioni di ping per mostrarli nella lista."
+
+msgid "SKIN, COLORS AND SOUNDS"
+msgstr "SKIN, COLORI E SUONI"
+
+msgid "Choose a sound"
+msgstr "Scegli un suono"
+
+msgid "Play sound in enigma2"
+msgstr "Riproduci il suono in enigma2"
+
+msgid "Play sound in enigma2 after exiting plugin"
+msgstr "Riproduci il suono in enigma2 dopo essere uscito dal plugin"
+
+msgid "(Experimental)"
+msgstr "(Sperimentale)"
+
+msgid "The WireGuard package is not installed!"
+msgstr "Il pacchetto WireGuard non è installato!"
+
+msgid "The WireGuard kernel module is not loaded!"
+msgstr "Il modulo kernel WireGuard non è stato caricato!"
+
+msgid "The file /etc/wireguard/wg0.conf was not found!"
+msgstr "Il file /etc/wireguard/wg0.conf non è stato trovato!"
+
 msgid "Click"
 msgstr "Click"
 
@@ -32,8 +68,8 @@ msgstr "Disabilitato"
 msgid "Play sound"
 msgstr "Riproduci suono"
 
-msgid "Page: %d/%d"
-msgstr "Pagina: %d/%d"
+msgid "Page: %s%s%s"
+msgstr "Pagina: %s%s%s"
 
 msgid "Do you want to import the backup file?"
 msgstr "Vuoi importare il file di backup?"
@@ -70,9 +106,6 @@ msgstr "Giallo Ocra"
 
 msgid "Orange"
 msgstr "Arancione"
-
-msgid "SKIN AND COLORS ITEMS"
-msgstr "SKIN E COLORI VOCI"
 
 msgid "Select the color of the entries."
 msgstr "Seleziona il colore delle voci."
@@ -762,8 +795,8 @@ msgstr "Chiave Privata salvata con successo!"
 msgid "Load Private Key"
 msgstr "Carica Chiave Privata"
 
-msgid "Total servers: %d/%d"
-msgstr "Server totali: %d/%d"
+msgid "Total servers: %s%s%s"
+msgstr "Server totali: %s%s%s"
 
 msgid "Checking Wireguard module"
 msgstr "Controllo del modulo Wireguard"

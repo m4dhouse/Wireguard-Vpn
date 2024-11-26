@@ -389,6 +389,9 @@ msgstr ""
 msgid "NETWORK AND INTERNET"
 msgstr ""
 
+msgid "NO VPN CONNECTION STARTED!"
+msgstr ""
+
 msgid "No DNS servers found"
 msgstr ""
 
@@ -416,9 +419,6 @@ msgstr ""
 msgid "Ping servers"
 msgstr ""
 
-msgid "Ping all servers"
-msgstr ""
-
 msgid "PERSONAL FILES"
 msgstr ""
 
@@ -426,6 +426,9 @@ msgid "PERFECT! "
 msgstr ""
 
 msgid "Page: %s%s%s"
+msgstr ""
+
+msgid "Page"
 msgstr ""
 
 msgid "Play sound"
@@ -500,7 +503,7 @@ msgstr ""
 msgid "Result successfully saved in /tmp/speedtest.png"
 msgstr ""
 
-msgid "Server selected"
+msgid "Selected"
 msgstr ""
 
 msgid "Select different ping options to show them in the list."

@@ -15,14 +15,20 @@ msgstr ""
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SearchPath-0: .\n"
 
+msgid "NO VPN CONNECTION STARTED!"
+msgstr ""
+
+msgid "Page"
+msgstr "Page"
+
 msgid "Ping servers"
 msgstr "Test des serveurs"
 
-msgid "Ping all servers"
-msgstr "Test tous les serveurs"
+msgid "All servers"
+msgstr "Tous les serveurs"
 
-msgid "Server selected"
-msgstr "Serveur choisi"
+msgid "Selected"
+msgstr "Choisi"
 
 msgid "Select different ping options to show them in the list."
 msgstr "Sélectionnez les différentes options de test pour les afficher dans la liste."
@@ -756,9 +762,6 @@ msgstr "(* Requiert le redémarrage de l'interface)"
 
 msgid "Select the type of server list"
 msgstr "Sélectionnez le type de liste de serveurs"
-
-msgid "All servers"
-msgstr "Tous les serveurs"
 
 msgid "Recommended servers"
 msgstr "Serveurs recommandés"

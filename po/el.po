@@ -14,14 +14,17 @@ msgstr ""
 "X-Generator: Poedit 3.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "NO VPN CONNECTION STARTED!"
+msgstr ""
+
+msgid "Page"
+msgstr "Σελίδα"
+
 msgid "Ping servers"
 msgstr "Ping διακομιστών"
 
-msgid "Ping all servers"
-msgstr "Ping όλων των διακομιστών"
-
-msgid "Server selected"
-msgstr "Επιλεγμένος διακομιστής"
+msgid "Selected"
+msgstr "Επιλεγμένο"
 
 msgid "Select different ping options to show them in the list."
 msgstr "Επιλέξτε διαφορετικές επιλογές ping για να τις εμφανίσετε στη λίστα."

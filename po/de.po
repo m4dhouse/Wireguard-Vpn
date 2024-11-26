@@ -14,14 +14,20 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "NO VPN CONNECTION STARTED!"
+msgstr ""
+
+msgid "Page"
+msgstr "Seite"
+
 msgid "Ping servers"
 msgstr "Server anpingen"
 
-msgid "Ping all servers"
-msgstr "Alle Server anpingen"
+msgid "All servers"
+msgstr "Alle Server"
 
-msgid "Server selected"
-msgstr "Server ausgewählt"
+msgid "Selected"
+msgstr "Ausgewählt"
 
 msgid "Select different ping options to show them in the list."
 msgstr "Wählen Sie verschiedene Ping-Optionen aus, um sie in der Liste anzuzeigen."
@@ -390,7 +396,7 @@ msgid "The MTU 1384 brings benefits on packet transmission, in most cases it inc
 msgstr "Die MTU 1384 bringt Vorteile bei der Paketübertragung, in den meisten Fällen erhöht sie den Wert von Download und Upload"
 
 msgid "Default"
-msgstr "Standardmäßig"
+msgstr "Standard"
 
 msgid "DNS leak test"
 msgstr "DNS-Leck Test"
@@ -632,6 +638,9 @@ msgstr "Anbieter:"
 msgid "Wireguard status"
 msgstr "Wireguard status"
 
+msgid "Server selected"
+msgstr "Ausgewählte Server"
+
 msgid "Link to the %s server"
 msgstr "Link zum %s Server"
 
@@ -764,9 +773,6 @@ msgstr "(* Erfordert einen Neustart der Gui)"
 msgid "Select the type of server list"
 msgstr "Wählen Sie den Typ der Serverliste"
 
-msgid "All servers"
-msgstr "Alle Server"
-
 msgid "Recommended servers"
 msgstr "Empfohlene Server"
 
@@ -780,13 +786,13 @@ msgid "Select the country"
 msgstr "Wählen Sie das Land aus"
 
 msgid "it will take longer to process the servers, you will have the complete list of servers."
-msgstr "Es wird länger dauern, die Server zu verarbeiten, Sie werden die komplette Liste der Server haben."
+msgstr "Die Verarbeitung der Server wird länger dauern, aber Sie erhalten die vollständige Liste der Server."
 
 msgid "'Recommended servers'"
 msgstr "'Empfohlene Server'"
 
 msgid "you will have the list of recommended servers, it will take less time to process the list."
-msgstr "Sie erhalten eine Liste der empfohlenen Server, die Verarbeitung der Liste nimmt weniger Zeit in Anspruch."
+msgstr "Sie erhalten die Liste mit den empfohlenen Servern und die Verarbeitung der Liste nimmt weniger Zeit in Anspruch."
 
 msgid "Data saved correctly!"
 msgstr "Daten korrekt gespeichert!"

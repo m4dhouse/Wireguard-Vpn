@@ -14,14 +14,20 @@ msgstr ""
 "X-Generator: Poedit 3.4.4\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "NO VPN CONNECTION STARTED!"
+msgstr "NESSUNA CONNESSIONE VPN AVVIATA!"
+
+msgid "Page"
+msgstr "Pagina"
+
 msgid "Ping servers"
 msgstr "Ping server"
 
-msgid "Ping all servers"
-msgstr "Pinga tutti i server"
+msgid "All servers"
+msgstr "Tutti i server"
 
-msgid "Server selected"
-msgstr "Server selezionato"
+msgid "Selected"
+msgstr "Selezionato"
 
 msgid "Select different ping options to show them in the list."
 msgstr "Seleziona le diverse opzioni di ping per mostrarli nella lista."
@@ -758,9 +764,6 @@ msgstr "(* Richiede il riavvio della Gui)"
 
 msgid "Select the type of server list"
 msgstr "Seleziona il tipo di lista dei server"
-
-msgid "All servers"
-msgstr "Tutti i server"
 
 msgid "Recommended servers"
 msgstr "Server raccomandati"

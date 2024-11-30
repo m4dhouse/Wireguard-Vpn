@@ -14,6 +14,9 @@ msgstr ""
 "X-Generator: Poedit 3.4.4\n"
 "X-Poedit-SourceCharset: iso-8859-5\n"
 
+msgid "If your provider is Mullvad or NordVpn, press the Settings button and to configure it."
+msgstr ""
+
 msgid "NO VPN CONNECTION STARTED!"
 msgstr ""
 

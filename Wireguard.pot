@@ -320,6 +320,9 @@ msgstr ""
 msgid "I run the DNS Leak test"
 msgstr ""
 
+msgid "If your provider is Mullvad or NordVpn, press the Settings button and to configure it."
+msgstr ""
+
 msgid "If enabled, check the handshake on the server every 10 minutes. If the server is down, it will try to establish a new handshake."
 msgstr ""
 

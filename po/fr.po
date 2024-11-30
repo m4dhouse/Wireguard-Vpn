@@ -15,6 +15,9 @@ msgstr ""
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SearchPath-0: .\n"
 
+msgid "If your provider is Mullvad or NordVpn, press the Settings button and to configure it."
+msgstr ""
+
 msgid "NO VPN CONNECTION STARTED!"
 msgstr "AUCUNE CONNEXION VPN DÉMARRÉE!"
 

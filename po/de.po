@@ -14,11 +14,23 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "No results found for '%s'. Try again?"
+msgstr "Keine Ergebnisse für '%s' gefunden. Erneut versuchen?"
+
+msgid "Search"
+msgstr "Suche"
+
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+msgid "Search by country"
+msgstr "Suche nach Land"
+
 msgid "If your provider is Mullvad or NordVpn, press the Settings button and to configure it."
-msgstr ""
+msgstr "Wenn Ihr Anbieter Mullvad oder NordVpn ist, klicken Sie auf die Schaltfläche Einstellungen, um ihn zu konfigurieren.."
 
 msgid "NO VPN CONNECTION STARTED!"
-msgstr ""
+msgstr "KEINE VPN-VERBINDUNG AUFGEBAUT!"
 
 msgid "Page"
 msgstr "Seite"

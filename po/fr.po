@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-11-26 17:55+0100\n"
+"PO-Revision-Date: 2024-12-02 06:32+0100\n"
 "Last-Translator: Gruick1\n"
 "Language-Team: your_name <your_email@gmail.com>\n"
 "Language: fr\n"
@@ -15,8 +15,20 @@ msgstr ""
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SearchPath-0: .\n"
 
+msgid "No results found for '%s'. Try again?"
+msgstr "Aucun résultat trouvé pour '%s'. Réessayer?"
+
+msgid "Search"
+msgstr "Rechercher"
+
+msgid "Reset"
+msgstr "Réinitialiser"
+
+msgid "Search by country"
+msgstr "Rechercher par pays"
+
 msgid "If your provider is Mullvad or NordVpn, press the Settings button and to configure it."
-msgstr ""
+msgstr "Si votre fournisseur est Mullvad ou NordVpn, appuyez sur le bouton Paramètres pour le configurer."
 
 msgid "NO VPN CONNECTION STARTED!"
 msgstr "AUCUNE CONNEXION VPN DÉMARRÉE!"

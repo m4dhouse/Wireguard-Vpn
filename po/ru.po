@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-12-02 06:30+0200\n"
+"PO-Revision-Date: 2024-12-03 14:25+0200\n"
 "Last-Translator: airforce\n"
 "Language-Team: airforce <kosmosspace@gmail.com>\n"
 "Language: ru\n"
@@ -13,6 +13,21 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.4.4\n"
 "X-Poedit-SourceCharset: iso-8859-5\n"
+
+msgid "Press Ok"
+msgstr "Нажмите ОК"
+
+msgid "File %s created successfully!"
+msgstr "Файл %s успешно создан!"
+
+msgid "File %s not created!"
+msgstr "Файл %s не создан!"
+
+msgid "Generate CloudFlare (Free)"
+msgstr "Сгенерировать CloudFlare (бесплатно)"
+
+msgid "Generate a CloudFlare (Free) configuration, you will find it in the server list."
+msgstr "Создайте конфигурацию CloudFlare (бесплатно), вы найдете ее в списке серверов."
 
 msgid "No results found for '%s'. Try again?"
 msgstr "Нет Результатов по запросу '%s'. Попробовать еще раз?"

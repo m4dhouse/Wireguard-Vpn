@@ -14,6 +14,21 @@ msgstr ""
 "X-Generator: Poedit 3.4.4\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "Press Ok"
+msgstr "Premi OK"
+
+msgid "File %s created successfully!"
+msgstr "FIle %s creato con successo!"
+
+msgid "File %s not created!"
+msgstr "File %s non creato!"
+
+msgid "Generate CloudFlare (Free)"
+msgstr "Genera CloudFlare (Gratuito)"
+
+msgid "Generate a CloudFlare (Free) configuration, you will find it in the server list."
+msgstr "Genera una configurazione (Gratuita), la troverai nella lista dei server."
+
 msgid "No results found for '%s'. Try again?"
 msgstr "Nessun risultato trovato per '%s'. Vuoi riprovare?"
 

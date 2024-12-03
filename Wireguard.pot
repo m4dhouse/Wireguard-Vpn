@@ -293,10 +293,22 @@ msgstr ""
 msgid "Exit"
 msgstr ""
 
+msgid "File %s not created!"
+msgstr ""
+
+msgid "File %s created successfully!"
+msgstr ""
+
 msgid "Failed to retrieve Nordlynx Private Key."
 msgstr ""
 
 msgid "Finished restarting your network"
+msgstr ""
+
+msgid "Generate CloudFlare (Free)"
+msgstr ""
+
+msgid "Generate a CloudFlare (Free) configuration, you will find it in the server list."
 msgstr ""
 
 msgid "Green"
@@ -426,6 +438,9 @@ msgid "or edit the file located in"
 msgstr ""
 
 msgid "or"
+msgstr ""
+
+msgid "Press Ok"
 msgstr ""
 
 msgid "Ping servers"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-12-03 14:25+0200\n"
+"PO-Revision-Date: 2024-12-04 06:15+0200\n"
 "Last-Translator: airforce\n"
 "Language-Team: airforce <kosmosspace@gmail.com>\n"
 "Language: ru\n"
@@ -13,6 +13,30 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.4.4\n"
 "X-Poedit-SourceCharset: iso-8859-5\n"
+
+msgid "Unexpected error: %s"
+msgstr "Непредвиденная ошибка: %s"
+
+msgid "Delete files"
+msgstr "Удалить файлы"
+
+msgid "No file selected!"
+msgstr "Файл не выбран!"
+
+msgid "File not found: %s"
+msgstr "Файл не найден: %s"
+
+msgid "File deleted successfully: %s"
+msgstr "Файл удален успешно: %s"
+
+msgid "Error removing file: %s"
+msgstr "Ошибка при удалении файла: %s"
+
+msgid "Are you sure you want to delete the file: %s?"
+msgstr "Вы уверены, что хотите удалить файл: %s?"
+
+msgid "Cloudflare registration failed!"
+msgstr "Регистрация в Cloudflare не удалась!"
 
 msgid "Press Ok"
 msgstr "Нажмите ОК"

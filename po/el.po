@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-12-03 16:50+0200\n"
+"PO-Revision-Date: 2024-12-04 04:27+0200\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: giorbak\n"
 "Language: el\n"
@@ -13,6 +13,30 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Unexpected error: %s"
+msgstr "Μη αναμενόμενο σφάλμα: %s"
+
+msgid "Delete files"
+msgstr "Διαγραφή αρχείων"
+
+msgid "No file selected!"
+msgstr "Δεν έχει επιλεγεί αρχείο!"
+
+msgid "File not found: %s"
+msgstr "Το αρχείο δεν βρέθηκε: %s"
+
+msgid "File deleted successfully: %s"
+msgstr "Το αρχείο διαγράφηκε με επιτυχία: %s"
+
+msgid "Error removing file: %s"
+msgstr "Σφάλμα κατά την αφαίρεση του αρχείου: %s"
+
+msgid "Are you sure you want to delete the file: %s?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε το αρχείο: %s;"
+
+msgid "Cloudflare registration failed!"
+msgstr "Η εγγραφή στο Cloudflare απέτυχε!"
 
 msgid "Press Ok"
 msgstr "Πατήστε ΟΚ"

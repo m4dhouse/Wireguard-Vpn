@@ -14,6 +14,30 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "Unexpected error: %s"
+msgstr ""
+
+msgid "Delete files"
+msgstr ""
+
+msgid "No file selected!"
+msgstr ""
+
+msgid "File not found: %s"
+msgstr ""
+
+msgid "File deleted successfully: %s"
+msgstr ""
+
+msgid "Error removing file: %s"
+msgstr ""
+
+msgid "Are you sure you want to delete the file: %s?"
+msgstr ""
+
+msgid "Cloudflare registration failed!"
+msgstr ""
+
 msgid "Press Ok"
 msgstr ""
 

@@ -50,6 +50,9 @@ msgstr ""
 msgid "Access via Token"
 msgstr ""
 
+msgid "Are you sure you want to delete the file: %s?"
+msgstr ""
+
 msgid "Add bypasses"
 msgstr ""
 
@@ -87,6 +90,9 @@ msgid "SKIN AND COLORS ITEMS"
 msgstr ""
 
 msgid "SKIN, COLORS AND SOUNDS"
+msgstr ""
+
+msgid "Cloudflare registration failed!"
 msgstr ""
 
 msgid "Color of entries"
@@ -185,6 +191,9 @@ msgstr ""
 msgid "Create your access token via the NordVpn website."
 msgstr ""
 
+msgid "Delete files"
+msgstr ""
+
 msgid "Disabled"
 msgstr ""
 
@@ -254,6 +263,9 @@ msgstr ""
 msgid "Download speedtest.png failed!"
 msgstr ""
 
+msgid "Error removing file: %s"
+msgstr ""
+
 msgid "Edit the file located in /etc/wg_token.key and paste your access token."
 msgstr ""
 
@@ -291,6 +303,12 @@ msgid "Example:"
 msgstr ""
 
 msgid "Exit"
+msgstr ""
+
+msgid "File not found: %s"
+msgstr ""
+
+msgid "File deleted successfully: %s"
 msgstr ""
 
 msgid "File %s not created!"
@@ -405,6 +423,9 @@ msgid "Load token access"
 msgstr ""
 
 msgid "Mullvad account does not exist!"
+msgstr ""
+
+msgid "No file selected!"
 msgstr ""
 
 msgid "No results found for '%s'. Try again?"
@@ -762,6 +783,9 @@ msgid "Try later or"
 msgstr ""
 
 msgid "Try restarting yours %s"
+msgstr ""
+
+msgid "Unexpected error: %s"
 msgstr ""
 
 msgid "Unable to get the ip of the selected server"

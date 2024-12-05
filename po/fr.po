@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-12-03 16:18+0100\n"
+"PO-Revision-Date: 2024-12-03 23:18+0100\n"
 "Last-Translator: Gruick1\n"
 "Language-Team: your_name <your_email@gmail.com>\n"
 "Language: fr\n"
@@ -14,6 +14,30 @@ msgstr ""
 "X-Generator: Poedit 3.5\n"
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SearchPath-0: .\n"
+
+msgid "Unexpected error: %s"
+msgstr "Erreur inattendue : %s"
+
+msgid "Delete files"
+msgstr "Supprimer les fichiers"
+
+msgid "No file selected!"
+msgstr "Aucun fichier sélectionné !"
+
+msgid "File not found: %s"
+msgstr "Le fichier n'a pas été trouvé : %s"
+
+msgid "File deleted successfully: %s"
+msgstr "Fichier supprimé avec succès : %s"
+
+msgid "Error removing file: %s"
+msgstr "Erreur lors de la suppression du fichier : %s"
+
+msgid "Are you sure you want to delete the file: %s?"
+msgstr "Êtes-vous sûr de vouloir supprimer le fichier : %s ?"
+
+msgid "Cloudflare registration failed!"
+msgstr "L'enregistrement de Cloudflare a échoué !"
 
 msgid "Press Ok"
 msgstr "Appuyer sur Ok"

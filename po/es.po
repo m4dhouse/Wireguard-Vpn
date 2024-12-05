@@ -14,6 +14,30 @@ msgstr ""
 "X-Generator: Poedit 3.4.4\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "Unexpected error: %s"
+msgstr "Error inesperado: %s"
+
+msgid "Delete files"
+msgstr "Eliminar archivos"
+
+msgid "No file selected!"
+msgstr "No hay archivo seleccionado!"
+
+msgid "File not found: %s"
+msgstr "Archivo no encontrado: %s"
+
+msgid "File deleted successfully: %s"
+msgstr "Archivo eliminado exitosamente: %s"
+
+msgid "Error removing file: %s"
+msgstr "Error al eliminar archivo: %s"
+
+msgid "Are you sure you want to delete the file: %s?"
+msgstr "Estas seguro de que deseas eliminar el archivo: %s?"
+
+msgid "Cloudflare registration failed!"
+msgstr "¡Error en el registro de Cloudflare!"
+
 msgid "Press Ok"
 msgstr "Presiona Ok"
 
@@ -596,10 +620,10 @@ msgid "Choose server and press ok"
 msgstr "Elija el servidor y clique ok"
 
 msgid "Download speedtest.png failed!"
-msgstr "¡Download la descarga de speedtest.png!"
+msgstr "Descarga speedtest.png fallida!"
 
 msgid "Press MENU to update"
-msgstr "Clique MENÚ para actualizar"
+msgstr "Pulsa menu para actualizar"
 
 msgid "Install update..."
 msgstr "Instalar actualización..."
@@ -680,7 +704,7 @@ msgid "or edit the file located in"
 msgstr "o editar el archivo ubicado en"
 
 msgid "Server %s is Down!"
-msgstr "¡El servidor %s está fermo!"
+msgstr "El servidor %s no este disponible!"
 
 msgid "Try later or"
 msgstr "Intentar más tarde o"

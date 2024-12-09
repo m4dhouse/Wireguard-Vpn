@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-12-04 06:15+0200\n"
+"PO-Revision-Date: 2024-12-09 19:20+0200\n"
 "Last-Translator: airforce\n"
 "Language-Team: airforce <kosmosspace@gmail.com>\n"
 "Language: ru\n"
@@ -13,6 +13,24 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.4.4\n"
 "X-Poedit-SourceCharset: iso-8859-5\n"
+
+msgid "Server copy"
+msgstr "Копия сервера"
+
+msgid "The file %s %s"
+msgstr "Файл %s %s"
+
+msgid "exists.\nDo you want to overwrite it?"
+msgstr "существует.\nВы хотите перезаписать его?"
+
+msgid "Configure your provider first and then you can copy the chosen server."
+msgstr "Сначала настройте своего провайдера, а затем можете скопировать выбранный сервер."
+
+msgid "Server %s %s"
+msgstr "Сервер %s %s"
+
+msgid "copied successfully!"
+msgstr "скопировано успешно!"
 
 msgid "Unexpected error: %s"
 msgstr "Непредвиденная ошибка: %s"

@@ -77,6 +77,12 @@ msgstr ""
 msgid "Button"
 msgstr ""
 
+msgid "Server %s %s"
+msgstr ""
+
+msgid "Server copy"
+msgstr ""
+
 msgid "Search"
 msgstr ""
 
@@ -90,6 +96,12 @@ msgid "SKIN AND COLORS ITEMS"
 msgstr ""
 
 msgid "SKIN, COLORS AND SOUNDS"
+msgstr ""
+
+msgid "Configure your provider first and then you can copy the chosen server."
+msgstr ""
+
+msgid "copied successfully!"
 msgstr ""
 
 msgid "Cloudflare registration failed!"
@@ -261,6 +273,9 @@ msgid "Double VPN, highest level of safety and security, tracking the real IP ad
 msgstr ""
 
 msgid "Download speedtest.png failed!"
+msgstr ""
+
+msgid "exists.\nDo you want to overwrite it?"
 msgstr ""
 
 msgid "Error removing file: %s"
@@ -708,6 +723,9 @@ msgid "Stop the currently playing service"
 msgstr ""
 
 msgid "Stops the service playing (streaming) if it connects to a new server and resumes service."
+msgstr ""
+
+msgid "The file %s %s"
 msgstr ""
 
 msgid "Turquoise"

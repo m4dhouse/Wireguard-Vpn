@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-12-03 14:31+0200\n"
+"PO-Revision-Date: 2024-12-09 14:31+0200\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: Madhouse <anonm4d@gmail.com>\n"
 "Language: it\n"
@@ -13,6 +13,24 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.4.4\n"
 "X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Server copy"
+msgstr "Copia server"
+
+msgid "The file %s %s"
+msgstr "Il file %s %s"
+
+msgid "exists.\nDo you want to overwrite it?"
+msgstr "esiste.\nVuoi sovrascriverlo?"
+
+msgid "Configure your provider first and then you can copy the chosen server."
+msgstr "Configura prima il tuo provider e dopo puoi copiare i server nella directory."
+
+msgid "Server %s %s"
+msgstr "Server %s %s"
+
+msgid "copied successfully!"
+msgstr "copiato con successo!"
 
 msgid "Unexpected error: %s"
 msgstr "Errore imprevisto: %s"
@@ -60,7 +78,7 @@ msgid "Search"
 msgstr "Cerca"
 
 msgid "Reset"
-msgstr "Resetta"
+msgstr "Reset"
 
 msgid "Search by country"
 msgstr "Cerca per nazioni"

@@ -14,6 +14,24 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "Server copy"
+msgstr "Serverkopie"
+
+msgid "The file %s %s"
+msgstr "Die Datei %s %s“"
+
+msgid "exists.\nDo you want to overwrite it?"
+msgstr "vorhanden.\nMöchten Sie es überschreiben?"
+
+msgid "Configure your provider first and then you can copy the chosen server."
+msgstr "Konfigurieren Sie zunächst Ihren Provider und kopieren Sie dann den gewählten Server."
+
+msgid "Server %s %s"
+msgstr "Server %s %s"
+
+msgid "copied successfully!"
+msgstr "erfolgreich kopiert!"
+
 msgid "Unexpected error: %s"
 msgstr "Unerwarteter Fehler: %s"
 

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-12-03 23:18+0100\n"
+"PO-Revision-Date: 2024-12-09 21:35+0100\n"
 "Last-Translator: Gruick1\n"
 "Language-Team: your_name <your_email@gmail.com>\n"
 "Language: fr\n"
@@ -15,26 +15,44 @@ msgstr ""
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SearchPath-0: .\n"
 
+msgid "Server copy"
+msgstr "Copie du serveur"
+
+msgid "The file %s %s"
+msgstr "Le fichier %s %s"
+
+msgid "exists.\nDo you want to overwrite it?"
+msgstr "existe.\nVoulez-vous l'écraser?"
+
+msgid "Configure your provider first and then you can copy the chosen server."
+msgstr "Configurez d'abord votre fournisseur, puis copiez le serveur choisi."
+
+msgid "Server %s %s"
+msgstr "Serveur %s %s"
+
+msgid "copied successfully!"
+msgstr "copié avec succès!"
+
 msgid "Unexpected error: %s"
-msgstr "Erreur inattendue : %s"
+msgstr "Erreur inattendue: %s"
 
 msgid "Delete files"
 msgstr "Supprimer les fichiers"
 
 msgid "No file selected!"
-msgstr "Aucun fichier sélectionné !"
+msgstr "Aucun fichier sélectionné!"
 
 msgid "File not found: %s"
-msgstr "Le fichier n'a pas été trouvé : %s"
+msgstr "Le fichier n'a pas été trouvé: %s"
 
 msgid "File deleted successfully: %s"
-msgstr "Fichier supprimé avec succès : %s"
+msgstr "Fichier supprimé avec succès: %s"
 
 msgid "Error removing file: %s"
-msgstr "Erreur lors de la suppression du fichier : %s"
+msgstr "Erreur lors de la suppression du fichier: %s"
 
 msgid "Are you sure you want to delete the file: %s?"
-msgstr "Êtes-vous sûr de vouloir supprimer le fichier : %s ?"
+msgstr "Êtes-vous sûr de vouloir supprimer le fichier: %s ?"
 
 msgid "Cloudflare registration failed!"
 msgstr "L'enregistrement de Cloudflare a échoué !"
@@ -238,7 +256,7 @@ msgid "The host %s ' %s ' is duplicated.\n"
 msgstr "L'hôte %s ' %s ' est dupliqué.\n"
 
 msgid "Error creating backup file: Out of disk space %s."
-msgstr "Erreur dans la création du fichier de sauvegarde : Espace disque insuffisant %s."
+msgstr "Erreur dans la création du fichier de sauvegarde: Espace disque insuffisant %s."
 
 msgid "Unable to write to file."
 msgstr "Impossible d'écrire sur le fichier."
@@ -536,7 +554,7 @@ msgid "Put the files in %s"
 msgstr "Mettre les fichiers dans %s"
 
 msgid "Total files: %s"
-msgstr "Nombre total de fichiers : %s"
+msgstr "Nombre total de fichiers: %s"
 
 msgid "'Servers MultiHop'"
 msgstr "'Serveurs MultiHop'"
@@ -728,7 +746,7 @@ msgid "Check vpn disabled"
 msgstr "Vérifier que le vpn est désactivé"
 
 msgid "VPN Status: OK"
-msgstr "Statut VPN : OK"
+msgstr "Statut VPN: OK"
 
 msgid "Warning! VPN KO"
 msgstr "Alerte! VPN KO"

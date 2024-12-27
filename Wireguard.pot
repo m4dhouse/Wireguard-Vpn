@@ -338,6 +338,9 @@ msgstr ""
 msgid "Finished restarting your network"
 msgstr ""
 
+msgid "Generate the private key"
+msgstr ""
+
 msgid "Generate CloudFlare (Free)"
 msgstr ""
 
@@ -435,6 +438,9 @@ msgid "Load the access token with the BLUE button."
 msgstr ""
 
 msgid "Load token access"
+msgstr ""
+
+msgid "Mullvad configuration successfully created!"
 msgstr ""
 
 msgid "Mullvad account does not exist!"

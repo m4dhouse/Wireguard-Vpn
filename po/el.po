@@ -3,16 +3,98 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-11-26 20:17+0200\n"
+"PO-Revision-Date: 2024-12-27 01:58+0200\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
-"Language-Team: \n"
+"Language-Team: giorbak\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Generate the private key"
+msgstr "Δημιουργία του ιδιωτικού κλειδιού"
+
+msgid "Mullvad configuration successfully created!"
+msgstr "Η διαμόρφωση Mullvad δημιουργήθηκε με επιτυχία!"
+
+msgid "Server copy"
+msgstr "Αντιγραφή διακομιστή"
+
+msgid "The file %s %s"
+msgstr "Το αρχείο %s %s"
+
+msgid ""
+"exists.\n"
+"Do you want to overwrite it?"
+msgstr ""
+"υπάρχει.\n"
+"Θέλετε να το αντικαταστήσετε;"
+
+msgid "Configure your provider first and then you can copy the chosen server."
+msgstr "Ρυθμίστε πρώτα τον πάροχό σας και στη συνέχεια μπορείτε να αντιγράψετε τον επιλεγμένο διακομιστή."
+
+msgid "Server %s %s"
+msgstr "Ο διακομιστής %s %s"
+
+msgid "copied successfully!"
+msgstr "αντιγράφηκε με επιτυχία!"
+
+msgid "Unexpected error: %s"
+msgstr "Μη αναμενόμενο σφάλμα: %s"
+
+msgid "Delete files"
+msgstr "Διαγραφή αρχείων"
+
+msgid "No file selected!"
+msgstr "Δεν έχει επιλεγεί αρχείο!"
+
+msgid "File not found: %s"
+msgstr "Το αρχείο δεν βρέθηκε: %s"
+
+msgid "File deleted successfully: %s"
+msgstr "Το αρχείο διαγράφηκε με επιτυχία: %s"
+
+msgid "Error removing file: %s"
+msgstr "Σφάλμα κατά την αφαίρεση του αρχείου: %s"
+
+msgid "Are you sure you want to delete the file: %s?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε το αρχείο: %s;"
+
+msgid "Cloudflare registration failed!"
+msgstr "Η εγγραφή στο Cloudflare απέτυχε!"
+
+msgid "Press Ok"
+msgstr "Πατήστε ΟΚ"
+
+msgid "File %s created successfully!"
+msgstr "Το αρχείο %s δημιουργήθηκε με επιτυχία!"
+
+msgid "File %s not created!"
+msgstr "Το αρχείο %s δεν δημιουργήθηκε!"
+
+msgid "Generate CloudFlare (Free)"
+msgstr "Δημιουργία CloudFlare (δωρεάν)"
+
+msgid "Generate a CloudFlare (Free) configuration, you will find it in the server list."
+msgstr "Δημιουργήστε μια διαμόρφωση CloudFlare (δωρεάν), θα τη βρείτε στη λίστα διακομιστών."
+
+msgid "No results found for '%s'. Try again?"
+msgstr "Δεν βρέθηκαν αποτελέσματα για το '%s'. Θέλετε να δοκιμάσετε ξανά;"
+
+msgid "Search"
+msgstr "Αναζήτηση"
+
+msgid "Reset"
+msgstr "Επαναφορά"
+
+msgid "Search by country"
+msgstr "Αναζήτηση κατά χώρα"
+
+msgid "If your provider is Mullvad or NordVpn, press the Settings button and to configure it."
+msgstr "Εάν ο πάροχος σας είναι Mullvad ή NordVpn, πατήστε το κουμπί Ρυθμίσεις για να τον ρυθμίσετε."
 
 msgid "NO VPN CONNECTION STARTED!"
 msgstr "ΔΕΝ ΞΕΚΙΝΗΣΕ ΣΥΝΔΕΣΗ VPN!"

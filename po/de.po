@@ -14,8 +14,86 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "Generate the private key"
+msgstr "Generieren privaten Schlüssel"
+
+msgid "Mullvad configuration successfully created!"
+msgstr "Mullvad-Konfiguration erfolgreich erstellt!"
+
+msgid "Server copy"
+msgstr "Serverkopie"
+
+msgid "The file %s %s"
+msgstr "Die Datei %s %s“"
+
+msgid "exists.\nDo you want to overwrite it?"
+msgstr "vorhanden.\nMöchten Sie es überschreiben?"
+
+msgid "Configure your provider first and then you can copy the chosen server."
+msgstr "Konfigurieren Sie zunächst Ihren Provider und kopieren Sie dann den gewählten Server."
+
+msgid "Server %s %s"
+msgstr "Server %s %s"
+
+msgid "copied successfully!"
+msgstr "erfolgreich kopiert!"
+
+msgid "Unexpected error: %s"
+msgstr "Unerwarteter Fehler: %s"
+
+msgid "Delete files"
+msgstr "Dateien löschen"
+
+msgid "No file selected!"
+msgstr "Keine Datei ausgewählt!"
+
+msgid "File not found: %s"
+msgstr "Datei nicht gefunden: %s"
+
+msgid "File deleted successfully: %s"
+msgstr "Datei erfolgreich gelöscht: %s"
+
+msgid "Error removing file: %s"
+msgstr "Fehler beim Entfernen der Datei: %s"
+
+msgid "Are you sure you want to delete the file: %s?"
+msgstr "Möchten Sie die Datei %s wirklich löschen?"
+
+msgid "Cloudflare registration failed!"
+msgstr "Cloudflare-Registrierung fehlgeschlagen!"
+
+msgid "Press Ok"
+msgstr "Ok drücken"
+
+msgid "File %s created successfully!"
+msgstr "Datei %s erfolgreich erstellt!"
+
+msgid "File %s not created!"
+msgstr "Datei %s nicht erstellt!"
+
+msgid "Generate CloudFlare (Free)"
+msgstr "CloudFlare generieren (kostenlos)"
+
+msgid "Generate a CloudFlare (Free) configuration, you will find it in the server list."
+msgstr "Generieren Sie eine CloudFlare-Konfiguration (kostenlos), Sie finden sie in der Serverliste."
+
+msgid "No results found for '%s'. Try again?"
+msgstr "Keine Ergebnisse für '%s' gefunden. Erneut versuchen?"
+
+msgid "Search"
+msgstr "Suche"
+
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+msgid "Search by country"
+msgstr "Suche nach Land"
+
+msgid "If your provider is Mullvad or NordVpn, press the Settings button and to configure it."
+msgstr "Wenn Ihr Anbieter Mullvad oder NordVpn ist, klicken Sie auf die Schaltfläche Einstellungen, um ihn zu konfigurieren.."
+
 msgid "NO VPN CONNECTION STARTED!"
-msgstr ""
+msgstr "KEINE VPN-VERBINDUNG AUFGEBAUT!"
 
 msgid "Page"
 msgstr "Seite"

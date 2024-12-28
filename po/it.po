@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-11-11 14:31+0200\n"
+"PO-Revision-Date: 2024-12-25 14:31+0200\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: Madhouse <anonm4d@gmail.com>\n"
 "Language: it\n"
@@ -13,6 +13,84 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.4.4\n"
 "X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Generate the private key"
+msgstr "Genera la chiave privata"
+
+msgid "Mullvad configuration successfully created!"
+msgstr "Configurazione Mullvad generata con successo!"
+
+msgid "Server copy"
+msgstr "Copia server"
+
+msgid "The file %s %s"
+msgstr "Il file %s %s"
+
+msgid "exists.\nDo you want to overwrite it?"
+msgstr "esiste.\nVuoi sovrascriverlo?"
+
+msgid "Configure your provider first and then you can copy the chosen server."
+msgstr "Configura prima il tuo provider e dopo puoi copiare i server nella directory."
+
+msgid "Server %s %s"
+msgstr "Server %s %s"
+
+msgid "copied successfully!"
+msgstr "copiato con successo!"
+
+msgid "Unexpected error: %s"
+msgstr "Errore imprevisto: %s"
+
+msgid "Delete files"
+msgstr "Rimuovi file"
+
+msgid "No file selected!"
+msgstr "Nessun file selezionato!"
+
+msgid "File not found: %s"
+msgstr "File non trovato: %s"
+
+msgid "File deleted successfully: %s"
+msgstr "File %s eliminato con successo"
+
+msgid "Error removing file: %s"
+msgstr "Errore nel rimuovere il file: %s"
+
+msgid "Are you sure you want to delete the file: %s?"
+msgstr "Sei sicuro di voler eliminare il file %s?"
+
+msgid "Cloudflare registration failed!"
+msgstr "Registrazione Cloudflare fallita!"
+
+msgid "Press Ok"
+msgstr "Premi OK"
+
+msgid "File %s created successfully!"
+msgstr "FIle %s creato con successo!"
+
+msgid "File %s not created!"
+msgstr "File %s non creato!"
+
+msgid "Generate CloudFlare (Free)"
+msgstr "Genera CloudFlare (Gratuito)"
+
+msgid "Generate a CloudFlare (Free) configuration, you will find it in the server list."
+msgstr "Genera una configurazione (Gratuita), la troverai nella lista dei server."
+
+msgid "No results found for '%s'. Try again?"
+msgstr "Nessun risultato trovato per '%s'. Vuoi riprovare?"
+
+msgid "Search"
+msgstr "Cerca"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Search by country"
+msgstr "Cerca per nazioni"
+
+msgid "If your provider is Mullvad or NordVpn, press the Settings button and to configure it."
+msgstr "Se il tuo provider è Mullvad o NordVpn, premi il tasto Configurazione per configurarlo."
 
 msgid "NO VPN CONNECTION STARTED!"
 msgstr "NESSUNA CONNESSIONE VPN AVVIATA!"

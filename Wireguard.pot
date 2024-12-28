@@ -50,6 +50,9 @@ msgstr ""
 msgid "Access via Token"
 msgstr ""
 
+msgid "Are you sure you want to delete the file: %s?"
+msgstr ""
+
 msgid "Add bypasses"
 msgstr ""
 
@@ -74,6 +77,18 @@ msgstr ""
 msgid "Button"
 msgstr ""
 
+msgid "Server %s %s"
+msgstr ""
+
+msgid "Server copy"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Search by country"
+msgstr ""
+
 msgid "Stop"
 msgstr ""
 
@@ -81,6 +96,15 @@ msgid "SKIN AND COLORS ITEMS"
 msgstr ""
 
 msgid "SKIN, COLORS AND SOUNDS"
+msgstr ""
+
+msgid "Configure your provider first and then you can copy the chosen server."
+msgstr ""
+
+msgid "copied successfully!"
+msgstr ""
+
+msgid "Cloudflare registration failed!"
 msgstr ""
 
 msgid "Color of entries"
@@ -179,6 +203,9 @@ msgstr ""
 msgid "Create your access token via the NordVpn website."
 msgstr ""
 
+msgid "Delete files"
+msgstr ""
+
 msgid "Disabled"
 msgstr ""
 
@@ -248,6 +275,12 @@ msgstr ""
 msgid "Download speedtest.png failed!"
 msgstr ""
 
+msgid "exists.\nDo you want to overwrite it?"
+msgstr ""
+
+msgid "Error removing file: %s"
+msgstr ""
+
 msgid "Edit the file located in /etc/wg_token.key and paste your access token."
 msgstr ""
 
@@ -287,10 +320,31 @@ msgstr ""
 msgid "Exit"
 msgstr ""
 
+msgid "File not found: %s"
+msgstr ""
+
+msgid "File deleted successfully: %s"
+msgstr ""
+
+msgid "File %s not created!"
+msgstr ""
+
+msgid "File %s created successfully!"
+msgstr ""
+
 msgid "Failed to retrieve Nordlynx Private Key."
 msgstr ""
 
 msgid "Finished restarting your network"
+msgstr ""
+
+msgid "Generate the private key"
+msgstr ""
+
+msgid "Generate CloudFlare (Free)"
+msgstr ""
+
+msgid "Generate a CloudFlare (Free) configuration, you will find it in the server list."
 msgstr ""
 
 msgid "Green"
@@ -318,6 +372,9 @@ msgid "I check the files"
 msgstr ""
 
 msgid "I run the DNS Leak test"
+msgstr ""
+
+msgid "If your provider is Mullvad or NordVpn, press the Settings button and to configure it."
 msgstr ""
 
 msgid "If enabled, check the handshake on the server every 10 minutes. If the server is down, it will try to establish a new handshake."
@@ -383,7 +440,16 @@ msgstr ""
 msgid "Load token access"
 msgstr ""
 
+msgid "Mullvad configuration successfully created!"
+msgstr ""
+
 msgid "Mullvad account does not exist!"
+msgstr ""
+
+msgid "No file selected!"
+msgstr ""
+
+msgid "No results found for '%s'. Try again?"
 msgstr ""
 
 msgid "NETWORK AND INTERNET"
@@ -414,6 +480,9 @@ msgid "or edit the file located in"
 msgstr ""
 
 msgid "or"
+msgstr ""
+
+msgid "Press Ok"
 msgstr ""
 
 msgid "Ping servers"
@@ -477,6 +546,9 @@ msgid "Put the files in %s"
 msgstr ""
 
 msgid "Quick connection"
+msgstr ""
+
+msgid "Reset"
 msgstr ""
 
 msgid "Reboot Network Adapter"
@@ -659,6 +731,9 @@ msgstr ""
 msgid "Stops the service playing (streaming) if it connects to a new server and resumes service."
 msgstr ""
 
+msgid "The file %s %s"
+msgstr ""
+
 msgid "Turquoise"
 msgstr ""
 
@@ -732,6 +807,9 @@ msgid "Try later or"
 msgstr ""
 
 msgid "Try restarting yours %s"
+msgstr ""
+
+msgid "Unexpected error: %s"
 msgstr ""
 
 msgid "Unable to get the ip of the selected server"

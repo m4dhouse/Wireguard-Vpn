@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-11-24 15:00+0200\n"
+"PO-Revision-Date: 2024-12-09 19:20+0200\n"
 "Last-Translator: airforce\n"
 "Language-Team: airforce <kosmosspace@gmail.com>\n"
 "Language: ru\n"
@@ -14,8 +14,86 @@ msgstr ""
 "X-Generator: Poedit 3.4.4\n"
 "X-Poedit-SourceCharset: iso-8859-5\n"
 
-msgid "NO VPN CONNECTION STARTED!"
+msgid "Generate the private key"
 msgstr ""
+
+msgid "Mullvad configuration successfully created!"
+msgstr ""
+
+msgid "Server copy"
+msgstr "Копия сервера"
+
+msgid "The file %s %s"
+msgstr "Файл %s %s"
+
+msgid "exists.\nDo you want to overwrite it?"
+msgstr "существует.\nВы хотите перезаписать его?"
+
+msgid "Configure your provider first and then you can copy the chosen server."
+msgstr "Сначала настройте своего провайдера, а затем можете скопировать выбранный сервер."
+
+msgid "Server %s %s"
+msgstr "Сервер %s %s"
+
+msgid "copied successfully!"
+msgstr "скопировано успешно!"
+
+msgid "Unexpected error: %s"
+msgstr "Непредвиденная ошибка: %s"
+
+msgid "Delete files"
+msgstr "Удалить файлы"
+
+msgid "No file selected!"
+msgstr "Файл не выбран!"
+
+msgid "File not found: %s"
+msgstr "Файл не найден: %s"
+
+msgid "File deleted successfully: %s"
+msgstr "Файл удален успешно: %s"
+
+msgid "Error removing file: %s"
+msgstr "Ошибка при удалении файла: %s"
+
+msgid "Are you sure you want to delete the file: %s?"
+msgstr "Вы уверены, что хотите удалить файл: %s?"
+
+msgid "Cloudflare registration failed!"
+msgstr "Регистрация в Cloudflare не удалась!"
+
+msgid "Press Ok"
+msgstr "Нажмите ОК"
+
+msgid "File %s created successfully!"
+msgstr "Файл %s успешно создан!"
+
+msgid "File %s not created!"
+msgstr "Файл %s не создан!"
+
+msgid "Generate CloudFlare (Free)"
+msgstr "Сгенерировать CloudFlare (бесплатно)"
+
+msgid "Generate a CloudFlare (Free) configuration, you will find it in the server list."
+msgstr "Создайте конфигурацию CloudFlare (бесплатно), вы найдете ее в списке серверов."
+
+msgid "No results found for '%s'. Try again?"
+msgstr "Нет Результатов по запросу '%s'. Попробовать еще раз?"
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "Reset"
+msgstr "Перезагрузить"
+
+msgid "Search by country"
+msgstr "Поиск по стране"
+
+msgid "If your provider is Mullvad or NordVpn, press the Settings button and to configure it."
+msgstr "Если ваш провайдер — Mullvad или NordVpn, нажмите кнопку «Настройки», чтобы настроить его."
+
+msgid "NO VPN CONNECTION STARTED!"
+msgstr "VPN-СОЕДИНЕНИЕ НЕ ЗАПУЩЕНО!"
 
 msgid "Page"
 msgstr "Страница"

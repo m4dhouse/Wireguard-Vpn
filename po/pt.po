@@ -14,6 +14,84 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "Generate the private key"
+msgstr ""
+
+msgid "Mullvad configuration successfully created!"
+msgstr ""
+
+msgid "Server copy"
+msgstr ""
+
+msgid "The file %s %s"
+msgstr ""
+
+msgid "exists.\nDo you want to overwrite it?"
+msgstr ""
+
+msgid "Configure your provider first and then you can copy the chosen server."
+msgstr ""
+
+msgid "Server %s %s"
+msgstr ""
+
+msgid "copied successfully!"
+msgstr ""
+
+msgid "Unexpected error: %s"
+msgstr ""
+
+msgid "Delete files"
+msgstr ""
+
+msgid "No file selected!"
+msgstr ""
+
+msgid "File not found: %s"
+msgstr ""
+
+msgid "File deleted successfully: %s"
+msgstr ""
+
+msgid "Error removing file: %s"
+msgstr ""
+
+msgid "Are you sure you want to delete the file: %s?"
+msgstr ""
+
+msgid "Cloudflare registration failed!"
+msgstr ""
+
+msgid "Press Ok"
+msgstr ""
+
+msgid "File %s created successfully!"
+msgstr ""
+
+msgid "File %s not created!"
+msgstr ""
+
+msgid "Generate CloudFlare (Free)"
+msgstr ""
+
+msgid "Generate a CloudFlare (Free) configuration, you will find it in the server list."
+msgstr ""
+
+msgid "No results found for '%s'. Try again?"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Search by country"
+msgstr ""
+
+msgid "If your provider is Mullvad or NordVpn, press the Settings button and to configure it."
+msgstr ""
+
 msgid "NO VPN CONNECTION STARTED!"
 msgstr ""
 

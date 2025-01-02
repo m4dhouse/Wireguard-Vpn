@@ -15,6 +15,12 @@ msgstr ""
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SearchPath-0: .\n"
 
+msgid "Generate the private key"
+msgstr ""
+
+msgid "Mullvad configuration successfully created!"
+msgstr ""
+
 msgid "Server copy"
 msgstr "Copie du serveur"
 

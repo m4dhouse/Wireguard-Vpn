@@ -14,6 +14,12 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "Generate the private key"
+msgstr ""
+
+msgid "Mullvad configuration successfully created!"
+msgstr ""
+
 msgid "Server copy"
 msgstr ""
 

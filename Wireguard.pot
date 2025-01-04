@@ -215,6 +215,12 @@ msgstr ""
 msgid "Days"
 msgstr ""
 
+msgid "days"
+msgstr ""
+
+msgid "day"
+msgstr ""
+
 msgid "Data saved correctly!"
 msgstr ""
 
@@ -880,6 +886,9 @@ msgstr ""
 
 msgid "you will have the list of recommended servers, it will take less time to process the list."
 msgstr ""
+
+msgid "Your account will expire in"
+msgstr "
 
 msgid "Your private key"
 msgstr ""

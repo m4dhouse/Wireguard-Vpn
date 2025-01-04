@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-12-09 19:20+0200\n"
+"PO-Revision-Date: 2025-01-04 07:30+0200\n"
 "Last-Translator: airforce\n"
 "Language-Team: airforce <kosmosspace@gmail.com>\n"
 "Language: ru\n"
@@ -14,11 +14,20 @@ msgstr ""
 "X-Generator: Poedit 3.4.4\n"
 "X-Poedit-SourceCharset: iso-8859-5\n"
 
+msgid "day"
+msgstr "день"
+
+msgid "days"
+msgstr "дней"
+
+msgid "Your account will expire in"
+msgstr "Срок действия вашего аккаунта истекает через"
+
 msgid "Generate the private key"
-msgstr ""
+msgstr "Сгенерировать закрытый ключ"
 
 msgid "Mullvad configuration successfully created!"
-msgstr ""
+msgstr "Конфигурация Mullvad успешно создана!"
 
 msgid "Server copy"
 msgstr "Копия сервера"
@@ -712,7 +721,7 @@ msgid "CONNECTED"
 msgstr "ПОДКЛЮЧЕНО"
 
 msgid "Disconnect"
-msgstr "Отключено"
+msgstr "Отключить"
 
 msgid "IP"
 msgstr "IP"

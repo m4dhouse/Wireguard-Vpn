@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-12-09 21:35+0100\n"
+"PO-Revision-Date: 2025-01-03 10:02+0100\n"
 "Last-Translator: Gruick1\n"
 "Language-Team: your_name <your_email@gmail.com>\n"
 "Language: fr\n"
@@ -15,11 +15,20 @@ msgstr ""
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SearchPath-0: .\n"
 
-msgid "Generate the private key"
+msgid "day"
 msgstr ""
 
-msgid "Mullvad configuration successfully created!"
+msgid "days"
 msgstr ""
+
+msgid "Your account will expire in"
+msgstr ""
+
+msgid "Generate the private key"
+msgstr "Générer la clé privée"
+
+msgid "Mullvad configuration successfully created!"
+msgstr "La configuration Mullvad a été créée avec succès !"
 
 msgid "Server copy"
 msgstr "Copie du serveur"
@@ -27,8 +36,12 @@ msgstr "Copie du serveur"
 msgid "The file %s %s"
 msgstr "Le fichier %s %s"
 
-msgid "exists.\nDo you want to overwrite it?"
-msgstr "existe.\nVoulez-vous l'écraser?"
+msgid ""
+"exists.\n"
+"Do you want to overwrite it?"
+msgstr ""
+"existe.\n"
+"Voulez-vous l'écraser?"
 
 msgid "Configure your provider first and then you can copy the chosen server."
 msgstr "Configurez d'abord votre fournisseur, puis copiez le serveur choisi."
@@ -665,7 +678,7 @@ msgid "I check the available servers"
 msgstr "Je vérifie les serveurs disponibles"
 
 msgid "Repeat test"
-msgstr "Refait test"
+msgstr "Répéter le test"
 
 msgid "Result successfully saved in /tmp/speedtest.png"
 msgstr "Résultat enregistré avec succès dans /tmp/speedtest.png"
@@ -695,7 +708,7 @@ msgid "Settings"
 msgstr "Paramètres"
 
 msgid "Restart Network"
-msgstr "Redémarre Réseau"
+msgstr "Redémarrer le réseau"
 
 msgid "Link to the %s server"
 msgstr "Lien vers le serveur %s"
@@ -707,7 +720,7 @@ msgid "Please enter your Private Key by pressing the Green button"
 msgstr "Veuillez saisir votre Clé Privée en appuyant sur le bouton Vert"
 
 msgid "or edit the file located in"
-msgstr "ou éditez le fichier situé dans"
+msgstr "ou modifier le fichier situé dans"
 
 msgid "Server %s is Down!"
 msgstr "Serveur %s est en panne!"
@@ -779,7 +792,7 @@ msgid "or"
 msgstr "ou"
 
 msgid "Save the server list"
-msgstr "Enregistrez la liste des serveurs"
+msgstr "Sauvegarder la liste des serveurs"
 
 msgid "Privatekey file directory"
 msgstr "Répertoire de fichiers de clé privée"
@@ -839,7 +852,7 @@ msgid "(* Requires restart Gui)"
 msgstr "(* Requiert le redémarrage de l'interface)"
 
 msgid "Select the type of server list"
-msgstr "Sélectionnez le type de liste de serveurs"
+msgstr "Sélectionner le type de liste de serveurs"
 
 msgid "Recommended servers"
 msgstr "Serveurs recommandés"
@@ -851,7 +864,7 @@ msgid "'Servers by country'"
 msgstr "'Serveurs par pays'"
 
 msgid "Select the country"
-msgstr "Sélectionnez le pays"
+msgstr "Choisissez un pays"
 
 msgid "it will take longer to process the servers, you will have the complete list of servers."
 msgstr "le traitement des serveurs prendra plus de temps, mais vous disposerez de la liste complète des serveurs."
@@ -872,7 +885,7 @@ msgid "Private key saved successfully!"
 msgstr "Clé Privée enregistrée avec succès !"
 
 msgid "Load Private Key"
-msgstr "Charge Clé privée"
+msgstr "Charge la Clé privée"
 
 msgid "Total servers: %s%s%s"
 msgstr "Total serveurs: %s%s%s"

@@ -14,6 +14,15 @@ msgstr ""
 "X-Generator: Poedit 3.4.4\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "day"
+msgstr "giorno"
+
+msgid "days"
+msgstr "giorni"
+
+msgid "Your account will expire in"
+msgstr "Il tuo account scadrà tra"
+
 msgid "Generate the private key"
 msgstr "Genera la chiave privata"
 

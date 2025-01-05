@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-01-03 10:02+0100\n"
+"PO-Revision-Date: 2025-01-05 07:19+0100\n"
 "Last-Translator: Gruick1\n"
 "Language-Team: your_name <your_email@gmail.com>\n"
 "Language: fr\n"
@@ -15,14 +15,23 @@ msgstr ""
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SearchPath-0: .\n"
 
+msgid "Your account expires today"
+msgstr "Votre compte expire aujourd'hui"
+
+msgid "Your account expired"
+msgstr "Votre compte a expiré"
+
+msgid "ago"
+msgstr "depuis"
+
 msgid "day"
-msgstr ""
+msgstr "jour"
 
 msgid "days"
-msgstr ""
+msgstr "jours"
 
 msgid "Your account will expire in"
-msgstr ""
+msgstr "Votre compte expirera dans"
 
 msgid "Generate the private key"
 msgstr "Générer la clé privée"
@@ -176,7 +185,7 @@ msgid "I import the backup"
 msgstr "J'importe la sauvegarde"
 
 msgid "Select the skin"
-msgstr "Sélectionnez le thème"
+msgstr "Sélectionner le thème"
 
 msgid "Select your favorite skin."
 msgstr "Sélectionnez votre thème favori."
@@ -254,7 +263,7 @@ msgid "CHOICE OF PROVIDER"
 msgstr "CHOIX DU FOURNISSEUR"
 
 msgid "Stop the currently playing service"
-msgstr "Arrêter le service en cours de lecture"
+msgstr "Arrête le service en cours de lecture"
 
 msgid "Stops the service playing (streaming) if it connects to a new server and resumes service."
 msgstr "Arrête la lecture du service (streaming) s'il se connecte à un nouveau serveur et reprend le service."

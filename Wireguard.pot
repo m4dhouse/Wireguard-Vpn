@@ -47,6 +47,9 @@ msgstr ""
 msgid "AUTO START"
 msgstr ""
 
+msgid "ago"
+msgstr ""
+
 msgid "Access via Token"
 msgstr ""
 
@@ -885,6 +888,12 @@ msgid "You will have the complete list of servers."
 msgstr ""
 
 msgid "you will have the list of recommended servers, it will take less time to process the list."
+msgstr ""
+
+msgid "Your account expires today"
+msgstr ""
+
+msgid "Your account expired"
 msgstr ""
 
 msgid "Your account will expire in"

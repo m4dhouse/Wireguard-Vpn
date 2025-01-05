@@ -14,6 +14,15 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "Your account expires today"
+msgstr "Ihr Konto läuft heute ab"
+
+msgid "Your account expired"
+msgstr "Ihr Konto ist abgelaufen"
+
+msgid "ago"
+msgstr "vor"
+
 msgid "day"
 msgstr "Tag"
 

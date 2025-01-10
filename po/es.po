@@ -14,6 +14,15 @@ msgstr ""
 "X-Generator: Poedit 3.4.4\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "is valid."
+msgstr ""
+
+msgid "is too large, fragmentation needed."
+msgstr ""
+
+msgid "Performing an MTU test helps you configure your network optimally avoiding fragmentation issues and improving performance. This is especially important for VPN connections."
+msgstr ""
+
 msgid "Your account expires today"
 msgstr ""
 
@@ -482,9 +491,6 @@ msgstr "Elija un servidor de prueba DNS de bash.ws o dnsleaktest.com"
 
 msgid "Set the MTU"
 msgstr "Establecer la MTU"
-
-msgid "The MTU 1384 brings benefits on packet transmission, in most cases it increases the value of download and upload"
-msgstr "La MTU 1384 aporta beneficios en la transmision de paquetes, en la mayoris de los casos aumenta el valor de descarga y carga"
 
 msgid "Default"
 msgstr "Por defecto"

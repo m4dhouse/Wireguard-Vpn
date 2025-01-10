@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-01-05 05:29+0200\n"
+"PO-Revision-Date: 2025-01-10 09:06+0200\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: giorbak\n"
 "Language: el\n"
@@ -13,6 +13,15 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "is valid."
+msgstr "είναι έγκυρο."
+
+msgid "is too large, fragmentation needed."
+msgstr "είναι πολύ μεγάλο, χρειάζεται κατακερματισμός."
+
+msgid "Performing an MTU test helps you configure your network optimally avoiding fragmentation issues and improving performance. This is especially important for VPN connections."
+msgstr "Η εκτέλεση δοκιμής MTU σας βοηθά να διαμορφώσετε το δίκτυό σας με τον καλύτερο δυνατό τρόπο αποφεύγοντας προβλήματα κατακερματισμού και βελτιώνοντας την απόδοση. Αυτό είναι ιδιαίτερα σημαντικό για συνδέσεις VPN."
 
 msgid "Your account expires today"
 msgstr "Ο λογαριασμός σας λήγει σήμερα"
@@ -473,9 +482,6 @@ msgstr "Επιλέξτε έναν διακομιστή δοκιμής DNS από
 
 msgid "Set the MTU"
 msgstr "Ορισμός MTU"
-
-msgid "The MTU 1384 brings benefits on packet transmission, in most cases it increases the value of download and upload"
-msgstr "Το MTU 1384 φέρνει πλεονεκτήματα στη μετάδοση πακέτων, στις περισσότερες περιπτώσεις αυξάνει την τιμή λήψης και μεταφόρτωσης"
 
 msgid "Default"
 msgstr "Προεπιλογή"

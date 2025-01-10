@@ -365,6 +365,12 @@ msgstr ""
 msgid "has been imported successfully."
 msgstr ""
 
+msgid "is too large, fragmentation needed."
+msgstr ""
+
+msgid "is valid."
+msgstr ""
+
 msgid "Interface"
 msgstr ""
 
@@ -489,6 +495,9 @@ msgid "or edit the file located in"
 msgstr ""
 
 msgid "or"
+msgstr ""
+
+msgid "(Press OK to perform a test)"
 msgstr ""
 
 msgid "Press Ok"
@@ -740,6 +749,9 @@ msgstr ""
 msgid "Stops the service playing (streaming) if it connects to a new server and resumes service."
 msgstr ""
 
+msgid "MTU"
+msgstr ""
+
 msgid "The file %s %s"
 msgstr ""
 
@@ -779,7 +791,7 @@ msgstr ""
 msgid "The file located in %s is empty."
 msgstr ""
 
-msgid "The MTU 1384 brings benefits on packet transmission, in most cases it increases the value of download and upload"
+msgid "Performing an MTU test helps you configure your network optimally avoiding fragmentation issues and improving performance. This is especially important for VPN connections."
 msgstr ""
 
 msgid "The private key is incorrect"

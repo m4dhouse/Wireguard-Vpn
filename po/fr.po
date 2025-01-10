@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-01-05 07:19+0100\n"
+"PO-Revision-Date: 2025-01-10 01:06+0100\n"
 "Last-Translator: Gruick1\n"
 "Language-Team: your_name <your_email@gmail.com>\n"
 "Language: fr\n"
@@ -14,6 +14,15 @@ msgstr ""
 "X-Generator: Poedit 3.5\n"
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SearchPath-0: .\n"
+
+msgid "is valid."
+msgstr "est valide."
+
+msgid "is too large, fragmentation needed."
+msgstr "est trop grand, une fragmentation est nécessaire."
+
+msgid "Performing an MTU test helps you configure your network optimally avoiding fragmentation issues and improving performance. This is especially important for VPN connections."
+msgstr "La réalisation d'un test MTU vous aide à configurer votre réseau de manière optimale en évitant les problèmes de fragmentation et en améliorant les performances. Ceci est particulièrement important pour les connexions VPN."
 
 msgid "Your account expires today"
 msgstr "Votre compte expire aujourd'hui"
@@ -474,9 +483,6 @@ msgstr "Choisissez un serveur de test DNS à partir de bash.ws ou dnsleaktest.co
 
 msgid "Set the MTU"
 msgstr "Définir le MTU"
-
-msgid "The MTU 1384 brings benefits on packet transmission, in most cases it increases the value of download and upload"
-msgstr "Le MTU 1384 apporte des avantages sur la transmission de paquets, dans la plupart des cas il augmente la valeur du téléchargement et de l'upload"
 
 msgid "Default"
 msgstr "Défaut"

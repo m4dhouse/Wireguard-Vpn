@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-01-05 00:54+0100\n"
+"PO-Revision-Date: 2025-01-15 00:54+0100\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: Madhouse <anonm4d@gmail.com>\n"
 "Language: it\n"
@@ -13,6 +13,27 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.4.4\n"
 "X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Bypass Tailscale"
+msgstr "Bypass Tailscale"
+
+msgid "Subnet (IP/CIDR)"
+msgstr "Subnet (IP/CIDR)"
+
+msgid "Write your Tailscale subnet."
+msgstr "Scrivi il tuo subnet Tailscale."
+
+msgid "Example"
+msgstr "Esempio"
+
+msgid "Gateway (IP)"
+msgstr "Gateway (IP)"
+
+msgid "Write your own Tailscale gateway."
+msgstr "Scrivi il tuo gateway Tailscale."
+
+msgid "(Press OK to perform a test)"
+msgstr "(Premere OK per eseguire il test)"
 
 msgid "is valid."
 msgstr "è valido."

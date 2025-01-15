@@ -77,6 +77,9 @@ msgstr ""
 msgid "Bypass Wireguard"
 msgstr ""
 
+msgid "Bypass Tailscale"
+msgstr ""
+
 msgid "Button"
 msgstr ""
 
@@ -99,6 +102,9 @@ msgid "SKIN AND COLORS ITEMS"
 msgstr ""
 
 msgid "SKIN, COLORS AND SOUNDS"
+msgstr ""
+
+msgid "Subnet (IP/CIDR)"
 msgstr ""
 
 msgid "Configure your provider first and then you can copy the chosen server."
@@ -287,6 +293,9 @@ msgstr ""
 msgid "exists.\nDo you want to overwrite it?"
 msgstr ""
 
+msgid "Example"
+msgstr ""
+
 msgid "Error removing file: %s"
 msgstr ""
 
@@ -345,6 +354,9 @@ msgid "Failed to retrieve Nordlynx Private Key."
 msgstr ""
 
 msgid "Finished restarting your network"
+msgstr ""
+
+msgid "Gateway (IP)"
 msgstr ""
 
 msgid "Generate the private key"
@@ -861,6 +873,12 @@ msgid "WireGuard protocol missing!"
 msgstr ""
 
 msgid "Wireguard VPN plugin is updated"
+msgstr ""
+
+msgid "Write your Tailscale subnet."
+msgstr ""
+
+msgid "Write your own Tailscale gateway."
 msgstr ""
 
 msgid "Write or load your Private Key."

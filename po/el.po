@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-01-10 09:06+0200\n"
+"PO-Revision-Date: 2025-01-15 19:05+0200\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: giorbak\n"
 "Language: el\n"
@@ -13,6 +13,27 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Bypass Tailscale"
+msgstr "Παράκαμψη Tailscale"
+
+msgid "Subnet (IP/CIDR)"
+msgstr "Υποδίκτυο (IP/CIDR)"
+
+msgid "Write your Tailscale subnet."
+msgstr "Γράψτε το υποδίκτυό σας Tailscale."
+
+msgid "Example"
+msgstr "Παράδειγμα"
+
+msgid "Gateway (IP)"
+msgstr "Πύλη (IP)"
+
+msgid "Write your own Tailscale gateway."
+msgstr "Γράψτε τη δική σας πύλη Tailscale."
+
+msgid "(Press OK to perform a test)"
+msgstr "(Πατήστε OK για να εκτελέσετε μια δοκιμή)"
 
 msgid "is valid."
 msgstr "είναι έγκυρο."
@@ -286,7 +307,7 @@ msgid "Sort by bandwidth (ascending)"
 msgstr "Ταξινόμηση κατά εύρος ζώνης (αύξουσα)"
 
 msgid "Restart enigma2 to apply the update."
-msgstr "Γίνεται επανεκκίνηση του enigma2 για να εφαρμοστεί η ενημέρωση."
+msgstr "Κάντε επανεκκίνηση του enigma2 για να εφαρμόσετε την ενημέρωση."
 
 msgid "The host %s ' %s ' is duplicated.\n"
 msgstr "Ο host %s ' %s ' είναι διπλός.\n"

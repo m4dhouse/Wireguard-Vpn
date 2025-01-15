@@ -14,6 +14,27 @@ msgstr ""
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "Bypass Tailscale"
+msgstr ""
+
+msgid "Subnet (IP/CIDR)"
+msgstr ""
+
+msgid "Write your Tailscale subnet."
+msgstr ""
+
+msgid "Example"
+msgstr ""
+
+msgid "Gateway (IP)"
+msgstr ""
+
+msgid "Write your own Tailscale gateway."
+msgstr ""
+
+msgid "(Press OK to perform a test)"
+msgstr ""
+
 msgid "is valid."
 msgstr ""
 

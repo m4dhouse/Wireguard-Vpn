@@ -77,7 +77,7 @@ msgstr ""
 msgid "Bypass Wireguard"
 msgstr ""
 
-msgid "Bypass Tailscale"
+msgid "Bypass Subnet"
 msgstr ""
 
 msgid "Button"
@@ -102,6 +102,9 @@ msgid "SKIN AND COLORS ITEMS"
 msgstr ""
 
 msgid "SKIN, COLORS AND SOUNDS"
+msgstr ""
+
+msgid "SUBNET"
 msgstr ""
 
 msgid "Subnet (IP/CIDR)"
@@ -875,10 +878,10 @@ msgstr ""
 msgid "Wireguard VPN plugin is updated"
 msgstr ""
 
-msgid "Write your Tailscale subnet."
+msgid "Write your subnet."
 msgstr ""
 
-msgid "Write your own Tailscale gateway."
+msgid "Write your subnet gateway."
 msgstr ""
 
 msgid "Write or load your Private Key."

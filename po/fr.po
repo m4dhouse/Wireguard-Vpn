@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-01-15 17:31+0100\n"
+"PO-Revision-Date: 2025-01-16 17:53+0100\n"
 "Last-Translator: Gruick1\n"
 "Language-Team: your_name <your_email@gmail.com>\n"
 "Language: fr\n"
@@ -15,23 +15,26 @@ msgstr ""
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SearchPath-0: .\n"
 
-msgid "Bypass Tailscale"
-msgstr "Contourner Tailscale"
+msgid "SUBNET"
+msgstr "SOUS-RESEAU"
+
+msgid "Bypass Subnet"
+msgstr "Contourne Sous-réseau"
+
+msgid "Write your subnet."
+msgstr "Inscrivez votre sous-réseau."
+
+msgid "Write your subnet gateway."
+msgstr "Inscrivez votre passerelle de sous-réseau."
 
 msgid "Subnet (IP/CIDR)"
 msgstr "Sous-réseau (IP/CIDR)"
-
-msgid "Write your Tailscale subnet."
-msgstr "Inscrivez votre sous-réseau Tailscale."
 
 msgid "Example"
 msgstr "Exemple"
 
 msgid "Gateway (IP)"
 msgstr "Passerelle (IP)"
-
-msgid "Write your own Tailscale gateway."
-msgstr "Ecrivez votre propre passerelle Tailscale."
 
 msgid "(Press OK to perform a test)"
 msgstr "(Appuyer sur OK pour effectuer un test)"

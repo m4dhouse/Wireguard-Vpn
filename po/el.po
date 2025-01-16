@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-01-15 19:05+0200\n"
+"PO-Revision-Date: 2025-01-16 13:21+0200\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: giorbak\n"
 "Language: el\n"
@@ -14,23 +14,26 @@ msgstr ""
 "X-Generator: Poedit 3.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
-msgid "Bypass Tailscale"
-msgstr "Παράκαμψη Tailscale"
+msgid "SUBNET"
+msgstr "ΥΠΟΔΙΚΤΥΟ"
+
+msgid "Bypass Subnet"
+msgstr "Παράκαμψη υποδικτύου"
+
+msgid "Write your subnet."
+msgstr "Γράψτε το υποδίκτυό σας."
+
+msgid "Write your subnet gateway."
+msgstr "Γράψτε την πύλη του υποδικτύου σας."
 
 msgid "Subnet (IP/CIDR)"
 msgstr "Υποδίκτυο (IP/CIDR)"
-
-msgid "Write your Tailscale subnet."
-msgstr "Γράψτε το υποδίκτυό σας Tailscale."
 
 msgid "Example"
 msgstr "Παράδειγμα"
 
 msgid "Gateway (IP)"
 msgstr "Πύλη (IP)"
-
-msgid "Write your own Tailscale gateway."
-msgstr "Γράψτε τη δική σας πύλη Tailscale."
 
 msgid "(Press OK to perform a test)"
 msgstr "(Πατήστε OK για να εκτελέσετε μια δοκιμή)"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-01-10 06:16+0200\n"
+"PO-Revision-Date: 2025-01-16 05:46+0200\n"
 "Last-Translator: airforce\n"
 "Language-Team: airforce <kosmosspace@gmail.com>\n"
 "Language: ru\n"
@@ -14,26 +14,29 @@ msgstr ""
 "X-Generator: Poedit 3.4.4\n"
 "X-Poedit-SourceCharset: iso-8859-5\n"
 
-msgid "Bypass Tailscale"
-msgstr ""
+msgid "SUBNET"
+msgstr "ПОДСЕТЬ"
+
+msgid "Bypass Subnet"
+msgstr "Обход подсети"
+
+msgid "Write your subnet."
+msgstr "Напишите вашу подсеть."
+
+msgid "Write your subnet gateway."
+msgstr "Напишите шлюз вашей подсети."
 
 msgid "Subnet (IP/CIDR)"
-msgstr ""
-
-msgid "Write your Tailscale subnet."
-msgstr ""
+msgstr "Подсеть (IP/CIDR)"
 
 msgid "Example"
-msgstr ""
+msgstr "Пример"
 
 msgid "Gateway (IP)"
-msgstr ""
-
-msgid "Write your own Tailscale gateway."
-msgstr ""
+msgstr "Шлюз (IP)"
 
 msgid "(Press OK to perform a test)"
-msgstr ""
+msgstr "(Нажмите OK, чтобы выполнить тест)"
 
 msgid "is valid."
 msgstr "является действительным."

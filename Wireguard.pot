@@ -767,6 +767,9 @@ msgstr ""
 msgid "MTU"
 msgstr ""
 
+msgid "There is not enough space on disk %s!"
+msgstr ""
+
 msgid "The file %s %s"
 msgstr ""
 
@@ -843,6 +846,9 @@ msgid "Try later or"
 msgstr ""
 
 msgid "Try restarting yours %s"
+msgstr ""
+
+msgid "Unknown error on disk %s!"
 msgstr ""
 
 msgid "Unexpected error: %s"

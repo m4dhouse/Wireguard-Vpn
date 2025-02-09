@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-01-16 17:53+0100\n"
+"PO-Revision-Date: 2025-02-08 20:26+0100\n"
 "Last-Translator: Gruick1\n"
 "Language-Team: your_name <your_email@gmail.com>\n"
 "Language: fr\n"
@@ -15,11 +15,17 @@ msgstr ""
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SearchPath-0: .\n"
 
+msgid "There is not enough space on disk %s!"
+msgstr "Il n'y a pas assez d'espace sur le disque %s !"
+
+msgid "Unknown error on disk %s!"
+msgstr "Erreur inconnue sur le disque %s !"
+
 msgid "SUBNET"
 msgstr "SOUS-RESEAU"
 
 msgid "Bypass Subnet"
-msgstr "Contourne Sous-réseau"
+msgstr "Contourne  Sous-réseau"
 
 msgid "Write your subnet."
 msgstr "Inscrivez votre sous-réseau."
@@ -311,7 +317,7 @@ msgid "Sort by bandwidth (ascending)"
 msgstr "Trier par largeur de bande (croissant)"
 
 msgid "Restart enigma2 to apply the update."
-msgstr "Redémarrez enigma2 pour appliquer la mise à jour."
+msgstr "Redémarrez Enigma2 pour appliquer la mise à jour."
 
 msgid "The host %s ' %s ' is duplicated.\n"
 msgstr "L'hôte %s ' %s ' est dupliqué.\n"

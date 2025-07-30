@@ -15,6 +15,30 @@ msgstr ""
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SearchPath-0: .\n"
 
+msgid "Enable web access"
+msgstr ""
+
+msgid "Set a port for web access."
+msgstr ""
+
+msgid "Web port"
+msgstr ""
+
+msgid "HOST/IP"
+msgstr ""
+
+msgid "PORT"
+msgstr ""
+
+msgid "Bypass a specific port"
+msgstr ""
+
+msgid "Port number"
+msgstr ""
+
+msgid "Write the port number"
+msgstr ""
+
 msgid "There is not enough space on disk %s!"
 msgstr "Il n'y a pas assez d'espace sur le disque %s !"
 

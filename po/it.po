@@ -14,6 +14,30 @@ msgstr ""
 "X-Generator: Poedit 3.5\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+msgid "Enable web access"
+msgstr "Abilita accesso interfaccia web"
+
+msgid "Set a port for web access."
+msgstr "Imposta porta interfaccia web."
+
+msgid "Web port"
+msgstr "Porta web"
+
+msgid "HOST/IP"
+msgstr "HOST/IP"
+
+msgid "PORT"
+msgstr "PORTA"
+
+msgid "Bypass a specific port"
+msgstr "Bypassa una porta specifica"
+
+msgid "Port number"
+msgstr "Numero porta"
+
+msgid "Write the port number"
+msgstr "Scrivi il numero della porta"
+
 msgid "There is not enough space on disk %s!"
 msgstr "Il disco %s non ha spazio sufficiente!"
 

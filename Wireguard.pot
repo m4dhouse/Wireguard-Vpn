@@ -71,6 +71,9 @@ msgstr ""
 msgid "BYPASS"
 msgstr ""
 
+msgid "Bypass a specific port"
+msgstr ""
+
 msgid "Bandwidth"
 msgstr ""
 
@@ -293,6 +296,9 @@ msgstr ""
 msgid "Download speedtest.png failed!"
 msgstr ""
 
+msgid "Enable web access"
+msgstr ""
+
 msgid "exists.\nDo you want to overwrite it?"
 msgstr ""
 
@@ -378,6 +384,9 @@ msgid "Grey"
 msgstr ""
 
 msgid "has been imported successfully."
+msgstr ""
+
+msgid "HOST/IP"
 msgstr ""
 
 msgid "is too large, fragmentation needed."
@@ -515,6 +524,12 @@ msgstr ""
 msgid "(Press OK to perform a test)"
 msgstr ""
 
+msgid "PORT"
+msgstr ""
+
+msgid "Port number"
+msgstr ""
+
 msgid "Press Ok"
 msgstr ""
 
@@ -606,6 +621,9 @@ msgid "Restart Network"
 msgstr ""
 
 msgid "Result successfully saved in /tmp/speedtest.png"
+msgstr ""
+
+msgid "Set a port for web access."
 msgstr ""
 
 msgid "Selected"
@@ -867,6 +885,12 @@ msgid "Use your personal files"
 msgstr ""
 
 msgid "VPN Status: OK"
+msgstr ""
+
+msgid "Web port"
+msgstr ""
+
+msgid "Write the port number"
 msgstr ""
 
 msgid "White"

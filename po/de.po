@@ -2,7 +2,6 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: \n"
 "PO-Revision-Date: 2024-04-30 21:22+0100\n"
 "Last-Translator: Tommy007\n"
 "Language-Team: Tommy007 <xxxxxx@gmail.com>\n"
@@ -11,425 +10,57 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.5\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
-msgid "Enable web access"
-msgstr ""
+msgid " DNS servers"
+msgstr " DNS-Server"
 
-msgid "Set a port for web access."
-msgstr ""
+msgid "%d Minute"
+msgid_plural "%d Minutes"
+msgstr[0] "%d Minute"
+msgstr[1] "%d Minuten"
 
-msgid "Web port"
-msgstr ""
+msgid "%d Second"
+msgid_plural "%d Seconds"
+msgstr[0] "%d Sekunde"
+msgstr[1] "%d Sekunden"
 
-msgid "HOST/IP"
-msgstr ""
+msgid "%s) Bypass host or ip"
+msgstr "%s) Umgehung von host oder ip"
 
-msgid "PORT"
-msgstr ""
+msgid "'All servers'"
+msgstr "'Alle Server'"
 
-msgid "Bypass a specific port"
-msgstr ""
+msgid "'Recommended servers'"
+msgstr "'Empfohlene Server'"
 
-msgid "Port number"
-msgstr ""
+msgid "'Server with static ip'"
+msgstr "'Server mit statischer IP'"
 
-msgid "Write the port number"
-msgstr ""
+msgid "'Servers MultiHop'"
+msgstr "'Server MultiHop'"
 
-msgid "There is not enough space on disk %s!"
-msgstr "Auf Laufwerk %s ist nicht genügend Speicherplatz vorhanden!"
+msgid "'Servers by country'"
+msgstr "'Server nach Land'"
 
-msgid "Unknown error on disk %s!"
-msgstr "Unbekannter Fehler auf Laufwerk %s!"
-
-msgid "SUBNET"
-msgstr "SUBNETZ"
-
-msgid "Bypass Subnet"
-msgstr "Subnetz umgehen"
-
-msgid "Write your subnet."
-msgstr "Geben Sie Ihr Subnetz ein."
-
-msgid "Write your subnet gateway."
-msgstr "Geben Sie Ihre Subnetz-Gateway ein."
-
-msgid "Subnet (IP/CIDR)"
-msgstr "Subnetz (IP/CIDR)"
-
-msgid "Example"
-msgstr "Beispiel"
-
-msgid "Gateway (IP)"
-msgstr "Gateway (IP)"
-
-msgid "(Press OK to perform a test)"
-msgstr "(Drücken Sie OK, um einen Test durchzuführen)"
-
-msgid "is valid."
-msgstr "ist gültig."
-
-msgid "is too large, fragmentation needed."
-msgstr "ist zu groß, Fragmentierung erforderlich."
-
-msgid "Performing an MTU test helps you configure your network optimally avoiding fragmentation issues and improving performance. This is especially important for VPN connections."
-msgstr "Die Durchführung eines MTU-Tests hilft Ihnen, Ihr Netzwerk optimal zu konfigurieren, Fragmentierungsprobleme zu vermeiden und die Leistung zu verbessern. Dies ist besonders wichtig für VPN-Verbindungen."
-
-msgid "Your account expires today"
-msgstr "Ihr Konto läuft heute ab"
-
-msgid "Your account expired"
-msgstr "Ihr Konto ist abgelaufen"
-
-msgid "ago"
-msgstr "vor"
-
-msgid "day"
-msgstr "Tag"
-
-msgid "days"
-msgstr "Tagen"
-
-msgid "Your account will expire in"
-msgstr "Ihr Konto läuft ab in"
-
-msgid "Generate the private key"
-msgstr "Generieren privaten Schlüssel"
-
-msgid "Mullvad configuration successfully created!"
-msgstr "Mullvad-Konfiguration erfolgreich erstellt!"
-
-msgid "Server copy"
-msgstr "Serverkopie"
-
-msgid "The file %s %s"
-msgstr "Die Datei %s %s“"
-
-msgid "exists.\nDo you want to overwrite it?"
-msgstr "vorhanden.\nMöchten Sie es überschreiben?"
-
-msgid "Configure your provider first and then you can copy the chosen server."
-msgstr "Konfigurieren Sie zunächst Ihren Provider und kopieren Sie dann den gewählten Server."
-
-msgid "Server %s %s"
-msgstr "Server %s %s"
-
-msgid "copied successfully!"
-msgstr "erfolgreich kopiert!"
-
-msgid "Unexpected error: %s"
-msgstr "Unerwarteter Fehler: %s"
-
-msgid "Delete files"
-msgstr "Dateien löschen"
-
-msgid "No file selected!"
-msgstr "Keine Datei ausgewählt!"
-
-msgid "File not found: %s"
-msgstr "Datei nicht gefunden: %s"
-
-msgid "File deleted successfully: %s"
-msgstr "Datei erfolgreich gelöscht: %s"
-
-msgid "Error removing file: %s"
-msgstr "Fehler beim Entfernen der Datei: %s"
-
-msgid "Are you sure you want to delete the file: %s?"
-msgstr "Möchten Sie die Datei %s wirklich löschen?"
-
-msgid "Cloudflare registration failed!"
-msgstr "Cloudflare-Registrierung fehlgeschlagen!"
-
-msgid "Press Ok"
-msgstr "Ok drücken"
-
-msgid "File %s created successfully!"
-msgstr "Datei %s erfolgreich erstellt!"
-
-msgid "File %s not created!"
-msgstr "Datei %s nicht erstellt!"
-
-msgid "Generate CloudFlare (Free)"
-msgstr "CloudFlare generieren (kostenlos)"
-
-msgid "Generate a CloudFlare (Free) configuration, you will find it in the server list."
-msgstr "Generieren Sie eine CloudFlare-Konfiguration (kostenlos), Sie finden sie in der Serverliste."
-
-msgid "No results found for '%s'. Try again?"
-msgstr "Keine Ergebnisse für '%s' gefunden. Erneut versuchen?"
-
-msgid "Search"
-msgstr "Suche"
-
-msgid "Reset"
-msgstr "Zurücksetzen"
-
-msgid "Search by country"
-msgstr "Suche nach Land"
-
-msgid "If your provider is Mullvad or NordVpn, press the Settings button and to configure it."
-msgstr "Wenn Ihr Anbieter Mullvad oder NordVpn ist, klicken Sie auf die Schaltfläche Einstellungen, um ihn zu konfigurieren.."
-
-msgid "NO VPN CONNECTION STARTED!"
-msgstr "KEINE VPN-VERBINDUNG AUFGEBAUT!"
-
-msgid "Page"
-msgstr "Seite"
-
-msgid "Ping servers"
-msgstr "Server anpingen"
-
-msgid "All servers"
-msgstr "Alle Server"
-
-msgid "Selected"
-msgstr "Ausgewählt"
-
-msgid "Select different ping options to show them in the list."
-msgstr "Wählen Sie verschiedene Ping-Optionen aus, um sie in der Liste anzuzeigen."
-
-msgid "SKIN, COLORS AND SOUNDS"
-msgstr "SKIN, FARBEN UND TÖNE"
-
-msgid "Choose a sound"
-msgstr "Wählen Sie einen Ton"
-
-msgid "Play sound in enigma2"
-msgstr "Ton in enigma2 abspielen"
-
-msgid "Play sound in enigma2 after exiting plugin"
-msgstr "Ton in enigma2 abspielen, nachdem das Plugin beendet wurde"
+msgid "(* Requires restart Gui)"
+msgstr "(* Erfordert einen Neustart der Gui)"
 
 msgid "(Experimental)"
 msgstr "(Experimentell)"
 
-msgid "The WireGuard package is not installed!"
-msgstr "Das WireGuard-Paket ist nicht installiert!"
+msgid "(Press OK to perform a test)"
+msgstr "(Drücken Sie OK, um einen Test durchzuführen)"
 
-msgid "The WireGuard kernel module is not loaded!"
-msgstr "Das WireGuard-Kernelmodul ist nicht geladen!"
-
-msgid "The file /etc/wireguard/wg0.conf was not found!"
-msgstr "Die Datei /etc/wireguard/wg0.conf wurde nicht gefunden!"
-
-msgid "Play sound"
-msgstr "Ton abspielen"
-
-msgid "Click"
-msgstr "Klicken"
-
-msgid "Interface"
-msgstr "Schnittstelle"
-
-msgid "Button"
-msgstr "Schaltfläche"
-
-msgid "Stop"
-msgstr "Stoppen"
-
-msgid "Disabled"
-msgstr "Deaktiviert"
-
-msgid "Page: %s%s%s"
-msgstr "Seite: %s%s%s"
-
-msgid "Total servers: %s%s%s"
-msgstr "Server insgesamt: %s%s%s"
-
-msgid "Do you want to import the backup file?"
-msgstr "Möchten Sie die Sicherungsdatei importieren?"
-
-msgid "I import the backup"
-msgstr "Ich importiere die Sicherung"
-
-msgid "Select the skin"
-msgstr "Wählen Sie den Skin aus"
-
-msgid "Select your favorite skin."
-msgstr "Wählen Sie Ihren Lieblingsskin aus."
-
-msgid "Grey"
-msgstr "Grau"
-
-msgid "White"
-msgstr "Weiß"
-
-msgid "Green"
-msgstr "Grün"
-
-msgid "Turquoise"
-msgstr "Türkis"
-
-msgid "Tiffany"
-msgstr "Tiffany"
-
-msgid "Sand"
-msgstr "Sand"
-
-msgid "Ocher Yellow"
-msgstr "Ockergelb"
-
-msgid "Orange"
-msgstr "Orange"
-
-msgid "Select the color of the entries."
-msgstr "Wählen Sie die Farbe der Einträge aus."
-
-msgid "Select the color of the sub entries."
-msgstr "Wählen Sie die Farbe der Untereinträge aus."
-
-msgid "Color of entries"
-msgstr "Farbe der Einträge"
-
-msgid "Color of sub entries"
-msgstr "Farbe der Untereinträge"
-
-msgid "PERSONAL FILES"
-msgstr "PERSÖNLICHE DATEIEN"
-
-msgid "NETWORK AND INTERNET"
-msgstr "NETZWERK UND INTERNET"
-
-msgid "STOP AND RESUME SERVICE"
-msgstr "DIENST ANHALTEN UND WIEDER AUFNEHMEN"
-
-msgid "DNS LEAK TEST"
-msgstr "DNS-LECK TEST"
-
-msgid "KILL SWITCH"
-msgstr "ABSCHALTAUTOMATIK"
-
-msgid "ON-SCREEN ALERTS"
-msgstr "BILDSCHIRMWARNUNGEN"
+msgid "* File located in /etc/WgConfig or /media/hdd/WgConfig"
+msgstr "* Datei befindet sich in /etc/WgConfig oder /media/hdd/WgConfig"
 
 msgid "AUTO START"
 msgstr "AUTOMATISCHER START"
 
-msgid "SHOW IN MAIN MENU"
-msgstr "IM HAUPTMENÜ ANZEIGEN"
-
-msgid "BACKUP"
-msgstr "SICHERUNG"
-
-msgid "SHOW UPDATE MESSAGE"
-msgstr "AKTUALISIERUNGSMELDUNG ANZEIGEN"
-
-msgid "BYPASS"
-msgstr "UMGEHUNG"
-
-msgid "CHOICE OF PROVIDER"
-msgstr "WAHL DES ANBIETERS"
-
-msgid "Stop the currently playing service"
-msgstr "Beenden Sie den aktuell wiedergegebenen Dienst"
-
-msgid "Stops the service playing (streaming) if it connects to a new server and resumes service."
-msgstr "Stoppt die Wiedergabe (das Streaming) des Dienstes, wenn eine Verbindung zu einem neuen Server hergestellt wird, und nimmt den Dienst wieder auf."
-
-msgid "Days"
-msgstr "Tage"
-
-msgid "Connected by: %s"
-msgstr "Verbunden seit: %s"
-
-msgid "Do you want to view the latest Changelog?"
-msgstr "Möchten Sie das aktuelle Änderungsprotokoll anzeigen?"
-
-msgid "Sort the list alphabetically or by ascending bandwidth"
-msgstr "Sortieren Sie die Liste alphabetisch oder nach aufsteigender Bandbreite"
-
-msgid "Sort by bandwidth (ascending)"
-msgstr "Sortierung nach Bandbreite (aufsteigend)"
-
-msgid "Restart enigma2 to apply the update."
-msgstr "Starten Sie enigma2 neu, um das Update anzuwenden."
-
-msgid "The host %s ' %s ' is duplicated.\n"
-msgstr "Der Host %s ' %s ' ist dupliziert.\n"
-
-msgid "Error creating backup file: Out of disk space %s."
-msgstr "Fehler beim Erstellen der Sicherungsdatei: Nicht genügend Speicherplatz %s."
-
-msgid "Unable to write to file."
-msgstr "Datei kann nicht geschrieben werden."
-
-msgid "Create a backup"
-msgstr "Erstellen Sie eine Sicherung"
-
-msgid "Create a backup of your configurations to be able to restore it in a new image. The backup (wireguard_backup.sh shell) will be saved in:"
-msgstr "Erstellen Sie eine Sicherung Ihrer Konfigurationen, um sie in einem neuen Image wiederherstellen zu können. Die Sicherung (Shell wireguard_backup.sh) wird gespeichert in:"
-
-msgid "Write your account number"
-msgstr "Geben Sie Ihre Kontonummer ein"
-
-msgid "Write your account number generated during subscription."
-msgstr "Geben Sie Ihre Kontonummer ein, die Sie bei der Anmeldung erhalten haben."
-
-msgid "Enter your account number!"
-msgstr "Geben Sie Ihre Kontonummer ein!"
-
-msgid "Do you want to generate your Mullvad account data?"
-msgstr "Möchten Sie Ihre Mullvad-Kontodaten generieren?"
-
-msgid "Mullvad account does not exist!"
-msgstr "Das Mullvad-Konto existiert nicht!"
-
-msgid "Update plugin"
-msgstr "Plugin aktualisieren"
-
-msgid "Show update message"
-msgstr "Aktualisierungsmeldung anzeigen"
-
-msgid "Show a message if there is an update."
-msgstr "Zeigt eine Meldung an, wenn es eine Aktualisierung gibt."
-
-msgid "Your private key"
-msgstr "Ihr privater Schlüssel"
-
-msgid "has been imported successfully."
-msgstr "wurde erfolgreich importiert."
-
-msgid "Edit the file located in /etc/wg_token.key and paste your access token."
-msgstr "Bearbeiten Sie die Datei /etc/wg_token.key und fügen Sie Ihr Zugriffstoken ein."
-
-msgid "Failed to retrieve Nordlynx Private Key."
-msgstr "Nordlynx Private Key konnte nicht abgerufen werden."
-
-msgid "Private key"
-msgstr "Privater Schlüssel"
-
-msgid "Write or load your Private Key."
-msgstr "Schreiben oder laden Sie Ihren privaten Schlüssel."
-
 msgid "Access via Token"
 msgstr "Zugang über Token"
-
-msgid "Create your access token via the NordVpn website."
-msgstr "Erstellen Sie Ihr Zugangs-Token über die NordVpn-Website."
-
-msgid "Load the access token with the BLUE button."
-msgstr "Laden Sie das Zugangs-Token mit der BLAUEN Taste."
-
-msgid "Select the type of access"
-msgstr "Wählen Sie die Art des Zugangs"
-
-msgid "Load token access"
-msgstr "Token-Zugang laden"
-
-msgid "Kill switch enabled"
-msgstr "Abschaltautomatik aktiviert"
-
-msgid "Enable Kill switch"
-msgstr "Abschaltautomatik aktivieren"
-
-msgid "If your VPN connection drops, a kill switch cuts off your internet connection."
-msgstr "Wenn Ihre VPN-Verbindung abbricht, unterbricht eine Abschaltautomatik Ihre Internetverbindung."
-
-msgid "If the connection drops and you would like to restore it, disable the Kill switch, then Save."
-msgstr "Wenn die Verbindung unterbrochen wird und Sie sie wiederherstellen möchten, deaktivieren Sie die Abschaltautomatik und speichern Sie dann."
 
 msgid "Add bypasses"
 msgstr "Umgehungen hinzufügen"
@@ -437,26 +68,112 @@ msgstr "Umgehungen hinzufügen"
 msgid "Add host/ip number to bypass WireGuard."
 msgstr "Host-/Ip-Nummer hinzufügen, um WireGuard zu umgehen."
 
-msgid "The ' %s ' host (bypass) is unreachable.\n"
-msgstr "Der ' %s ' Host (Umgehung) ist unerreichbar.\n"
+msgid "All servers"
+msgstr "Alle Server"
 
-msgid "DNS server settings"
-msgstr "DNS-Server-Einstellungen"
+msgid "Are you sure you want to delete the file: %s?"
+msgstr "Möchten Sie die Datei %s wirklich löschen?"
 
-msgid "Choose a DNS server."
-msgstr "Wählen Sie einen DNS-Server."
+msgid "BACKUP"
+msgstr "SICHERUNG"
 
-msgid "DNS servers allow resolution of DNS host names to IP addresses."
-msgstr "DNS-Server ermöglichen die Auflösung von DNS-Hostnamen in IP-Adressen."
+msgid "BYPASS"
+msgstr "UMGEHUNG"
+
+msgid "Bandwidth"
+msgstr "Bandbreite"
+
+msgid "Button"
+msgstr "Schaltfläche"
+
+msgid "Bypass Subnet"
+msgstr "Subnetz umgehen"
+
+msgid "Bypass Wireguard"
+msgstr "Wireguard umgehen"
+
+msgid "Bypass a specific port"
+msgstr "Einen bestimmten Port umgehen"
+
+msgid "CHOICE OF PROVIDER"
+msgstr "WAHL DES ANBIETERS"
+
+msgid "CONNECTED"
+msgstr "VERBUNDEN"
+
+msgid "Check Dns Leak"
+msgstr "DNS-Leck überprüfen"
 
 msgid "Check internet connection"
 msgstr "Internetverbindung überprüfen"
 
+msgid "Check that WireGuard is installed in your image."
+msgstr "Überprüfen Sie, ob WireGuard in Ihrem Image installiert ist."
+
+msgid "Check the length of the private key"
+msgstr "Überprüfe die Länge des privaten Schlüssels"
+
+msgid "Check vpn disabled"
+msgstr "Überprüfe vpn deaktiviert"
+
+msgid "Check vpn enabled"
+msgstr "Überprüfe vpn aktiviert"
+
+msgid "Check your internet connection"
+msgstr "Überprüfen Sie Ihre Internetverbindung"
+
+msgid "Checking Wireguard module"
+msgstr "Überprüfe Wireguard-Modul"
+
 msgid "Choose a DNS for testing your internet connection."
 msgstr "Wählen Sie einen DNS, um Ihre Internetverbindung zu testen."
 
-msgid "Connection in progress..."
-msgstr "Verbindung wird hergestellt..."
+msgid "Choose a DNS server."
+msgstr "Wählen Sie einen DNS-Server."
+
+msgid "Choose a DNS test server from bash.ws or dnsleaktest.com"
+msgstr "Wählen Sie einen DNS-Testserver von bash.ws oder dnsleaktest.com"
+
+msgid "Choose a server for DNS testing"
+msgstr "Wählen Sie einen Server für DNS-Tests"
+
+msgid "Choose a sound"
+msgstr "Wählen Sie einen Ton"
+
+msgid "Choose server and press ok"
+msgstr "Server auswählen und ok drücken"
+
+msgid "Choose the directory for the PrivateKey.key file"
+msgstr "Wählen Sie das Verzeichnis für die Datei PrivateKey.key"
+
+msgid "Choose your VPN provider among:"
+msgstr "Wählen Sie Ihren VPN-Anbieter aus:"
+
+msgid "Click"
+msgstr "Klicken"
+
+msgid "Close"
+msgstr "Schließen"
+
+msgid "Cloudflare registration failed!"
+msgstr "Cloudflare-Registrierung fehlgeschlagen!"
+
+msgid "Color of entries"
+msgstr "Farbe der Einträge"
+
+msgid "Color of sub entries"
+msgstr "Farbe der Untereinträge"
+
+msgid "Conclusion: "
+msgstr "Fazit: "
+
+msgid "Configure your provider first and then you can copy the chosen server."
+msgstr ""
+"Konfigurieren Sie zunächst Ihren Provider und kopieren Sie dann den "
+"gewählten Server."
+
+msgid "Connected by: %s"
+msgstr "Verbunden seit: %s"
 
 msgid "Connection Established"
 msgstr "Verbindung hergestellt"
@@ -464,212 +181,60 @@ msgstr "Verbindung hergestellt"
 msgid "Connection Unavailable!"
 msgstr "Verbindung nicht verfügbar!"
 
-msgid "Quick connection"
-msgstr "Schnelle Verbindung"
-
-msgid "Enable hanshake control"
-msgstr "Aktivieren der Handshake-Kontrolle"
-
-msgid "If enabled, check the handshake on the server every 10 minutes. If the server is down, it will try to establish a new handshake."
-msgstr "Falls aktiviert, wird der Handshake auf dem Server alle 10 Minuten überprüft. Wenn der Server ausgefallen ist, versucht er, einen neuen Handshake aufzubauen."
-
-msgid "Show a warning on the screen"
-msgstr "Eine Warnung auf dem Bildschirm anzeigen"
-
-msgid "If enabled, it will show a warning on the screen."
-msgstr "Wenn diese Funktion aktiviert ist, wird auf dem Bildschirm eine Warnung angezeigt."
-
-msgid "Write the IP you find in the file"
-msgstr "Schreiben Sie die IP, die Sie in der Datei finden"
-
-msgid "Write the IP that you find in the configuration file generated and downloaded from the website."
-msgstr "Schreiben Sie die IP, die Sie in der Konfigurationsdatei finden, die Sie von der Website heruntergeladen haben."
-
-msgid "Example:"
-msgstr "Beispiel:"
-
-msgid "Write your Private Key that you find in the configuration file or edit the file located in"
-msgstr "Schreiben Sie Ihren privaten Schlüssel, den Sie in der Konfigurationsdatei finden, oder bearbeiten Sie die Datei, die sich darin befindet"
-
-msgid "Invalid IP, please write a valid IP"
-msgstr "Ungültige IP, bitte geben Sie eine gültige IP ein"
-
-msgid "Bandwidth"
-msgstr "Bandbreite"
-
-msgid "The update server is unreachable"
-msgstr "Der Update-Server ist nicht erreichbar"
+msgid "Connection in progress..."
+msgstr "Verbindung wird hergestellt..."
 
 msgid "Connection to server failed!"
 msgstr "Verbindung zum Server fehlgeschlagen!"
 
-msgid "You want to restore the connection?"
-msgstr "Möchten Sie die Verbindung wiederherstellen?"
+msgid "Copy/paste your Private Key and then press the Blue button"
+msgstr ""
+"Kopieren/Einfügen Ihres privaten Schlüssels und drücken Sie dann die blaue "
+"Taste"
 
-msgid "WireGuard protocol missing!"
-msgstr "WireGuard-Protokoll fehlt!"
+msgid "Country:"
+msgstr "Land:"
 
-msgid "Check that WireGuard is installed in your image."
-msgstr "Überprüfen Sie, ob WireGuard in Ihrem Image installiert ist."
+msgid "Create a backup"
+msgstr "Erstellen Sie eine Sicherung"
 
-msgid "There appears to be a problem with your account."
-msgstr "Es scheint ein Problem mit Ihrem Konto zu geben."
+msgid ""
+"Create a backup of your configurations to be able to restore it in a new "
+"image. The backup (wireguard_backup.sh shell) will be saved in:"
+msgstr ""
+"Erstellen Sie eine Sicherung Ihrer Konfigurationen, um sie in einem neuen "
+"Image wiederherstellen zu können. Die Sicherung (Shell wireguard_backup.sh) "
+"wird gespeichert in:"
 
-msgid "Try restarting yours %s"
-msgstr "Versuchen Sie einen Neustart Ihrer %s"
-
-msgid "If the problem persists, check your account."
-msgstr "Wenn das Problem weiterhin besteht, überprüfen Sie Ihr Konto."
-
-msgid "I check the files"
-msgstr "Ich überprüfe die Dateien"
-
-msgid "Do you want to upgrade to the new %s version?"
-msgstr "Möchten Sie auf die neue %s-Version aktualisieren?"
-
-msgid "Wireguard VPN plugin is updated"
-msgstr "Wireguard VPN-Plugin ist aktuell"
-
-msgid "Installed version: %s"
-msgstr "Installierte Version: %s"
-
-msgid "Enabling it allows you to perform an internet check when your %s starts"
-msgstr "Wenn Sie diese Option aktivieren, können Sie eine Internetprüfung durchführen, wenn Ihre %s startet"
-
-msgid "Set up internet control"
-msgstr "Internet-Kontrolle einrichten"
-
-msgid "Test performed on host: %s"
-msgstr "Test durchgeführt auf Host: %s"
-
-msgid "Choose a server for DNS testing"
-msgstr "Wählen Sie einen Server für DNS-Tests"
-
-msgid "Choose a DNS test server from bash.ws or dnsleaktest.com"
-msgstr "Wählen Sie einen DNS-Testserver von bash.ws oder dnsleaktest.com"
-
-msgid "Set the MTU"
-msgstr "Einstellen der MTU"
-
-msgid "Default"
-msgstr "Standard"
-
-msgid "DNS leak test"
-msgstr "DNS-Leck Test"
-
-msgid "Check Dns Leak"
-msgstr "DNS-Leck überprüfen"
-
-msgid "The test checks for any leakage of DNS"
-msgstr "Der Test überprüft, ob ein DNS-Leck vorliegt"
-
-msgid "I run the DNS Leak test"
-msgstr "Test auf DNS-Leck wird durchgeführt"
-
-msgid "Please be patient!"
-msgstr "Bitte etwas Geduld!"
-
-msgid "Your VPN IP: "
-msgstr "Ihre VPN-IP: "
-
-msgid "Your PUBLIC IP: "
-msgstr "Ihre ÖFFENTLICHE IP: "
-
-msgid "No DNS servers found"
-msgstr "Keine DNS-Server gefunden"
-
-msgid "You use "
-msgstr "Sie benutzen "
-
-msgid " DNS servers"
-msgstr " DNS-Server"
-
-msgid "DNS MAY BE LEAKING."
-msgstr "DNS könnte ein Leck haben."
-
-msgid "PERFECT! "
-msgstr "PERFEKT! "
-
-msgid "Conclusion: "
-msgstr "Fazit: "
+msgid "Create your access token via the NordVpn website."
+msgstr "Erstellen Sie Ihr Zugangs-Token über die NordVpn-Website."
 
 msgid "DNS IS NOT LEAKING."
 msgstr "KEIN DNS-LECK VORHANDEN."
 
-msgid "Disable ipv6"
-msgstr "Ipv6 deaktivieren"
+msgid "DNS LEAK TEST"
+msgstr "DNS-LECK TEST"
 
-msgid "Finished restarting your network"
-msgstr "Der Neustart Ihres Netzwerks ist abgeschlossen"
+msgid "DNS MAY BE LEAKING."
+msgstr "DNS könnte ein Leck haben."
 
-msgid "Please wait while your network is restarting..."
-msgstr "Bitte warten Sie, während Ihr Netzwerk neu gestartet wird..."
+msgid "DNS leak test"
+msgstr "DNS-Leck Test"
 
-msgid "Do you want to restart the network interface?"
-msgstr "Möchten Sie die Netzwerkschnittstelle neu starten?"
+msgid "DNS server settings"
+msgstr "DNS-Server-Einstellungen"
 
-msgid "Set up a DNS"
-msgstr "Einen DNS einrichten"
+msgid "DNS servers allow resolution of DNS host names to IP addresses."
+msgstr "DNS-Server ermöglichen die Auflösung von DNS-Hostnamen in IP-Adressen."
 
-msgid "Please mount the device as"
-msgstr "Bitte mounten Sie das Gerät als"
+msgid "Data saved correctly!"
+msgstr "Daten korrekt gespeichert!"
 
-msgid "Remember to restart the GUI"
-msgstr "Denken Sie daran, die GUI neu zu starten"
+msgid "Days"
+msgstr "Tage"
 
-msgid "Do you want to restart the GUI?"
-msgstr "Möchten Sie die GUI neu starten?"
-
-msgid "Set up a DNS for Wireguard connection."
-msgstr "Richten Sie einen DNS für die Wireguard-Verbindung ein."
-
-msgid "This will not affect your network settings."
-msgstr "Dies wird Ihre Netzwerkeinstellungen nicht beeinflussen."
-
-msgid "Use your personal files"
-msgstr "Verwenden Sie Ihre persönlichen Dateien"
-
-msgid "Select your personal files and remember to place them in the right directory"
-msgstr "Wählen Sie Ihre persönlichen Dateien und denken Sie daran, sie im richtigen Verzeichnis abzulegen"
-
-msgid "Select the file directory"
-msgstr "Wählen Sie das Dateiverzeichnis"
-
-msgid "Remember to insert only files with the .conf extension"
-msgstr "Denken Sie daran, nur Dateien mit der Erweiterung .conf einzufügen"
-
-msgid "No files found!"
-msgstr "Keine Dateien gefunden!"
-
-msgid "Put the files in %s"
-msgstr "Lege die Dateien in %s ab"
-
-#, python-format
-msgid "%d Second"
-msgid_plural "%d Seconds"
-msgstr[0] "%d Sekunde"
-msgstr[1] "%d Sekunden"
-
-#, python-format
-msgid "%d Minute"
-msgid_plural "%d Minutes"
-msgstr[0] "%d Minute"
-msgstr[1] "%d Minuten"
-
-msgid "Internet check while restarting"
-msgstr "Internetprüfung beim Neustart"
-
-msgid "Internet check during restart (in Seconds), if the result is negative the VPN tunnel is not established."
-msgstr "Internetprüfung beim Neustart (in Sekunden), bei negativem Ergebnis wird der VPN-Tunnel nicht aufgebaut."
-
-msgid "'Servers MultiHop'"
-msgstr "'Server MultiHop'"
-
-msgid "Double VPN, highest level of safety and security, tracking the real IP address is mathematically impossible."
-msgstr "Doppeltes VPN, höchste Sicherheitsstufe, Rückverfolgung der echten IP-Adresse ist mathematisch unmöglich."
-
-msgid "Set a limit of servers to view"
-msgstr "Legen Sie ein Limit der anzuzeigenden Server fest"
+msgid "Default"
+msgstr "Standard"
 
 msgid "Default is set to 16384 maximum servers to display"
 msgstr "Standardmäßig werden maximal 16384 Server angezeigt"
@@ -677,74 +242,144 @@ msgstr "Standardmäßig werden maximal 16384 Server angezeigt"
 msgid "Default is set to 500 maximum servers to display"
 msgstr "Standardmäßig werden maximal 500 Server angezeigt"
 
-msgid "The private key is incorrect"
-msgstr "Der private Schlüssel ist falsch"
+msgid "Default: 10"
+msgstr "Standard: 10"
 
-msgid "Check the length of the private key"
-msgstr "Überprüfe die Länge des privaten Schlüssels"
+msgid "Delete files"
+msgstr "Dateien löschen"
 
-msgid "Bypass Wireguard"
-msgstr "Wireguard umgehen"
+msgid "Disable ipv6"
+msgstr "Ipv6 deaktivieren"
 
-msgid "This allows you to bypass wireguard"
-msgstr "Damit können Sie Wireguard umgehen"
+msgid "Disabled"
+msgstr "Deaktiviert"
 
-msgid "%s) Bypass host or ip"
-msgstr "%s) Umgehung von host oder ip"
+msgid "Disconnect"
+msgstr "Trennen"
 
-msgid "This allows you to bypass wireguard traffic."
-msgstr "Damit können Sie den Wireguard-Datenverkehr umgehen."
+msgid "Do you want to generate your Mullvad account data?"
+msgstr "Möchten Sie Ihre Mullvad-Kontodaten generieren?"
 
-msgid "Example: wireguard.no-ip.biz"
-msgstr "Beispiel: wireguard.no-ip.biz"
+msgid "Do you want to import the backup file?"
+msgstr "Möchten Sie die Sicherungsdatei importieren?"
 
-msgid "Example: 232.34.87.22"
-msgstr "Beispiel: 232.34.87.22"
+msgid "Do you want to restart the GUI?"
+msgstr "Möchten Sie die GUI neu starten?"
 
-msgid "* File located in /etc/WgConfig or /media/hdd/WgConfig"
-msgstr "* Datei befindet sich in /etc/WgConfig oder /media/hdd/WgConfig"
+msgid "Do you want to restart the network interface?"
+msgstr "Möchten Sie die Netzwerkschnittstelle neu starten?"
 
-msgid "Unable to get the ip of the selected server"
-msgstr "Die IP des ausgewählten Servers kann nicht abgerufen werden"
+msgid "Do you want to upgrade to the new %s version?"
+msgstr "Möchten Sie auf die neue %s-Version aktualisieren?"
 
-msgid "IPv6 connections might compromise security."
-msgstr "IPv6-Verbindungen könnten die Sicherheit gefährden."
+msgid "Do you want to view the latest Changelog?"
+msgstr "Möchten Sie das aktuelle Änderungsprotokoll anzeigen?"
 
-msgid "Server with static ip"
-msgstr "Server mit statischer IP"
-
-msgid "'Server with static ip'"
-msgstr "'Server mit statischer IP'"
-
-msgid "List of servers where they will always have the same ip addresses."
-msgstr "Liste von Servern, die immer die gleiche IP-Adresse haben."
-
-msgid "You will have the complete list of servers."
-msgstr "Sie erhalten die komplette Liste der Server."
-
-msgid "Choose server and press ok"
-msgstr "Server auswählen und ok drücken"
+msgid ""
+"Double VPN, highest level of safety and security, tracking the real IP "
+"address is mathematically impossible."
+msgstr ""
+"Doppeltes VPN, höchste Sicherheitsstufe, Rückverfolgung der echten IP-"
+"Adresse ist mathematisch unmöglich."
 
 msgid "Download speedtest.png failed!"
 msgstr "Download speedtest.png fehlgeschlagen!"
 
-msgid "Press MENU to update"
-msgstr "Zum Aktualisieren MENU drücken"
+msgid "Edit the file located in /etc/wg_token.key and paste your access token."
+msgstr ""
+"Bearbeiten Sie die Datei /etc/wg_token.key und fügen Sie Ihr Zugriffstoken "
+"ein."
 
-msgid "Install update..."
-msgstr "Update installieren..."
+msgid "Enable Kill switch"
+msgstr "Abschaltautomatik aktivieren"
+
+msgid "Enable Wireguard Vpn screen control."
+msgstr "Aktiviere Wireguard Vpn-Bildschirmkontrolle."
+
+msgid "Enable hanshake control"
+msgstr "Aktivieren der Handshake-Kontrolle"
+
+msgid "Enable vpn control"
+msgstr "VPN-Kontrolle aktivieren"
+
+msgid "Enable web access"
+msgstr "Webzugriff aktivieren"
+
+msgid "Enabling it allows you to perform an internet check when your %s starts"
+msgstr ""
+"Wenn Sie diese Option aktivieren, können Sie eine Internetprüfung "
+"durchführen, wenn Ihre %s startet"
+
+msgid "Enter your Private Key"
+msgstr "Geben Sie Ihren privaten Schlüssel ein"
+
+msgid "Enter your account number!"
+msgstr "Geben Sie Ihre Kontonummer ein!"
+
+msgid "Error creating backup file: Out of disk space %s."
+msgstr ""
+"Fehler beim Erstellen der Sicherungsdatei: Nicht genügend Speicherplatz %s."
+
+msgid "Error removing file: %s"
+msgstr "Fehler beim Entfernen der Datei: %s"
+
+msgid "Example"
+msgstr "Beispiel"
+
+msgid "Example:"
+msgstr "Beispiel:"
+
+msgid "Example: 232.34.87.22"
+msgstr "Beispiel: 232.34.87.22"
+
+msgid "Example: wireguard.no-ip.biz"
+msgstr "Beispiel: wireguard.no-ip.biz"
 
 msgid "Exit"
 msgstr "Beenden"
 
-msgid "Close"
-msgstr "Schließen"
+msgid "Failed to retrieve Nordlynx Private Key."
+msgstr "Nordlynx Private Key konnte nicht abgerufen werden."
 
-msgid "Save"
-msgstr "Speichern"
+msgid "File %s created successfully!"
+msgstr "Datei %s erfolgreich erstellt!"
 
-msgid "Keyboard"
-msgstr "Tastatur"
+msgid "File %s not created!"
+msgstr "Datei %s nicht erstellt!"
+
+msgid "File deleted successfully: %s"
+msgstr "Datei erfolgreich gelöscht: %s"
+
+msgid "File not found: %s"
+msgstr "Datei nicht gefunden: %s"
+
+msgid "Finished restarting your network"
+msgstr "Der Neustart Ihres Netzwerks ist abgeschlossen"
+
+msgid "Gateway (IP)"
+msgstr "Gateway (IP)"
+
+msgid "Generate CloudFlare (Free)"
+msgstr "CloudFlare generieren (kostenlos)"
+
+msgid ""
+"Generate a CloudFlare (Free) configuration, you will find it in the server "
+"list."
+msgstr ""
+"Generieren Sie eine CloudFlare-Konfiguration (kostenlos), Sie finden sie in "
+"der Serverliste."
+
+msgid "Generate the private key"
+msgstr "Generieren privaten Schlüssel"
+
+msgid "Green"
+msgstr "Grün"
+
+msgid "Grey"
+msgstr "Grau"
+
+msgid "HOST/IP"
+msgstr "HOST/IP"
 
 msgid "I check Internet speedtest, be patient..."
 msgstr "Ich überprüfe die Internetgeschwindigkeit, sei geduldig..."
@@ -752,23 +387,454 @@ msgstr "Ich überprüfe die Internetgeschwindigkeit, sei geduldig..."
 msgid "I check the available servers"
 msgstr "Ich überprüfe die verfügbaren Server"
 
+msgid "I check the files"
+msgstr "Ich überprüfe die Dateien"
+
+msgid "I import the backup"
+msgstr "Ich importiere die Sicherung"
+
+msgid "I run the DNS Leak test"
+msgstr "Test auf DNS-Leck wird durchgeführt"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "IPv6 connections might compromise security."
+msgstr "IPv6-Verbindungen könnten die Sicherheit gefährden."
+
+msgid ""
+"If enabled, check the handshake on the server every 10 minutes. If the "
+"server is down, it will try to establish a new handshake."
+msgstr ""
+"Falls aktiviert, wird der Handshake auf dem Server alle 10 Minuten "
+"überprüft. Wenn der Server ausgefallen ist, versucht er, einen neuen "
+"Handshake aufzubauen."
+
+msgid "If enabled, it will show a warning on the screen."
+msgstr ""
+"Wenn diese Funktion aktiviert ist, wird auf dem Bildschirm eine Warnung "
+"angezeigt."
+
+msgid ""
+"If the connection drops and you would like to restore it, disable the Kill "
+"switch, then Save."
+msgstr ""
+"Wenn die Verbindung unterbrochen wird und Sie sie wiederherstellen möchten, "
+"deaktivieren Sie die Abschaltautomatik und speichern Sie dann."
+
+msgid "If the problem persists, check your account."
+msgstr "Wenn das Problem weiterhin besteht, überprüfen Sie Ihr Konto."
+
+msgid ""
+"If your VPN connection drops, a kill switch cuts off your internet "
+"connection."
+msgstr ""
+"Wenn Ihre VPN-Verbindung abbricht, unterbricht eine Abschaltautomatik Ihre "
+"Internetverbindung."
+
+msgid ""
+"If your provider is Mullvad or NordVpn, press the Settings button and to "
+"configure it."
+msgstr ""
+"Wenn Ihr Anbieter Mullvad oder NordVpn ist, klicken Sie auf die Schaltfläche "
+"Einstellungen, um ihn zu konfigurieren.."
+
+msgid "Install update..."
+msgstr "Update installieren..."
+
+msgid "Installed version: %s"
+msgstr "Installierte Version: %s"
+
+msgid "Interface"
+msgstr "Schnittstelle"
+
+msgid ""
+"Internet check during restart (in Seconds), if the result is negative the "
+"VPN tunnel is not established."
+msgstr ""
+"Internetprüfung beim Neustart (in Sekunden), bei negativem Ergebnis wird der "
+"VPN-Tunnel nicht aufgebaut."
+
+msgid "Internet check while restarting"
+msgstr "Internetprüfung beim Neustart"
+
+msgid "Invalid IP, please write a valid IP"
+msgstr "Ungültige IP, bitte geben Sie eine gültige IP ein"
+
+msgid "KILL SWITCH"
+msgstr "ABSCHALTAUTOMATIK"
+
+msgid "Keyboard"
+msgstr "Tastatur"
+
+msgid "Kill switch enabled"
+msgstr "Abschaltautomatik aktiviert"
+
+msgid "Link to the %s server"
+msgstr "Link zum %s Server"
+
+msgid "List of servers where they will always have the same ip addresses."
+msgstr "Liste von Servern, die immer die gleiche IP-Adresse haben."
+
+msgid "Load Private Key"
+msgstr "Privaten Schlüssel laden"
+
+msgid "Load the access token with the BLUE button."
+msgstr "Laden Sie das Zugangs-Token mit der BLAUEN Taste."
+
+msgid "Load token access"
+msgstr "Token-Zugang laden"
+
+msgid "Mullvad account does not exist!"
+msgstr "Das Mullvad-Konto existiert nicht!"
+
+msgid "Mullvad configuration successfully created!"
+msgstr "Mullvad-Konfiguration erfolgreich erstellt!"
+
+msgid "NETWORK AND INTERNET"
+msgstr "NETZWERK UND INTERNET"
+
+msgid "NO VPN CONNECTION STARTED!"
+msgstr "KEINE VPN-VERBINDUNG AUFGEBAUT!"
+
+msgid "NOT CONNECTED"
+msgstr "NICHT VERBUNDEN"
+
+msgid "No DNS servers found"
+msgstr "Keine DNS-Server gefunden"
+
+msgid "No file selected!"
+msgstr "Keine Datei ausgewählt!"
+
+msgid "No files found!"
+msgstr "Keine Dateien gefunden!"
+
+msgid "No results found for '%s'. Try again?"
+msgstr "Keine Ergebnisse für '%s' gefunden. Erneut versuchen?"
+
+msgid "ON-SCREEN ALERTS"
+msgstr "BILDSCHIRMWARNUNGEN"
+
+msgid "Ocher Yellow"
+msgstr "Ockergelb"
+
+msgid "Orange"
+msgstr "Orange"
+
+msgid "PERFECT! "
+msgstr "PERFEKT! "
+
+msgid "PERSONAL FILES"
+msgstr "PERSÖNLICHE DATEIEN"
+
+msgid "PUBLIC IP"
+msgstr "ÖFFENTLICHE IP"
+
+msgid "Page"
+msgstr "Seite"
+
+msgid "Page: %s%s%s"
+msgstr "Seite: %s%s%s"
+
+msgid ""
+"Performing an MTU test helps you configure your network optimally avoiding "
+"fragmentation issues and improving performance. This is especially important "
+"for VPN connections."
+msgstr ""
+"Die Durchführung eines MTU-Tests hilft Ihnen, Ihr Netzwerk optimal zu "
+"konfigurieren, Fragmentierungsprobleme zu vermeiden und die Leistung zu "
+"verbessern. Dies ist besonders wichtig für VPN-Verbindungen."
+
+msgid "Ping servers"
+msgstr "Server anpingen"
+
+msgid "Play sound"
+msgstr "Ton abspielen"
+
+msgid "Play sound in enigma2"
+msgstr "Ton in enigma2 abspielen"
+
+msgid "Play sound in enigma2 after exiting plugin"
+msgstr "Ton in enigma2 abspielen, nachdem das Plugin beendet wurde"
+
+msgid "Please be patient!"
+msgstr "Bitte etwas Geduld!"
+
+msgid "Please enter your Private Key by pressing the Green button"
+msgstr ""
+"Bitte geben Sie Ihren privaten Schlüssel ein, indem Sie die grüne Taste "
+"drücken"
+
+msgid "Please mount the device as"
+msgstr "Bitte mounten Sie das Gerät als"
+
+msgid "Please wait for the network adapter to restart"
+msgstr "Bitte warten Sie auf den Neustart des Netzwerkadapters"
+
+msgid "Please wait while your network is restarting..."
+msgstr "Bitte warten Sie, während Ihr Netzwerk neu gestartet wird..."
+
+msgid "Port number"
+msgstr "Portnummer"
+
+msgid "Press MENU to update"
+msgstr "Zum Aktualisieren MENU drücken"
+
+msgid "Press Ok"
+msgstr "Ok drücken"
+
+msgid "Private key"
+msgstr "Privater Schlüssel"
+
+msgid "Private key does not exist"
+msgstr "Privater Schlüssel existiert nicht"
+
+msgid "Private key saved successfully!"
+msgstr "Privater Schlüssel erfolgreich gespeichert!"
+
+msgid "Privatekey file directory"
+msgstr "Verzeichnis der privaten Schlüsseldatei"
+
+msgid "Protect your %s - By Madhouse"
+msgstr "Schütze deine %s - von Madhouse"
+
+msgid "Provider:"
+msgstr "Anbieter:"
+
+msgid "Put the files in %s"
+msgstr "Lege die Dateien in %s ab"
+
+msgid "Quick connection"
+msgstr "Schnelle Verbindung"
+
+msgid "Reboot Network Adapter"
+msgstr "Netzwerkadapter neu starten"
+
+msgid "Recommended servers"
+msgstr "Empfohlene Server"
+
+msgid "Remember to insert only files with the .conf extension"
+msgstr "Denken Sie daran, nur Dateien mit der Erweiterung .conf einzufügen"
+
+msgid "Remember to restart the GUI"
+msgstr "Denken Sie daran, die GUI neu zu starten"
+
 msgid "Repeat test"
 msgstr "Test wiederholen"
+
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+msgid "Restart Network"
+msgstr "Netzwerk neu starten"
+
+msgid "Restart enigma2 to apply the update."
+msgstr "Starten Sie enigma2 neu, um das Update anzuwenden."
 
 msgid "Result successfully saved in /tmp/speedtest.png"
 msgstr "Ergebnis erfolgreich in /tmp/speedtest.png gespeichert"
 
+msgid "SHOW IN MAIN MENU"
+msgstr "IM HAUPTMENÜ ANZEIGEN"
+
+msgid "SHOW UPDATE MESSAGE"
+msgstr "AKTUALISIERUNGSMELDUNG ANZEIGEN"
+
+msgid "SKIN, COLORS AND SOUNDS"
+msgstr "SKIN, FARBEN UND TÖNE"
+
+msgid "STOP AND RESUME SERVICE"
+msgstr "DIENST ANHALTEN UND WIEDER AUFNEHMEN"
+
+msgid "SUBNET"
+msgstr "SUBNETZ"
+
+msgid "Sand"
+msgstr "Sand"
+
+msgid "Save"
+msgstr "Speichern"
+
 msgid "Save results"
 msgstr "Ergebnisse speichern"
+
+msgid "Save the server list"
+msgstr "Speichern Sie die Serverliste"
+
+msgid "Save the server list (will not download when starting the plugin)"
+msgstr ""
+"Serverliste speichern (wird beim Start des Plugins nicht heruntergeladen)"
+
+msgid "Search"
+msgstr "Suche"
+
+msgid "Search by country"
+msgstr "Suche nach Land"
+
+msgid "Select a server and press the OK button"
+msgstr "Wählen Sie einen Server und drücken Sie die OK-Taste"
+
+msgid "Select different ping options to show them in the list."
+msgstr ""
+"Wählen Sie verschiedene Ping-Optionen aus, um sie in der Liste anzuzeigen."
+
+msgid "Select the color of the entries."
+msgstr "Wählen Sie die Farbe der Einträge aus."
+
+msgid "Select the color of the sub entries."
+msgstr "Wählen Sie die Farbe der Untereinträge aus."
+
+msgid "Select the country"
+msgstr "Wählen Sie das Land aus"
+
+msgid "Select the file directory"
+msgstr "Wählen Sie das Dateiverzeichnis"
+
+msgid "Select the skin"
+msgstr "Wählen Sie den Skin aus"
+
+msgid "Select the type of access"
+msgstr "Wählen Sie die Art des Zugangs"
+
+msgid "Select the type of server list"
+msgstr "Wählen Sie den Typ der Serverliste"
+
+msgid "Select your favorite skin."
+msgstr "Wählen Sie Ihren Lieblingsskin aus."
+
+msgid ""
+"Select your personal files and remember to place them in the right directory"
+msgstr ""
+"Wählen Sie Ihre persönlichen Dateien und denken Sie daran, sie im richtigen "
+"Verzeichnis abzulegen"
+
+msgid "Select your vpn provider"
+msgstr "Wählen Sie Ihren vpn-Anbieter"
+
+msgid "Selected"
+msgstr "Ausgewählt"
+
+msgid "Server %s %s"
+msgstr "Server %s %s"
+
+msgid "Server %s is Down!"
+msgstr "Server %s ist ausgefallen!"
+
+msgid "Server copy"
+msgstr "Serverkopie"
 
 msgid "Server list"
 msgstr "Serverliste"
 
+msgid "Server list order"
+msgstr "Reihenfolge der Serverliste"
+
+msgid "Server selected"
+msgstr "Ausgewählte Server"
+
+msgid "Server with static ip"
+msgstr "Server mit statischer IP"
+
+msgid "Set a limit of servers to view"
+msgstr "Legen Sie ein Limit der anzuzeigenden Server fest"
+
+msgid "Set a port for web access."
+msgstr "Legen Sie einen Port für den Webzugriff fest."
+
+msgid "Set the MTU"
+msgstr "Einstellen der MTU"
+
+msgid "Set the time (minutes) for Wireguard Vpn control"
+msgstr "Legen Sie die Zeit (Minuten) für die Wireguard Vpn-Kontrolle fest"
+
+msgid "Set the timeout"
+msgstr "Zeitüberschreitung einstellen"
+
+msgid "Set up a DNS"
+msgstr "Einen DNS einrichten"
+
+msgid "Set up a DNS for Wireguard connection."
+msgstr "Richten Sie einen DNS für die Wireguard-Verbindung ein."
+
+msgid "Set up internet control"
+msgstr "Internet-Kontrolle einrichten"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Show Wireguard Vpn in main menu"
+msgstr "Wireguard Vpn im Hauptmenü anzeigen"
+
+msgid "Show Wireguard in the main menu"
+msgstr "Wireguard im Hauptmenü anzeigen"
+
+msgid "Show a message if there is an update."
+msgstr "Zeigt eine Meldung an, wenn es eine Aktualisierung gibt."
+
+msgid "Show a warning on the screen"
+msgstr "Eine Warnung auf dem Bildschirm anzeigen"
+
 msgid "Show results"
 msgstr "Ergebnisse anzeigen"
 
+msgid "Show the warning on the screen"
+msgstr "Zeige die Warnung auf dem Bildschirm"
+
+msgid "Show update message"
+msgstr "Aktualisierungsmeldung anzeigen"
+
+msgid "Show warning on screen"
+msgstr "Warnung auf dem Bildschirm anzeigen"
+
+msgid "Shows the warning duration (seconds) on the screen"
+msgstr "Zeigt die Dauer der Warnung (Sekunden) auf dem Bildschirm an"
+
+msgid "Sort by bandwidth (ascending)"
+msgstr "Sortierung nach Bandbreite (aufsteigend)"
+
+msgid "Sort by load (ascending)"
+msgstr "Sortierung nach Last (aufsteigend)"
+
+msgid "Sort by server (alphabetically)"
+msgstr "Sortierung nach Server (alphabetisch)"
+
+msgid "Sort the list alphabetically or by ascending bandwidth"
+msgstr ""
+"Sortieren Sie die Liste alphabetisch oder nach aufsteigender Bandbreite"
+
+msgid "Sort the list alphabetically or by ascending load"
+msgstr "Sortiere die Liste alphabetisch oder nach aufsteigender Last"
+
+msgid "Start Wireguard Vpn after a full reboot"
+msgstr "Wireguard Vpn nach einem vollständigen Neustart starten"
+
+msgid "Start Wireguard at boot"
+msgstr "Wireguard beim Booten starten"
+
+msgid "Stop"
+msgstr "Stoppen"
+
+msgid "Stop the currently playing service"
+msgstr "Beenden Sie den aktuell wiedergegebenen Dienst"
+
+msgid "Stopping Wireguard interface"
+msgstr "Stoppen der Wireguard-Schnittstelle"
+
+msgid ""
+"Stops the service playing (streaming) if it connects to a new server and "
+"resumes service."
+msgstr ""
+"Stoppt die Wiedergabe (das Streaming) des Dienstes, wenn eine Verbindung zu "
+"einem neuen Server hergestellt wird, und nimmt den Dienst wieder auf."
+
+msgid "Subnet (IP/CIDR)"
+msgstr "Subnetz (IP/CIDR)"
+
 msgid "Test completed, to test again press green button"
 msgstr "Test abgeschlossen, für erneuten Test grüne Taste drücken"
+
+msgid "Test performed on host: %s"
+msgstr "Test durchgeführt auf Host: %s"
 
 msgid "Test your internet speed by Madhouse"
 msgstr "Teste deine Internetgeschwindigkeit mit Madhouse"
@@ -779,206 +845,232 @@ msgstr "Testen des Downloads von"
 msgid "Testing upload speed"
 msgstr "Testen der Upload-Geschwindigkeit"
 
-msgid "Settings"
-msgstr "Einstellungen"
+msgid "The ' %s ' host (bypass) is unreachable.\n"
+msgstr "Der ' %s ' Host (Umgehung) ist unerreichbar.\n"
 
-msgid "Restart Network"
-msgstr "Netzwerk neu starten"
+msgid "The WireGuard kernel module is not loaded!"
+msgstr "Das WireGuard-Kernelmodul ist nicht geladen!"
 
-msgid "Country:"
-msgstr "Land:"
+msgid "The WireGuard package is not installed!"
+msgstr "Das WireGuard-Paket ist nicht installiert!"
 
-msgid "Provider:"
-msgstr "Anbieter:"
+msgid "The file %s %s"
+msgstr "Die Datei %s %s“"
 
-msgid "Wireguard status"
-msgstr "Wireguard status"
-
-msgid "Server selected"
-msgstr "Ausgewählte Server"
-
-msgid "Link to the %s server"
-msgstr "Link zum %s Server"
-
-msgid "Private key does not exist"
-msgstr "Privater Schlüssel existiert nicht"
-
-msgid "Please enter your Private Key by pressing the Green button"
-msgstr "Bitte geben Sie Ihren privaten Schlüssel ein, indem Sie die grüne Taste drücken"
-
-msgid "or edit the file located in"
-msgstr "oder bearbeiten Sie die Datei, die sich darin befindet"
-
-msgid "Server %s is Down!"
-msgstr "Server %s ist ausgefallen!"
-
-msgid "Try later or"
-msgstr "Versuche es später oder"
-
-msgid "Check your internet connection"
-msgstr "Überprüfen Sie Ihre Internetverbindung"
-
-msgid "Select a server and press the OK button"
-msgstr "Wählen Sie einen Server und drücken Sie die OK-Taste"
-
-msgid "You want to stop the %s server?"
-msgstr "Möchten Sie den %s Server stoppen?"
-
-msgid "Stopping Wireguard interface"
-msgstr "Stoppen der Wireguard-Schnittstelle"
-
-msgid "NOT CONNECTED"
-msgstr "NICHT VERBUNDEN"
-
-msgid "CONNECTED"
-msgstr "VERBUNDEN"
-
-msgid "Disconnect"
-msgstr "Trennen"
-
-msgid "PUBLIC IP"
-msgstr "ÖFFENTLICHE IP"
-
-msgid "Please wait for the network adapter to restart"
-msgstr "Bitte warten Sie auf den Neustart des Netzwerkadapters"
-
-msgid "Reboot Network Adapter"
-msgstr "Netzwerkadapter neu starten"
-
-msgid "Check vpn enabled"
-msgstr "Überprüfe vpn aktiviert"
-
-msgid "Check vpn disabled"
-msgstr "Überprüfe vpn deaktiviert"
-
-msgid "VPN Status: OK"
-msgstr "VPN-Status: OK"
-
-msgid "Warning! VPN KO"
-msgstr "Warnung! VPN KO"
-
-msgid "Protect your %s - By Madhouse"
-msgstr "Schütze deine %s - von Madhouse"
-
-msgid "Select your vpn provider"
-msgstr "Wählen Sie Ihren vpn-Anbieter"
-
-msgid "Choose your VPN provider among:"
-msgstr "Wählen Sie Ihren VPN-Anbieter aus:"
-
-msgid "Choose the directory for the PrivateKey.key file"
-msgstr "Wählen Sie das Verzeichnis für die Datei PrivateKey.key"
-
-msgid "Write your Private key"
-msgstr "Schreiben Sie Ihren privaten Schlüssel"
-
-msgid "Write your Private Key or edit the file located in"
-msgstr "Schreiben Sie Ihren privaten Schlüssel oder bearbeiten Sie die Datei, die sich darin befindet"
-
-msgid "or"
-msgstr "oder"
-
-msgid "Save the server list"
-msgstr "Speichern Sie die Serverliste"
-
-msgid "Privatekey file directory"
-msgstr "Verzeichnis der privaten Schlüsseldatei"
-
-msgid "Save the server list (will not download when starting the plugin)"
-msgstr "Serverliste speichern (wird beim Start des Plugins nicht heruntergeladen)"
-
-msgid "Enable vpn control"
-msgstr "VPN-Kontrolle aktivieren"
-
-msgid "Enable Wireguard Vpn screen control."
-msgstr "Aktiviere Wireguard Vpn-Bildschirmkontrolle."
-
-msgid "Set the timeout"
-msgstr "Zeitüberschreitung einstellen"
-
-msgid "Set the time (minutes) for Wireguard Vpn control"
-msgstr "Legen Sie die Zeit (Minuten) für die Wireguard Vpn-Kontrolle fest"
-
-msgid "Show warning on screen"
-msgstr "Warnung auf dem Bildschirm anzeigen"
-
-msgid "Show the warning on the screen"
-msgstr "Zeige die Warnung auf dem Bildschirm"
-
-msgid "Warning time on screen"
-msgstr "Warnzeit auf dem Bildschirm"
-
-msgid "Shows the warning duration (seconds) on the screen"
-msgstr "Zeigt die Dauer der Warnung (Sekunden) auf dem Bildschirm an"
-
-msgid "Start Wireguard at boot"
-msgstr "Wireguard beim Booten starten"
-
-msgid "Start Wireguard Vpn after a full reboot"
-msgstr "Wireguard Vpn nach einem vollständigen Neustart starten"
-
-msgid "Show Wireguard Vpn in main menu"
-msgstr "Wireguard Vpn im Hauptmenü anzeigen"
-
-msgid "Show Wireguard in the main menu"
-msgstr "Wireguard im Hauptmenü anzeigen"
-
-msgid "(* Requires restart Gui)"
-msgstr "(* Erfordert einen Neustart der Gui)"
-
-msgid "Select the type of server list"
-msgstr "Wählen Sie den Typ der Serverliste"
-
-msgid "Recommended servers"
-msgstr "Empfohlene Server"
-
-msgid "'All servers'"
-msgstr "'Alle Server'"
-
-msgid "'Servers by country'"
-msgstr "'Server nach Land'"
-
-msgid "Select the country"
-msgstr "Wählen Sie das Land aus"
-
-msgid "it will take longer to process the servers, you will have the complete list of servers."
-msgstr "Die Verarbeitung der Server wird länger dauern, aber Sie erhalten die vollständige Liste der Server."
-
-msgid "'Recommended servers'"
-msgstr "'Empfohlene Server'"
-
-msgid "you will have the list of recommended servers, it will take less time to process the list."
-msgstr "Sie erhalten die Liste mit den empfohlenen Servern und die Verarbeitung der Liste nimmt weniger Zeit in Anspruch."
-
-msgid "Data saved correctly!"
-msgstr "Daten korrekt gespeichert!"
-
-msgid "Enter your Private Key"
-msgstr "Geben Sie Ihren privaten Schlüssel ein"
-
-msgid "Private key saved successfully!"
-msgstr "Privater Schlüssel erfolgreich gespeichert!"
-
-msgid "Load Private Key"
-msgstr "Privaten Schlüssel laden"
-
-msgid "Checking Wireguard module"
-msgstr "Überprüfe Wireguard-Modul"
-
-msgid "Server list order"
-msgstr "Reihenfolge der Serverliste"
-
-msgid "Sort by load (ascending)"
-msgstr "Sortierung nach Last (aufsteigend)"
-
-msgid "Sort by server (alphabetically)"
-msgstr "Sortierung nach Server (alphabetisch)"
-
-msgid "Sort the list alphabetically or by ascending load"
-msgstr "Sortiere die Liste alphabetisch oder nach aufsteigender Last"
+msgid "The file /etc/wireguard/wg0.conf was not found!"
+msgstr "Die Datei /etc/wireguard/wg0.conf wurde nicht gefunden!"
 
 msgid "The file located in %s is empty."
 msgstr "Die Datei in %s ist leer."
 
-msgid "Copy/paste your Private Key and then press the Blue button"
-msgstr "Kopieren/Einfügen Ihres privaten Schlüssels und drücken Sie dann die blaue Taste"
+msgid "The host %s ' %s ' is duplicated.\n"
+msgstr "Der Host %s ' %s ' ist dupliziert.\n"
+
+msgid "The private key is incorrect"
+msgstr "Der private Schlüssel ist falsch"
+
+msgid "The test checks for any leakage of DNS"
+msgstr "Der Test überprüft, ob ein DNS-Leck vorliegt"
+
+msgid "The update server is unreachable"
+msgstr "Der Update-Server ist nicht erreichbar"
+
+msgid "There appears to be a problem with your account."
+msgstr "Es scheint ein Problem mit Ihrem Konto zu geben."
+
+msgid "There is not enough space on disk %s!"
+msgstr "Auf Laufwerk %s ist nicht genügend Speicherplatz vorhanden!"
+
+msgid "This allows you to bypass wireguard"
+msgstr "Damit können Sie Wireguard umgehen"
+
+msgid "This allows you to bypass wireguard traffic."
+msgstr "Damit können Sie den Wireguard-Datenverkehr umgehen."
+
+msgid "This will not affect your network settings."
+msgstr "Dies wird Ihre Netzwerkeinstellungen nicht beeinflussen."
+
+msgid "Tiffany"
+msgstr "Tiffany"
+
+msgid "Total files: %s"
+msgstr "Dateien insgesamt: %s"
+
+msgid "Total servers: %s%s%s"
+msgstr "Server insgesamt: %s%s%s"
+
+msgid "Try later or"
+msgstr "Versuche es später oder"
+
+msgid "Try restarting yours %s"
+msgstr "Versuchen Sie einen Neustart Ihrer %s"
+
+msgid "Turquoise"
+msgstr "Türkis"
+
+msgid "Unable to get the ip of the selected server"
+msgstr "Die IP des ausgewählten Servers kann nicht abgerufen werden"
+
+msgid "Unable to write to file."
+msgstr "Datei kann nicht geschrieben werden."
+
+msgid "Unexpected error: %s"
+msgstr "Unerwarteter Fehler: %s"
+
+msgid "Unknown error on disk %s!"
+msgstr "Unbekannter Fehler auf Laufwerk %s!"
+
+msgid "Update plugin"
+msgstr "Plugin aktualisieren"
+
+msgid "Use your personal files"
+msgstr "Verwenden Sie Ihre persönlichen Dateien"
+
+msgid "VPN Status: OK"
+msgstr "VPN-Status: OK"
+
+msgid "Warning time on screen"
+msgstr "Warnzeit auf dem Bildschirm"
+
+msgid "Warning! VPN KO"
+msgstr "Warnung! VPN KO"
+
+msgid "Web port"
+msgstr "Web-Port"
+
+msgid "White"
+msgstr "Weiß"
+
+msgid "WireGuard protocol missing!"
+msgstr "WireGuard-Protokoll fehlt!"
+
+msgid "Wireguard VPN plugin is updated"
+msgstr "Wireguard VPN-Plugin ist aktuell"
+
+msgid "Wireguard status"
+msgstr "Wireguard-Status"
+
+msgid "Write or load your Private Key."
+msgstr "Schreiben oder laden Sie Ihren privaten Schlüssel."
+
+msgid ""
+"Write the IP that you find in the configuration file generated and "
+"downloaded from the website."
+msgstr ""
+"Schreiben Sie die IP, die Sie in der Konfigurationsdatei finden, die Sie von "
+"der Website heruntergeladen haben."
+
+msgid "Write the IP you find in the file"
+msgstr "Schreiben Sie die IP, die Sie in der Datei finden"
+
+msgid "Write the port number"
+msgstr "Geben Sie die Portnummer ein"
+
+msgid "Write your Private Key or edit the file located in"
+msgstr ""
+"Schreiben Sie Ihren privaten Schlüssel oder bearbeiten Sie die Datei, die "
+"sich darin befindet"
+
+msgid ""
+"Write your Private Key that you find in the configuration file or edit the "
+"file located in"
+msgstr ""
+"Schreiben Sie Ihren privaten Schlüssel, den Sie in der Konfigurationsdatei "
+"finden, oder bearbeiten Sie die Datei, die sich darin befindet"
+
+msgid "Write your Private key"
+msgstr "Schreiben Sie Ihren privaten Schlüssel"
+
+msgid "Write your account number"
+msgstr "Geben Sie Ihre Kontonummer ein"
+
+msgid "Write your account number generated during subscription."
+msgstr ""
+"Geben Sie Ihre Kontonummer ein, die Sie bei der Anmeldung erhalten haben."
+
+msgid "Write your subnet gateway."
+msgstr "Geben Sie Ihre Subnetz-Gateway ein."
+
+msgid "Write your subnet."
+msgstr "Geben Sie Ihr Subnetz ein."
+
+msgid "You use "
+msgstr "Sie benutzen "
+
+msgid "You want to restore the connection?"
+msgstr "Möchten Sie die Verbindung wiederherstellen?"
+
+msgid "You want to stop the %s server?"
+msgstr "Möchten Sie den %s Server stoppen?"
+
+msgid "You will have the complete list of servers."
+msgstr "Sie erhalten die komplette Liste der Server."
+
+msgid "Your PUBLIC IP: "
+msgstr "Ihre ÖFFENTLICHE IP: "
+
+msgid "Your VPN IP: "
+msgstr "Ihre VPN-IP: "
+
+msgid "Your account expired"
+msgstr "Ihr Konto ist abgelaufen"
+
+msgid "Your account expires today"
+msgstr "Ihr Konto läuft heute ab"
+
+msgid "Your account will expire in"
+msgstr "Ihr Konto läuft ab in"
+
+msgid "Your private key"
+msgstr "Ihr privater Schlüssel"
+
+msgid "ago"
+msgstr "vor"
+
+msgid "copied successfully!"
+msgstr "erfolgreich kopiert!"
+
+msgid "day"
+msgstr "Tag"
+
+msgid "days"
+msgstr "Tagen"
+
+msgid ""
+"exists.\n"
+"Do you want to overwrite it?"
+msgstr ""
+"vorhanden.\n"
+"Möchten Sie es überschreiben?"
+
+msgid "has been imported successfully."
+msgstr "wurde erfolgreich importiert."
+
+msgid "is too large, fragmentation needed."
+msgstr "ist zu groß, Fragmentierung erforderlich."
+
+msgid "is valid."
+msgstr "ist gültig."
+
+msgid ""
+"it will take longer to process the servers, you will have the complete list "
+"of servers."
+msgstr ""
+"Die Verarbeitung der Server wird länger dauern, aber Sie erhalten die "
+"vollständige Liste der Server."
+
+msgid "or"
+msgstr "oder"
+
+msgid "or edit the file located in"
+msgstr "oder bearbeiten Sie die Datei, die sich darin befindet"
+
+msgid "through"
+msgstr "durch"
+
+msgid ""
+"you will have the list of recommended servers, it will take less time to "
+"process the list."
+msgstr ""
+"Sie erhalten die Liste mit den empfohlenen Servern und die Verarbeitung der "
+"Liste nimmt weniger Zeit in Anspruch."

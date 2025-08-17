@@ -1,0 +1,990 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wireguard\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-19 16:48+0000\n"
+"PO-Revision-Date: 2025-08-09 22:04+0300\n"
+"Last-Translator: audi06_19 <info@dreamosat-forum.com>\n"
+"Language-Team: Turkish <LL@li.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid " DNS servers"
+msgstr " DNS sunucuları"
+
+msgid "'All servers'"
+msgstr "'Tüm sunucular'"
+
+msgid "'Recommended servers'"
+msgstr "'Önerilen sunucular'"
+
+msgid "'Server with static ip'"
+msgstr "'Statik IP'li sunucu'"
+
+msgid "'Servers by country'"
+msgstr "'Ülkeye göre sunucular'"
+
+msgid "'Servers MultiHop'"
+msgstr "'Çoklu Atlamalı Sunucular'"
+
+msgid "(Experimental)"
+msgstr "(Deneysel)"
+
+msgid "(* Requires restart Gui)"
+msgstr "(* Arayüzün yeniden başlatılmasını gerektirir)"
+
+msgid "* File located in /etc/WgConfig or /media/hdd/WgConfig or /media/usb/WgConfig"
+msgstr "* Dosya konumu: /etc/WgConfig veya /media/hdd/WgConfig veya /media/usb/WgConfig"
+
+msgid "%s) Bypass host or ip"
+msgstr "%s) Ana bilgisayarı veya IP'yi atla"
+
+msgid "AUTO START"
+msgstr "OTOMATİK BAŞLATMA"
+
+msgid "ago"
+msgstr "önce"
+
+msgid "Access via Token"
+msgstr "Token ile Erişim"
+
+msgid "Are you sure you want to delete the file: %s?"
+msgstr "%s dosyasını silmek istediğinizden emin misiniz?"
+
+msgid "Add bypasses"
+msgstr "Atlama ekle"
+
+msgid "Add host/ip number to bypass WireGuard."
+msgstr "WireGuard'ı atlamak için ana bilgisayar/IP numarası ekleyin."
+
+msgid "All servers"
+msgstr "Tüm sunucular"
+
+msgid "BACKUP"
+msgstr "YEDEKLEME"
+
+msgid "BYPASS"
+msgstr "ATLA"
+
+msgid "Bypass a specific port"
+msgstr "Belirli bir portu atla"
+
+msgid "Bandwidth"
+msgstr "Bant Genişliği"
+
+msgid "Bypass Wireguard"
+msgstr "Wireguard'ı Atla"
+
+msgid "Bypass Subnet"
+msgstr "Alt Ağı Atla"
+
+msgid "Button"
+msgstr "Düğme"
+
+msgid "Server %s %s"
+msgstr "Sunucu %s %s"
+
+msgid "Server copy"
+msgstr "Sunucu kopyası"
+
+msgid "Search"
+msgstr "Ara"
+
+msgid "Search by country"
+msgstr "Ülkeye göre ara"
+
+msgid "Stop"
+msgstr "Durdur"
+
+msgid "SKIN AND COLORS ITEMS"
+msgstr "TEMA VE RENK ÖĞELERİ"
+
+msgid "SKIN, COLORS AND SOUNDS"
+msgstr "TEMA, RENKLER VE SESLER"
+
+msgid "SUBNET"
+msgstr "ALT AĞ"
+
+msgid "Subnet (IP/CIDR)"
+msgstr "Alt Ağ (IP/CIDR)"
+
+msgid "Configure your provider first and then you can copy the chosen server."
+msgstr "Önce sağlayıcınızı yapılandırın, ardından seçtiğiniz sunucuyu kopyalayabilirsiniz."
+
+msgid "copied successfully!"
+msgstr "Başarıyla kopyalandı!"
+
+msgid "Cloudflare registration failed!"
+msgstr "Cloudflare kaydı başarısız oldu!"
+
+msgid "Color of entries"
+msgstr "Girdilerin rengi"
+
+msgid "Color of sub entries"
+msgstr "Alt girdilerin rengi"
+
+msgid "Click"
+msgstr "Tıkla"
+
+msgid "Choose a sound"
+msgstr "Bir ses seçin"
+
+msgid "CHOICE OF PROVIDER"
+msgstr "SAĞLAYICI SEÇİMİ"
+
+msgid "Check Dns Leak"
+msgstr "DNS Sızıntısını Kontrol Et"
+
+msgid "Check internet connection"
+msgstr "İnternet bağlantısını kontrol et"
+
+msgid "Check that WireGuard is installed in your image."
+msgstr "WireGuard'ın imajınızda kurulu olduğunu kontrol edin."
+
+msgid "Check the length of the private key"
+msgstr "Özel anahtarın uzunluğunu kontrol edin"
+
+msgid "Check vpn disabled"
+msgstr "VPN devre dışı bırakıldı kontrolü"
+
+msgid "Check vpn enabled"
+msgstr "VPN etkinleştirildi kontrolü"
+
+msgid "Check your internet connection"
+msgstr "İnternet bağlantınızı kontrol edin"
+
+msgid "Checking Wireguard module"
+msgstr "Wireguard modülü kontrol ediliyor"
+
+msgid "Choose a DNS for testing your internet connection."
+msgstr "İnternet bağlantınızı test etmek için bir DNS seçin."
+
+msgid "Choose a DNS server."
+msgstr "Bir DNS sunucusu seçin."
+
+msgid "Choose a DNS test server from bash.ws or dnsleaktest.com"
+msgstr "bash.ws veya dnsleaktest.com'dan bir DNS test sunucusu seçin"
+
+msgid "Choose a server for DNS testing"
+msgstr "DNS testi için bir sunucu seçin"
+
+msgid "Choose server and press ok"
+msgstr "Sunucu seçip 'tamam'a basın"
+
+msgid "Choose the directory for the PrivateKey.key file"
+msgstr "PrivateKey.key dosyası için dizini seçin"
+
+msgid "Choose your VPN provider among:"
+msgstr "VPN sağlayıcınızı şunlar arasından seçin:"
+
+msgid "Close"
+msgstr "Kapat"
+
+msgid "Conclusion: "
+msgstr "Sonuç: "
+
+msgid "Connected by: %s"
+msgstr "Bağlandı: %s"
+
+msgid "CONNECTED"
+msgstr "BAĞLANDI"
+
+msgid "Connection Established"
+msgstr "Bağlantı Kuruldu"
+
+msgid "Connection in progress..."
+msgstr "Bağlantı kuruluyor..."
+
+msgid "Connection to server failed!"
+msgstr "Sunucuya bağlanılamadı!"
+
+msgid "Connection Unavailable!"
+msgstr "Bağlantı Mevcut Değil!"
+
+msgid "Copy/paste your Private Key and then press the Blue button"
+msgstr "Özel Anahtarınızı kopyalayıp yapıştırın ve Mavi düğmeye basın"
+
+msgid "Create a backup script"
+msgstr "Yedekleme betiği oluştur"
+
+msgid "Create a backup of your configurations to be able to restore it in a new image. The backup (wireguard_backup.sh script) will be saved in:"
+msgstr "Yapılandırmalarınızın yedeğini oluşturarak yeni bir imajda geri yükleyebilirsiniz. Yedek (wireguard_backup.sh betiği) şu konuma kaydedilecektir:"
+
+msgid "Create your access token via the NordVpn website."
+msgstr "Erişim anahtarınızı NordVpn web sitesi üzerinden oluşturun."
+
+msgid "Delete files"
+msgstr "Dosyaları sil"
+
+msgid "Disabled"
+msgstr "Devre Dışı"
+
+msgid "DNS LEAK TEST"
+msgstr "DNS SIZINTI TESTİ"
+
+msgid "Days"
+msgstr "Gün"
+
+msgid "days"
+msgstr "gün"
+
+msgid "day"
+msgstr "gün"
+
+msgid "Data saved correctly!"
+msgstr "Veri başarıyla kaydedildi!"
+
+msgid "Default is set to 16384 maximum servers to display"
+msgstr "Varsayılan olarak görüntülenecek maksimum sunucu sayısı 16384 olarak ayarlandı"
+
+msgid "Default is set to 500 maximum servers to display"
+msgstr "Varsayılan olarak görüntülenecek maksimum sunucu sayısı 500 olarak ayarlandı"
+
+msgid "Default: 10"
+msgstr "Varsayılan: 10"
+
+msgid "Default"
+msgstr "Varsayılan"
+
+msgid "Disable ipv6"
+msgstr "IPv6'yı devre dışı bırak"
+
+msgid "Disconnect"
+msgstr "Bağlantıyı Kes"
+
+msgid "DNS IS NOT LEAKING."
+msgstr "DNS SIZINTISI YOK."
+
+msgid "DNS leak test"
+msgstr "DNS sızıntı testi"
+
+msgid "DNS MAY BE LEAKING."
+msgstr "DNS SIZINTISI OLABİLİR."
+
+msgid "DNS server settings"
+msgstr "DNS sunucu ayarları"
+
+msgid "DNS servers allow resolution of DNS host names to IP addresses."
+msgstr "DNS sunucuları, DNS ana bilgisayar adlarının IP adreslerine çözümlenmesini sağlar."
+
+msgid "Do you want to import the backup file?"
+msgstr "Yedekleme dosyasını içe aktarmak istiyor musunuz?"
+
+msgid "Do you want to view the latest Changelog?"
+msgstr "En son değişiklik günlüğünü görmek istiyor musunuz?"
+
+msgid "Do you want to generate your Mullvad account data?"
+msgstr "Mullvad hesap verilerinizi oluşturmak istiyor musunuz?"
+
+msgid "Do you want to restart the GUI?"
+msgstr "Arayüzü yeniden başlatmak istiyor musunuz?"
+
+msgid "Do you want to restart the network interface?"
+msgstr "Ağ arayüzünü yeniden başlatmak istiyor musunuz?"
+
+msgid "Do you want to upgrade to the new %s version?"
+msgstr "Yeni %s sürümüne yükseltmek istiyor musunuz?"
+
+msgid "Double VPN, highest level of safety and security, tracking the real IP address is mathematically impossible."
+msgstr "Double VPN, en yüksek düzeyde güvenlik ve emniyet sağlar, gerçek IP adresinin takibi matematiksel olarak imkansızdır."
+
+msgid "Download speedtest.png failed!"
+msgstr "speedtest.png indirme başarısız oldu!"
+
+msgid "Enable web access"
+msgstr "Web erişimini etkinleştir"
+
+msgid ""
+"exists.\n"
+"Do you want to overwrite it?"
+msgstr ""
+"mevcut.\n"
+"Üzerine yazılsın mı?"
+
+msgid "Example"
+msgstr "Örnek"
+
+msgid "Error removing file: %s"
+msgstr "Dosya kaldırılırken hata: %s"
+
+msgid "Edit the file located in /etc/wg_token.key and paste your access token."
+msgstr "/etc/wg_token.key dosyasını düzenleyin ve erişim anahtarınızı yapıştırın."
+
+msgid "Enter your account number!"
+msgstr "Hesap numaranızı girin!"
+
+msgid "Enable hanshake control"
+msgstr "El sıkışma kontrolünü etkinleştir"
+
+msgid "Enable Kill switch"
+msgstr "Kill Switch'i etkinleştir"
+
+msgid "Enable vpn control"
+msgstr "VPN kontrolünü etkinleştir"
+
+msgid "Enable Wireguard Vpn screen control."
+msgstr "Wireguard VPN ekran kontrolünü etkinleştirin."
+
+msgid "Enabling it allows you to perform an internet check when your %s starts"
+msgstr "Etkinleştirmek, %s başladığında internet kontrolü yapmanızı sağlar"
+
+msgid "Enter your Private Key"
+msgstr "Özel Anahtarınızı Girin"
+
+msgid "Example: 232.34.87.22"
+msgstr "Örnek: 232.34.87.22"
+
+msgid "Error creating backup file: Out of disk space %s."
+msgstr "Yedek dosyası oluşturma hatası: %s disk alanı yetersiz."
+
+msgid "Example: wireguard.no-ip.biz"
+msgstr "Örnek: wireguard.no-ip.biz"
+
+msgid "Example:"
+msgstr "Örnek:"
+
+msgid "Exit"
+msgstr "Çıkış"
+
+msgid "File not found: %s"
+msgstr "Dosya bulunamadı: %s"
+
+msgid "File deleted successfully: %s"
+msgstr "Dosya başarıyla silindi: %s"
+
+msgid "File %s not created!"
+msgstr "%s dosyası oluşturulamadı!"
+
+msgid "File %s created successfully!"
+msgstr "%s dosyası başarıyla oluşturuldu!"
+
+msgid "Failed to retrieve Nordlynx Private Key."
+msgstr "Nordlynx Özel Anahtarı alınamadı."
+
+msgid "Finished restarting your network"
+msgstr "Ağınız yeniden başlatıldı"
+
+msgid "Gateway (IP)"
+msgstr "Ağ Geçidi (IP)"
+
+msgid "Generate the private key"
+msgstr "Özel anahtar oluştur"
+
+msgid "Generate CloudFlare (Free)"
+msgstr "CloudFlare Oluştur (Ücretsiz)"
+
+msgid "Generate a CloudFlare (Free) configuration, you will find it in the server list."
+msgstr "Bir CloudFlare (Ücretsiz) yapılandırması oluşturun, bunu sunucu listesinde bulacaksınız."
+
+msgid "Green"
+msgstr "Yeşil"
+
+msgid "Grey"
+msgstr "Gri"
+
+msgid "has been imported successfully."
+msgstr "başarıyla içe aktarıldı."
+
+msgid "HOST/IP"
+msgstr "ANA BİLGİSAYAR/IP"
+
+msgid "is too large, fragmentation needed."
+msgstr "çok büyük, parçalanma gerekli."
+
+msgid "is valid."
+msgstr "geçerli."
+
+msgid "Interface"
+msgstr "Arayüz"
+
+msgid "I import the backup"
+msgstr "Yedeği içe aktarıyorum"
+
+msgid "I check Internet speedtest, be patient..."
+msgstr "İnternet hızını test ediyorum, lütfen bekleyin..."
+
+msgid "I check the available servers"
+msgstr "Mevcut sunucuları kontrol ediyorum"
+
+msgid "I check the files"
+msgstr "Dosyaları kontrol ediyorum"
+
+msgid "I run the DNS Leak test"
+msgstr "DNS Sızıntı testini çalıştırıyorum"
+
+msgid "If your provider is Mullvad or NordVpn, press the Settings button and to configure it."
+msgstr "Sağlayıcınız Mullvad veya NordVpn ise, yapılandırmak için Ayarlar düğmesine basın."
+
+msgid "If enabled, check the handshake on the server every 10 minutes. If the server is down, it will try to establish a new handshake."
+msgstr "Etkinleştirilirse, sunucudaki el sıkışmayı her 10 dakikada bir kontrol eder. Sunucu çökerse, yeni bir el sıkışma kurmaya çalışır."
+
+msgid "If enabled, it will show a warning on the screen."
+msgstr "Etkinleştirilirse, ekranda bir uyarı gösterir."
+
+msgid "If the connection drops and you would like to restore it, disable the Kill switch, then Save."
+msgstr "Bağlantı kesilirse ve geri yüklemek isterseniz, Kill Switch'i devre dışı bırakın, ardından Kaydet'e basın."
+
+msgid "If the problem persists, check your account."
+msgstr "Sorun devam ederse hesabınızı kontrol edin."
+
+msgid "If your VPN connection drops, a kill switch cuts off your internet connection."
+msgstr "VPN bağlantınız kesilirse, bir kill switch internet bağlantınızı keser."
+
+msgid "Install update..."
+msgstr "Güncelleme yükleniyor..."
+
+msgid "Installed version: %s"
+msgstr "Yüklü sürüm: %s"
+
+msgid "Internet check during restart (in Seconds), if the result is negative the VPN tunnel is not established."
+msgstr "Yeniden başlatma sırasında internet kontrolü (Saniye cinsinden), sonuç olumsuzsa VPN tüneli kurulmaz."
+
+msgid "Internet check while restarting"
+msgstr "Yeniden başlatılırken internet kontrolü"
+
+msgid "Invalid IP, please write a valid IP"
+msgstr "Geçersiz IP, lütfen geçerli bir IP adresi yazın"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "IPv6 connections might compromise security."
+msgstr "IPv6 bağlantıları güvenliği tehlikeye atabilir."
+
+msgid "it will take longer to process the servers, you will have the complete list of servers."
+msgstr "sunucuları işlemek daha uzun sürer, sunucuların tam listesine sahip olursunuz."
+
+msgid "KILL SWITCH"
+msgstr "ACİL DURDURMA"
+
+msgid "Keyboard"
+msgstr "Klavye"
+
+msgid "Kill switch enabled"
+msgstr "Kill switch etkin"
+
+msgid "Link to the %s server"
+msgstr "%s sunucusuna bağlantı"
+
+msgid "List of servers where they will always have the same ip addresses."
+msgstr "Her zaman aynı IP adreslerine sahip olacak sunucuların listesi."
+
+msgid "Load Private Key"
+msgstr "Özel Anahtarı Yükle"
+
+msgid "Load the access token with the BLUE button."
+msgstr "Erişim anahtarını MAVİ düğmeyle yükleyin."
+
+msgid "Load token access"
+msgstr "Token erişimini yükle"
+
+msgid "Mullvad configuration successfully created!"
+msgstr "Mullvad yapılandırması başarıyla oluşturuldu!"
+
+msgid "Mullvad account does not exist!"
+msgstr "Mullvad hesabı mevcut değil!"
+
+msgid "No file selected!"
+msgstr "Dosya seçilmedi!"
+
+msgid "No results found for '%s'. Try again?"
+msgstr "'%s' için sonuç bulunamadı. Tekrar denensin mi?"
+
+msgid "NETWORK AND INTERNET"
+msgstr "AĞ VE İNTERNET"
+
+msgid "NO VPN CONNECTION STARTED!"
+msgstr "BAŞLATILMIŞ VPN BAĞLANTISI YOK!"
+
+msgid "No DNS servers found"
+msgstr "DNS sunucusu bulunamadı"
+
+msgid "No files found!"
+msgstr "Dosya bulunamadı!"
+
+msgid "NOT CONNECTED"
+msgstr "BAĞLI DEĞİL"
+
+msgid "Ocher Yellow"
+msgstr "Aşı Sarısı"
+
+msgid "Orange"
+msgstr "Turuncu"
+
+msgid "ON-SCREEN ALERTS"
+msgstr "EKRAN UYARILARI"
+
+msgid "or edit the file located in"
+msgstr "veya şu konumdaki dosyayı düzenleyin:"
+
+msgid "or"
+msgstr "veya"
+
+msgid "(Press OK to perform a test)"
+msgstr "(Test yapmak için TAMAM'a basın)"
+
+msgid "PORT"
+msgstr "PORT"
+
+msgid "Port number"
+msgstr "Port numarası"
+
+msgid "Press Ok"
+msgstr "Tamam'a basın"
+
+msgid "Ping servers"
+msgstr "Sunuculara ping at"
+
+msgid "PERSONAL FILES"
+msgstr "KİŞİSEL DOSYALAR"
+
+msgid "PERFECT! "
+msgstr "MÜKEMMEL! "
+
+msgid "Page: %s%s%s"
+msgstr "Sayfa: %s%s%s"
+
+msgid "Page"
+msgstr "Sayfa"
+
+msgid "Play sound"
+msgstr "Ses çal"
+
+msgid "Play sound in enigma2"
+msgstr "Enigma2'de ses çal"
+
+msgid "Play sound in enigma2 after exiting plugin"
+msgstr "Eklentiden çıktıktan sonra Enigma2'de ses çal"
+
+msgid "Please be patient!"
+msgstr "Lütfen sabırlı olun!"
+
+msgid "Please enter your Private Key by pressing the Green button"
+msgstr "Lütfen Yeşil düğmeye basarak Özel Anahtarınızı girin"
+
+msgid "Please mount the device as"
+msgstr "Lütfen cihazı şu şekilde bağlayın:"
+
+msgid "Please wait for the network adapter to restart"
+msgstr "Lütfen ağ bağdaştırıcısının yeniden başlatılmasını bekleyin"
+
+msgid "Please wait while your network is restarting..."
+msgstr "Ağınız yeniden başlatılırken lütfen bekleyin..."
+
+msgid "Press MENU to update"
+msgstr "Güncellemek için MENÜ'ye basın"
+
+msgid "Private key does not exist"
+msgstr "Özel anahtar mevcut değil"
+
+msgid "Private key saved successfully!"
+msgstr "Özel anahtar başarıyla kaydedildi!"
+
+msgid "Private key"
+msgstr "Özel anahtar"
+
+msgid "Privatekey file directory"
+msgstr "Özel anahtar dosya dizini"
+
+msgid "Protect your %s - By Madhouse"
+msgstr "%s'nizi koruyun - Geliştiren: Madhouse"
+
+msgid "Put the files in %s"
+msgstr "Dosyaları %s içine koyun"
+
+msgid "Quick connection"
+msgstr "Hızlı bağlantı"
+
+msgid "Reset"
+msgstr "Sıfırla"
+
+msgid "Reboot Network Adapter"
+msgstr "Ağ Bağdaştırıcısını Yeniden Başlat"
+
+msgid "Recommended servers"
+msgstr "Önerilen sunucular"
+
+msgid "Remember to insert only files with the .conf extension"
+msgstr "Sadece .conf uzantılı dosyaları eklemeyi unutmayın"
+
+msgid "Remember to restart the GUI"
+msgstr "Arayüzü yeniden başlatmayı unutmayın"
+
+msgid "Restart enigma2 to apply the update."
+msgstr "Güncellemeyi uygulamak için enigma2'yi yeniden başlatın."
+
+msgid "Repeat test"
+msgstr "Testi tekrarla"
+
+msgid "Restart Network"
+msgstr "Ağı Yeniden Başlat"
+
+msgid "Result successfully saved in /tmp/speedtest.png"
+msgstr "Sonuç /tmp/speedtest.png dosyasına başarıyla kaydedildi"
+
+msgid "Set a port for web access."
+msgstr "Web erişimi için bir port ayarlayın."
+
+msgid "Selected"
+msgstr "Seçili"
+
+msgid "Select different ping options to show them in the list."
+msgstr "Listede göstermek için farklı ping seçenekleri seçin."
+
+msgid "Sand"
+msgstr "Kum Rengi"
+
+msgid "STOP AND RESUME SERVICE"
+msgstr "HİZMETİ DURDUR VE DEVAM ETTİR"
+
+msgid "SHOW IN MAIN MENU"
+msgstr "ANA MENÜDE GÖSTER"
+
+msgid "SHOW UPDATE MESSAGE"
+msgstr "GÜNCELLEME MESAJINI GÖSTER"
+
+msgid "Save results"
+msgstr "Sonuçları kaydet"
+
+msgid "Save the server list (will not download when starting the plugin)"
+msgstr "Sunucu listesini kaydet (eklenti başladığında indirilmeyecek)"
+
+msgid "Save the server list"
+msgstr "Sunucu listesini kaydet"
+
+msgid "Save"
+msgstr "Kaydet"
+
+msgid "Select a server and press the OK button"
+msgstr "Bir sunucu seçin ve TAMAM düğmesine basın"
+
+msgid "Select the skin"
+msgstr "Temayı seç"
+
+msgid "Select your favorite skin."
+msgstr "Favori temanızı seçin."
+
+msgid "Select the country"
+msgstr "Ülkeyi seç"
+
+msgid "Select the file directory"
+msgstr "Dosya dizinini seç"
+
+msgid "Select the type of access"
+msgstr "Erişim türünü seç"
+
+msgid "Select the type of server list"
+msgstr "Sunucu listesi türünü seç"
+
+msgid "Select your personal files and remember to place them in the right directory"
+msgstr "Kişisel dosyalarınızı seçin ve doğru dizine yerleştirmeyi unutmayın"
+
+msgid "Select your vpn provider"
+msgstr "VPN sağlayıcınızı seçin"
+
+msgid "Select the color of the sub entries."
+msgstr "Alt girdilerin rengini seçin."
+
+msgid "Select the color of the entries."
+msgstr "Girdilerin rengini seçin."
+
+msgid "Server %s is Down!"
+msgstr "Sunucu %s Çevrimdışı!"
+
+msgid "Server list order"
+msgstr "Sunucu listesi sırası"
+
+msgid "Server list"
+msgstr "Sunucu listesi"
+
+msgid "Server with static ip"
+msgstr "Statik IP'li sunucu"
+
+msgid "Set a limit of servers to view"
+msgstr "Görüntülenecek sunucu sınırı belirle"
+
+msgid "Set the MTU"
+msgstr "MTU'yu ayarla"
+
+msgid "Set the time (minutes) for Wireguard Vpn control"
+msgstr "Wireguard VPN kontrolü için süreyi (dakika) ayarlayın"
+
+msgid "Set the timeout"
+msgstr "Zaman aşımını ayarla"
+
+msgid "Set up a DNS for Wireguard connection."
+msgstr "Wireguard bağlantısı için bir DNS ayarlayın."
+
+msgid "Set up a DNS"
+msgstr "DNS ayarla"
+
+msgid "Set up internet control"
+msgstr "İnternet kontrolünü ayarla"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "Show update message"
+msgstr "Güncelleme mesajını göster"
+
+msgid "Show a message if there is an update."
+msgstr "Güncelleme varsa bir mesaj göster."
+
+msgid "Show a warning on the screen"
+msgstr "Ekranda bir uyarı göster"
+
+msgid "Show results"
+msgstr "Sonuçları göster"
+
+msgid "Show the warning on the screen"
+msgstr "Uyarıyı ekranda göster"
+
+msgid "Show warning on screen"
+msgstr "Ekranda uyarı göster"
+
+msgid "Show Wireguard in the main menu"
+msgstr "Wireguard'ı ana menüde göster"
+
+msgid "Show Wireguard Vpn in main menu"
+msgstr "Wireguard VPN'i ana menüde göster"
+
+msgid "Shows the warning duration (seconds) on the screen"
+msgstr "Ekrandaki uyarı süresini (saniye) gösterir"
+
+msgid "Sort by load (ascending)"
+msgstr "Yüke göre sırala (artan)"
+
+msgid "Sort by server (alphabetically)"
+msgstr "Sunucuya göre sırala (alfabetik)"
+
+msgid "Sort by bandwidth (ascending)"
+msgstr "Bant genişliğine göre sırala (artan)"
+
+msgid "Sort the list alphabetically or by ascending load"
+msgstr "Listeyi alfabetik veya artan yüke göre sırala"
+
+msgid "Sort the list alphabetically or by ascending bandwidth"
+msgstr "Listeyi alfabetik veya artan bant genişliğine göre sırala"
+
+msgid "Start Wireguard at boot"
+msgstr "Açılışta Wireguard'ı başlat"
+
+msgid "Start Wireguard Vpn after a full reboot"
+msgstr "Tam yeniden başlatma sonrası Wireguard VPN'i başlat"
+
+msgid "Stopping Wireguard interface"
+msgstr "Wireguard arayüzü durduruluyor"
+
+msgid ""
+"Stop the currently \n"
+"playing service"
+msgstr ""
+"Mevcut oynatılan\n"
+"hizmeti durdur"
+
+msgid "Stops the service playing (streaming) if it connects to a new server and resumes service."
+msgstr "Yeni bir sunucuya bağlanırsa oynatılan hizmeti (akış) durdurur ve hizmeti devam ettirir."
+
+msgid "MTU"
+msgstr "MTU"
+
+msgid "There is not enough space on disk %s!"
+msgstr "%s diskinde yeterli alan yok!"
+
+msgid "The file %s %s"
+msgstr "%s dosyası %s"
+
+msgid "Turquoise"
+msgstr "Turkuaz"
+
+msgid "Tiffany"
+msgstr "Tiffany Mavisi"
+
+msgid "Test completed, to test again press green button"
+msgstr "Test tamamlandı, yeniden test etmek için yeşil düğmeye basın"
+
+msgid "Test performed on host: %s"
+msgstr "Testin yapıldığı ana bilgisayar: %s"
+
+msgid "Test your internet speed by Madhouse"
+msgstr "Madhouse ile internet hızınızı test edin"
+
+msgid "Testing download from"
+msgstr "Şuradan indirme test ediliyor:"
+
+msgid "Testing upload speed"
+msgstr "Yükleme hızı test ediliyor"
+
+msgid "The WireGuard package is not installed!"
+msgstr "WireGuard paketi kurulu değil!"
+
+msgid "The WireGuard kernel module is not loaded!"
+msgstr "WireGuard çekirdek modülü yüklenmedi!"
+
+msgid "The file /etc/wireguard/wg0.conf was not found!"
+msgstr "/etc/wireguard/wg0.conf dosyası bulunamadı!"
+
+msgid "The ' %s ' host (bypass) is unreachable.\n"
+msgstr "'%s' ana bilgisayarına (atlama) ulaşılamıyor.\n"
+
+msgid "The file located in %s is empty."
+msgstr "%s konumundaki dosya boş."
+
+msgid "Performing an MTU test helps you configure your network optimally avoiding fragmentation issues and improving performance. This is especially important for VPN connections."
+msgstr "MTU testi yapmak, ağınızı en uygun şekilde yapılandırmanıza, parçalanma sorunlarını önlemenize ve performansı artırmanıza yardımcı olur. Bu, özellikle VPN bağlantıları için önemlidir."
+
+msgid "The private key is incorrect"
+msgstr "Özel anahtar yanlış"
+
+msgid "The test checks for any leakage of DNS"
+msgstr "Test, herhangi bir DNS sızıntısı olup olmadığını kontrol eder"
+
+msgid "The update server is unreachable"
+msgstr "Güncelleme sunucusuna ulaşılamıyor"
+
+msgid "There appears to be a problem with your account."
+msgstr "Hesabınızla ilgili bir sorun var gibi görünüyor."
+
+msgid "This allows you to bypass wireguard traffic."
+msgstr "Bu, wireguard trafiğini atlamanıza olanak tanır."
+
+msgid "This allows you to bypass wireguard"
+msgstr "Bu, wireguard'ı atlamanıza olanak tanır"
+
+msgid "This will not affect your network settings."
+msgstr "Bu, ağ ayarlarınızı etkilemeyecektir."
+
+msgid "through"
+msgstr "üzerinden"
+
+msgid "Total files: %s"
+msgstr "Toplam dosya: %s"
+
+msgid "Total servers: %s%s%s"
+msgstr "Toplam sunucu: %s%s%s"
+
+msgid "Try later or"
+msgstr "Daha sonra deneyin veya"
+
+msgid "Try restarting yours %s"
+msgstr "%s cihazınızı yeniden başlatmayı deneyin"
+
+msgid "Unknown error on disk %s!"
+msgstr "%s diskinde bilinmeyen hata!"
+
+msgid "Unexpected error: %s"
+msgstr "Beklenmeyen hata: %s"
+
+msgid "Unable to get the ip of the selected server"
+msgstr "Seçilen sunucunun IP adresi alınamıyor"
+
+msgid "Update plugin"
+msgstr "Eklentiyi güncelle"
+
+msgid "Unable to write to file."
+msgstr "Dosyaya yazılamıyor."
+
+msgid "Use your personal files"
+msgstr "Kişisel dosyalarınızı kullanın"
+
+msgid "VPN Status: OK"
+msgstr "VPN Durumu: TAMAM"
+
+msgid "Web port"
+msgstr "Web portu"
+
+msgid "Write the port number"
+msgstr "Port numarasını yazın"
+
+msgid "White"
+msgstr "Beyaz"
+
+msgid "Warning time on screen"
+msgstr "Ekrandaki uyarı süresi"
+
+msgid "Warning! VPN KO"
+msgstr "Uyarı! VPN KOPTU"
+
+msgid "WireGuard protocol missing!"
+msgstr "WireGuard protokolü eksik!"
+
+msgid "Wireguard VPN plugin is updated"
+msgstr "Wireguard VPN eklentisi güncel"
+
+msgid "Write your subnet."
+msgstr "Alt ağınızı yazın."
+
+msgid "Write your subnet gateway."
+msgstr "Alt ağ geçidinizi yazın."
+
+msgid "Write or load your Private Key."
+msgstr "Özel Anahtarınızı yazın veya yükleyin."
+
+msgid "Write the IP that you find in the configuration file generated and downloaded from the website."
+msgstr "Web sitesinden oluşturulan ve indirilen yapılandırma dosyasında bulduğunuz IP adresini yazın."
+
+msgid "Write the IP you find in the file"
+msgstr "Dosyada bulduğunuz IP'yi yazın"
+
+msgid "Write your Private Key or edit the file located in"
+msgstr "Özel Anahtarınızı yazın veya şu konumdaki dosyayı düzenleyin:"
+
+msgid "Write your Private Key that you find in the configuration file or edit the file located in"
+msgstr "Yapılandırma dosyasında bulduğunuz Özel Anahtarınızı yazın veya şu konumdaki dosyayı düzenleyin:"
+
+msgid "Write your Private key"
+msgstr "Özel anahtarınızı yazın"
+
+msgid "Write your account number"
+msgstr "Hesap numaranızı yazın"
+
+msgid "Write your account number generated during subscription."
+msgstr "Abonelik sırasında oluşturulan hesap numaranızı yazın."
+
+msgid "You use "
+msgstr "Kullanıyorsunuz "
+
+msgid "You want to restore the connection?"
+msgstr "Bağlantıyı geri yüklemek istiyor musunuz?"
+
+msgid "You want to stop the %s server?"
+msgstr "%s sunucusunu durdurmak istiyor musunuz?"
+
+msgid "You will have the complete list of servers."
+msgstr "Sunucuların tam listesine sahip olacaksınız."
+
+msgid "you will have the list of recommended servers, it will take less time to process the list."
+msgstr "önerilen sunucuların listesine sahip olacaksınız, listenin işlenmesi daha az zaman alacaktır."
+
+msgid "Your account expires today"
+msgstr "Hesabınızın süresi bugün doluyor"
+
+msgid "Your account expired"
+msgstr "Hesabınızın süresi doldu"
+
+msgid "Your account will expire in"
+msgstr "Hesabınızın süresi şu kadar zaman sonra dolacak:"
+
+msgid "Your private key"
+msgstr "Özel anahtarınız"
+
+msgid "Your PUBLIC IP: "
+msgstr "GENEL IP ADRESİNİZ: "
+
+msgid "Your VPN IP: "
+msgstr "VPN IP ADRESİNİZ: "
+
+msgid "%d Second"
+msgid_plural "%d Seconds"
+msgstr[0] "%d Saniye"
+msgstr[1] "%d Saniyeler"
+
+msgid "%d Minute"
+msgid_plural "%d Minutes"
+msgstr[0] "%d Dakika"
+msgstr[1] "%d Dakikalar"

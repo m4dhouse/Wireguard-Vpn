@@ -44,6 +44,9 @@ PYTHON_VERSION=$(python3 -c "import sys; print(sys.version_info.minor)")
 ARCHITECTURE=$(uname -m)
 
 case $PYTHON_VERSION in
+  14)
+    BASE_BRANCH='python-3.14'
+    ;;
   13)
     BASE_BRANCH='python-3.13'
     ;;
@@ -78,6 +81,7 @@ install_dependencies() {
   opkg install openresolv
   opkg install alsa-utils
   opkg install iptables
+  opkg install python3-pillow
   if [ $? -ne 0 ]; then
     echo "Failed to install dependencies."
     exit 1

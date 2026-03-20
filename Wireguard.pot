@@ -296,6 +296,18 @@ msgstr ""
 msgid "Download speedtest.png failed!"
 msgstr ""
 
+msgid "Download Proton Vpn (Free)"
+msgstr ""
+
+msgid "Download Proton VPN's free servers."
+msgstr ""
+
+msgid "Download error:\n%s"
+msgstr ""
+
+msgid "Downloaded file is not a valid ZIP archive."
+msgstr ""
+
 msgid "Enable web access"
 msgstr ""
 
@@ -345,6 +357,9 @@ msgid "Example:"
 msgstr ""
 
 msgid "Exit"
+msgstr ""
+
+msgid "File system error:\n%s"
 msgstr ""
 
 msgid "File not found: %s"
@@ -528,6 +543,9 @@ msgid "PORT"
 msgstr ""
 
 msgid "Port number"
+msgstr ""
+
+msgid "ProtonVPN download completed!\n%d config files copied to:\n%s"
 msgstr ""
 
 msgid "Press Ok"
@@ -870,6 +888,9 @@ msgid "Unknown error on disk %s!"
 msgstr ""
 
 msgid "Unexpected error: %s"
+msgstr ""
+
+msgid "Unexpected error:\n%s"
 msgstr ""
 
 msgid "Unable to get the ip of the selected server"

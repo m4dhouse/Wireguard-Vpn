@@ -1,0 +1,1021 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wireguard\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-02-23 07:24+0100\n"
+"Last-Translator: dym1\n"
+"Language-Team: dym1 <xxxxxx@gmail.com>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid " DNS servers"
+msgstr " DNS-Server"
+
+msgid "%d Minute"
+msgid_plural "%d Minutes"
+msgstr[0] "%d Minúta"
+msgstr[1] "%d Minúty"
+
+msgid "%d Second"
+msgid_plural "%d Seconds"
+msgstr[0] "%d Sekunda"
+msgstr[1] "%d Sekundy"
+
+msgid "%s) Bypass host or ip"
+msgstr "%s) Povolené Ip adresy pripojenia"
+
+msgid "'All servers'"
+msgstr "'Všetky Servery'"
+
+msgid "'Recommended servers'"
+msgstr "'Odporúčané servery'"
+
+msgid "'Server with static ip'"
+msgstr "'Server so statickou IP adresou'"
+
+msgid "'Servers MultiHop'"
+msgstr "'Server MultiHop'"
+
+msgid "'Servers by country'"
+msgstr "'Server do krajiny'"
+
+msgid "* File located in /etc/WgConfig or /media/hdd/WgConfig or /media/usb/WgConfig"
+msgstr "* Súbory sa nachádzajú v /etc/WgConfig alebo /media/hdd/WgConfig alebo /media/usb/WgConfig"
+
+msgid "(* Requires restart Gui)"
+msgstr "(* Vyžaduje reštart E2)"
+
+msgid "(Experimental)"
+msgstr "(Experimentálne)"
+
+msgid "(Press OK to perform a test)"
+msgstr "(Stlačením tlačidla OK vykonáte test.)"
+
+msgid "* File located in /etc/WgConfig or /media/hdd/WgConfig"
+msgstr "* Súbor nachádzajúci sa v /etc/WgConfig alebo /media/hdd/WgConfig"
+
+msgid "AUTO START"
+msgstr "AUTOMATICKÝ ŠTART"
+
+msgid "Access via Token"
+msgstr "Prístup cez Token"
+
+msgid "Add bypasses"
+msgstr "Pridať obchvaty"
+
+msgid "Add host/ip number to bypass WireGuard."
+msgstr "Pridajte hostiteľa/IP adresu, aby ste obišli WireGuard."
+
+msgid "All servers"
+msgstr "Všetky Servery"
+
+msgid "Are you sure you want to delete the file: %s?"
+msgstr "Naozaj chcete odstrániť súbor %s?"
+
+msgid "BACKUP"
+msgstr "ZÁLOHA"
+
+msgid "BYPASS"
+msgstr "OBÍSŤ"
+
+msgid "Bandwidth"
+msgstr "Šírka pásma"
+
+msgid "Button"
+msgstr "Tlačidlo"
+
+msgid "Bypass Subnet"
+msgstr "Obísť podsieť"
+
+msgid "Bypass Wireguard"
+msgstr "Obísť Wireguard"
+
+msgid "Bypass a specific port"
+msgstr "Obísť konkrétny port"
+
+msgid "CHOICE OF PROVIDER"
+msgstr "VÝBER POSKYTOVATEĽA"
+
+msgid "CONNECTED"
+msgstr "PRIPOJENÉ"
+
+msgid "Check Dns Leak"
+msgstr "Skontrolujte úniky DNS"
+
+msgid "Check internet connection"
+msgstr "Skontrolujte internetové pripojenie"
+
+msgid "Check that WireGuard is installed in your image."
+msgstr "Skontrolujte, či je vo vašom Image nainštalovaný WireGuard."
+
+msgid "Check the length of the private key"
+msgstr "Skontrolujte dĺžku súkromného kľúča"
+
+msgid "Check vpn disabled"
+msgstr "Skontrolujte, či je VPN vypnutá"
+
+msgid "Check vpn enabled"
+msgstr "Skontrolujte, či je VPN povolená"
+
+msgid "Check your internet connection"
+msgstr "Skontrolujte si internetové pripojenie"
+
+msgid "Checking Wireguard module"
+msgstr "Kontrola Wireguard-Modul"
+
+msgid "Choose a DNS for testing your internet connection."
+msgstr "Vyberte DNS na otestovanie vášho internetového pripojenia."
+
+msgid "Choose a DNS server."
+msgstr "Vyberte si jeden DNS-Server."
+
+msgid "Choose a DNS test server from bash.ws or dnsleaktest.com"
+msgstr "Vyberte testovací server DNS z bash.ws alebo dnsleaktest.com"
+
+msgid "Choose a server for DNS testing"
+msgstr "Vyberte server pre DNS-Tests"
+
+msgid "Choose a sound"
+msgstr "Vyberte zvuk"
+
+msgid "Choose server and press ok"
+msgstr "Vyberte server a stlačte OK"
+
+msgid "Choose the directory for the PrivateKey.key file"
+msgstr "Vyberte adresár pre súbor PrivateKey.key"
+
+msgid "Choose your VPN provider among:"
+msgstr "Vyberte si svojho poskytovateľa VPN z:"
+
+msgid "Click"
+msgstr "Kliknite"
+
+msgid "Close"
+msgstr "Zatvoriť"
+
+msgid "Cloudflare registration failed!"
+msgstr "Registrácia v Cloudflare zlyhala!"
+
+msgid "Color of entries"
+msgstr "Farba záznamov"
+
+msgid "Color of sub entries"
+msgstr "Farba podpoložiek"
+
+msgid "Conclusion: "
+msgstr "Záver: "
+
+msgid "Configure your provider first and then you can copy the chosen server."
+msgstr "Najprv nakonfigurujte svojho poskytovateľa a potom môžete skopírovať vybraný server."
+
+msgid "Connected by: %s"
+msgstr "Pripojené: %s"
+
+msgid "Connection Established"
+msgstr "Pripojenie nadviazané"
+
+msgid "Connection Unavailable!"
+msgstr "Pripojenie nie je k dispozícii!"
+
+msgid "Connection in progress..."
+msgstr "Prebieha pripojenie..."
+
+msgid "Connection to server failed!"
+msgstr "Pripojenie k serveru zlyhalo!"
+
+msgid "Copy/paste your Private Key and then press the Blue button"
+msgstr "Skopírujte/vložte svoj súkromný kľúč a potom stlačte modré tlačidlo"
+
+msgid "Country:"
+msgstr "Krajina:"
+
+msgid "Create a backup"
+msgstr "Vytvoriť zálohu"
+
+msgid ""
+"Create a backup of your configurations to be able to restore it in a new image. The backup (wireguard_backup."
+"sh shell) will be saved in:"
+msgstr ""
+"Vytvorte si zálohu svojich konfigurácií, aby ste ich mohli obnoviť v novom Image.Záloha (shell "
+"wireguard_backup.sh) bude uložená do:"
+
+msgid "Create your access token via the NordVpn website."
+msgstr "Vytvorte si prístupový token prostredníctvom webovej stránky NordVpn."
+
+msgid "DNS IS NOT LEAKING."
+msgstr "DNS NEÚNIKÁ."
+
+msgid "DNS LEAK TEST"
+msgstr "DNS-LEAK TEST"
+
+msgid "DNS MAY BE LEAKING."
+msgstr "DNS môže mať únik."
+
+msgid "DNS leak test"
+msgstr "DNS-leak Test"
+
+msgid "DNS server settings"
+msgstr "DNS-Server-Nastavenia"
+
+msgid "DNS servers allow resolution of DNS host names to IP addresses."
+msgstr "DNS-Server umožňuje preklad názvov hostiteľov DNS na IP adresy."
+
+msgid "Data saved correctly!"
+msgstr "Dáta boli uložené správne!"
+
+msgid "Days"
+msgstr "Dni"
+
+msgid "Default"
+msgstr "Predvolené"
+
+msgid "Default is set to 16384 maximum servers to display"
+msgstr "Predvolene sa zobrazuje maximálne 16384 serverov."
+
+msgid "Default is set to 500 maximum servers to display"
+msgstr "Predvolené nastavenie je maximálne 500 serverov na zobrazenie."
+
+msgid "Default: 10"
+msgstr "Štandard: 10"
+
+msgid "Delete files"
+msgstr "Odstrániť súbory"
+
+msgid "Disable ipv6"
+msgstr "Deaktivovať Ipv6"
+
+msgid "Disabled"
+msgstr "Zakázať"
+
+msgid "Disconnect"
+msgstr "Odpojiť "
+
+msgid "Do you want to generate your Mullvad account data?"
+msgstr "Chcete si vygenerovať údaje o svojom účte Mullvad?"
+
+msgid "Do you want to import the backup file?"
+msgstr "Chcete importovať záložný súbor?"
+
+msgid "Do you want to restart the GUI?"
+msgstr "Chcete reštartovať E2?"
+
+msgid "Do you want to restart the network interface?"
+msgstr "Chcete reštartovať sieťové rozhranie?"
+
+msgid "Do you want to upgrade to the new %s version?"
+msgstr "Chcete aktualizovať na novú verziu %s?"
+
+msgid "Do you want to view the latest Changelog?"
+msgstr "Chcete si zobraziť aktuálny denník zmien?"
+
+msgid ""
+"Double VPN, highest level of safety and security, tracking the real IP address is mathematically impossible."
+msgstr ""
+"Dvojitá VPN, najvyššia úroveň bezpečnosti a ochrany, sledovanie skutočnej IP adresy je matematicky nemožné."
+
+msgid "Download speedtest.png failed!"
+msgstr "Stiahnutie súboru speedtest.png zlyhalo!"
+
+msgid "Edit the file located in /etc/wg_token.key and paste your access token."
+msgstr "Upravte súbor nachádzajúci sa v /etc/wg_token.key a vložte svoj prístupový token."
+
+msgid "Enable Kill switch"
+msgstr "Aktivuje automatické vypnutie"
+
+msgid "Enable Wireguard Vpn screen control."
+msgstr "Povoliť ovládanie obrazovky Wireguard VPN."
+
+msgid "Enable hanshake control"
+msgstr "Povoliť ovládanie hanshake"
+
+msgid "Enable vpn control"
+msgstr "Povoliť ovládanie VPN"
+
+msgid "Enable web access"
+msgstr "Povoliť prístup na web"
+
+msgid "Enable web access."
+msgstr "Povoliť prístup na web."
+
+msgid "Enabling it allows you to perform an internet check when your %s starts"
+msgstr "Povolením tejto funkcie môžete vykonať kontrolu internetu pri spustení %s"
+
+msgid "Enter your Private Key"
+msgstr "Zadajte svoj Private Key"
+
+msgid "Enter your account number!"
+msgstr "Zadajte číslo svojho účtu!"
+
+msgid "Error creating backup file: Out of disk space %s."
+msgstr "Chyba pri vytváraní záložného súboru: Nedostatok miesta na disku %s."
+
+msgid "Error removing file: %s"
+msgstr "Chyba pri odstraňovaní súboru: %s"
+
+msgid "Example"
+msgstr "Príklad"
+
+msgid "Example:"
+msgstr "Príklad:"
+
+msgid "Example: 232.34.87.22"
+msgstr "Príklad: 232.34.87.22"
+
+msgid "Example: wireguard.no-ip.biz"
+msgstr "Príklad: wireguard.no-ip.biz"
+
+msgid "Exit"
+msgstr "Ukončiť"
+
+msgid "Failed to retrieve Nordlynx Private Key."
+msgstr "Súkromný kľúč Nordlynx sa nepodarilo získať."
+
+msgid "File %s created successfully!"
+msgstr "Súbor %s bol úspešne vytvorený!"
+
+msgid "File %s not created!"
+msgstr "Súbor %s nebol vytvorený!"
+
+msgid "File deleted successfully: %s"
+msgstr "Súbor bol úspešne odstránený: %s"
+
+msgid "File not found: %s"
+msgstr "Súbor sa nenašiel: %s"
+
+msgid "Finished restarting your network"
+msgstr "Reštartovanie siete bolo dokončené"
+
+msgid "Gateway (IP)"
+msgstr "Brána (IP)"
+
+msgid "Generate CloudFlare (Free)"
+msgstr "Generovať CloudFlare (zadarmo)"
+
+msgid "Generate a CloudFlare (Free) configuration, you will find it in the server list."
+msgstr "Vygenerujte si konfiguráciu CloudFlare (bezplatná), nájdete ju v zozname serverov."
+
+msgid "Generate the private key"
+msgstr "Vygenerujte súkromný kľúč"
+
+msgid "Green"
+msgstr "Zelená"
+
+msgid "Grey"
+msgstr "Sivá"
+
+msgid "HOST/IP"
+msgstr "HOST/IP"
+
+msgid "I check Internet speedtest, be patient..."
+msgstr "Kontrolujem rýchlosť vášho internetu, prosím o trpezlivosť..."
+
+msgid "I check the available servers"
+msgstr "Skontrolujem dostupné servery"
+
+msgid "I check the files"
+msgstr "IKontrolujem súbory"
+
+msgid "I import the backup"
+msgstr "Importujem zálohu"
+
+msgid "I run the DNS Leak test"
+msgstr "Spustil som test úniku DNS"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "IPv6 connections might compromise security."
+msgstr "IPv6-pripojenia by mohlo ohroziť bezpečnosť."
+
+msgid ""
+"If enabled, check the handshake on the server every 10 minutes. If the server is down, it will try to "
+"establish a new handshake."
+msgstr ""
+"Ak je povolené, kontroluje sa handshake na serveri každých 10 minút. Ak je server nefunkčný, pokúsi sa "
+"nadviazať nový handshake."
+
+msgid "If enabled, it will show a warning on the screen."
+msgstr "Ak je povolené, na obrazovke sa zobrazí upozornenie."
+
+msgid "If the connection drops and you would like to restore it, disable the Kill switch, then Save."
+msgstr "Ak sa pripojenie preruší a chcete ho obnoviť, vypnite prepínač Kill a potom kliknite na tlačidlo Uložiť."
+
+msgid "If the problem persists, check your account."
+msgstr "Ak problém pretrváva, skontrolujte si svoj účet."
+
+msgid "If your VPN connection drops, a kill switch cuts off your internet connection."
+msgstr "Ak sa vaše VPN pripojenie preruší, funkcia kill switch preruší vaše internetové pripojenie."
+
+msgid "If your provider is Mullvad or NordVpn, press the Settings button and to configure it."
+msgstr "Ak je vaším poskytovateľom Mullvad alebo NordVpn, stlačte tlačidlo Nastavenia a nakonfigurujte ho."
+
+msgid "Install update..."
+msgstr "Nainštalovať aktualizáciu..."
+
+msgid "Installed version: %s"
+msgstr "Nainštalovaná verzia: %s"
+
+msgid "Interface"
+msgstr "Rozhranie"
+
+msgid "Internet check during restart (in Seconds), if the result is negative the VPN tunnel is not established."
+msgstr "Kontrola internetu počas reštartu (v sekundách). Ak je výsledok negatívny, VPN tunel nie je vytvorený."
+
+msgid "Internet check while restarting"
+msgstr "Kontrola internetu po reštarte"
+
+msgid "Invalid IP, please write a valid IP"
+msgstr "Neplatná IP adresa, napíšte platnú IP adresu"
+
+msgid "KILL SWITCH"
+msgstr "AUTOMATICKÉ VYPNUTIE"
+
+msgid "Keyboard"
+msgstr "Klávesnica"
+
+msgid "Kill switch enabled"
+msgstr "Vypínač zapnutý"
+
+msgid "Link to the %s server"
+msgstr "Odkaz na server %s"
+
+msgid "List of servers where they will always have the same ip addresses."
+msgstr "Zoznam serverov, kde budú mať vždy rovnaké IP adresy."
+
+msgid "Load Private Key"
+msgstr "Načítať Private Key"
+
+msgid "Load the access token with the BLUE button."
+msgstr "Načítajte prístupový token pomocou MODRÉHO tlačidla."
+
+msgid "Load token access"
+msgstr "Tačítať prístup k tokenu"
+
+msgid "Mullvad account does not exist!"
+msgstr "Účet Mullvad neexistuje!"
+
+msgid "Mullvad configuration successfully created!"
+msgstr "Konfigurácia Mullvadu bola úspešne vytvorená!"
+
+msgid "NETWORK AND INTERNET"
+msgstr "SIEŤ A INTERNET"
+
+msgid "NO VPN CONNECTION STARTED!"
+msgstr "NEBOLO NAVYTVORENÉ PRIPOJENIE VPN!"
+
+msgid "NOT CONNECTED"
+msgstr "NIE JE PRIPOJENÉ"
+
+msgid "No DNS servers found"
+msgstr "Nenašli sa žiadne DNS servery"
+
+msgid "No file selected!"
+msgstr "Nie je vybraný žiadny súbor!"
+
+msgid "No files found!"
+msgstr "Nenašli sa žiadne súbory!"
+
+msgid "No results found for '%s'. Try again?"
+msgstr "Pre dopyt „%s“ sa nenašli žiadne výsledky. Skúsiť znova?"
+
+msgid "ON-SCREEN ALERTS"
+msgstr "UPOZORNENIA NA OBRAZOVKE"
+
+msgid "Ocher Yellow"
+msgstr "Okrová žltá"
+
+msgid "Orange"
+msgstr "Oranžová"
+
+msgid "PERFECT! "
+msgstr "DOKONALÉ! "
+
+msgid "PERSONAL FILES"
+msgstr "OSOBNÉ SÚBORY"
+
+msgid "PUBLIC IP"
+msgstr "VEREJNÁ IP"
+
+msgid "Page"
+msgstr "Stránka"
+
+msgid "Page: %s%s%s"
+msgstr "Strana: %s%s%s"
+
+msgid ""
+"Performing an MTU test helps you configure your network optimally avoiding fragmentation issues and improving "
+"performance. This is especially important for VPN connections."
+msgstr ""
+"Vykonanie testu MTU vám pomôže optimálne nakonfigurovať sieť, vyhnúť sa problémom s fragmentáciou a zlepšiť "
+"výkon. Toto je obzvlášť dôležité pre VPN pripojenia."
+
+msgid "Ping servers"
+msgstr "Ping server"
+
+msgid "Play sound"
+msgstr "Prehrať zvuk"
+
+msgid "Play sound in enigma2"
+msgstr "Prehrať zvuk v enigme2"
+
+msgid "Play sound in enigma2 after exiting plugin"
+msgstr "Prehrať zvuk v enigme2 po ukončení pluginu."
+
+msgid "Please be patient!"
+msgstr "Prosím, buďte trpezliví!"
+
+msgid "Please enter your Private Key by pressing the Green button"
+msgstr "Zadajte svoj Private Key stlačením zeleného tlačidla"
+
+msgid "Please mount the device as"
+msgstr "Prosím, nmount zariadenie takto"
+
+msgid "Please wait for the network adapter to restart"
+msgstr "Počkajte na reštart sieťového adaptéra"
+
+msgid "Please wait while your network is restarting..."
+msgstr "Počkajte, prosím, kým sa vaša sieť reštartuje..."
+
+msgid "Port number"
+msgstr "Číslo portu"
+
+msgid "Press MENU to update"
+msgstr "Stlačte MENU pre aktualizáciu"
+
+msgid "Press Ok"
+msgstr "Stlačte OK"
+
+msgid "Private key"
+msgstr "Private key"
+
+msgid "Private key does not exist"
+msgstr "Private key neexistuje"
+
+msgid "Private key saved successfully!"
+msgstr "Private key bol úspešne uložený!"
+
+msgid "Privatekey file directory"
+msgstr "Adresár súborov Privatekey"
+
+msgid "Protect your %s - By Madhouse"
+msgstr "Chráňte svoj %s - od Madhouse"
+
+msgid "Provider:"
+msgstr "Provider:"
+
+msgid "Put the files in %s"
+msgstr "Vložte súbory do %s"
+
+msgid "Quick connection"
+msgstr "Rýchle pripojenie"
+
+msgid "Reboot Network Adapter"
+msgstr "Reštartovať sieťový adaptér"
+
+msgid "Recommended servers"
+msgstr "Odporúčané servery"
+
+msgid "Remember to insert only files with the .conf extension"
+msgstr "Nezabudnite vkladať iba súbory s príponou .conf"
+
+msgid "Remember to restart the GUI"
+msgstr "Nezabudnite reštartovať E2"
+
+msgid "Repeat test"
+msgstr "Opakovať test"
+
+msgid "Reset"
+msgstr "Obnoviť"
+
+msgid "Restart Network"
+msgstr "Reštartovať sieť"
+
+msgid "Restart enigma2 to apply the update."
+msgstr "Reštartujte enigmu2, aby sa aktualizácia aplikovala."
+
+msgid "Result successfully saved in /tmp/speedtest.png"
+msgstr "Výsledok bol úspešne uložený do súboru /tmp/speedtest.png"
+
+msgid "SHOW IN MAIN MENU"
+msgstr "ZOBRAZIŤ V HLAVNOM MENU"
+
+msgid "SHOW UPDATE MESSAGE"
+msgstr "ZOBRAZIŤ OZNÁMENIE O AKTUALIZÁCII"
+
+msgid "SKIN, COLORS AND SOUNDS"
+msgstr "SKIN, FARBY A ZVUKY"
+
+msgid "STOP AND RESUME SERVICE"
+msgstr "ZASTAVENIE A OBNOVENIE SLUŽBY"
+
+msgid "SUBNET"
+msgstr "PODSIEŤ"
+
+msgid "Sand"
+msgstr "Hnedá"
+
+msgid "Save"
+msgstr "Uložiť"
+
+msgid "Save results"
+msgstr "Uložiť výsledky"
+
+msgid "Save the server list"
+msgstr "Uložiť zoznam serverov"
+
+msgid "Save the server list (will not download when starting the plugin)"
+msgstr "Uložiť zoznam serverov (nestiahne sa pri spustení pluginu)"
+
+msgid "Search"
+msgstr "Hľadať"
+
+msgid "Search by country"
+msgstr "Hľadať podľa krajiny"
+
+msgid "Select a server and press the OK button"
+msgstr "Vyberte server a stlačte tlačidlo OK"
+
+msgid "Select different ping options to show them in the list."
+msgstr "Vyberte rôzne možnosti pingu, ktoré sa majú zobraziť v zozname."
+
+msgid "Select the color of the entries."
+msgstr "Vyberte farbu položiek."
+
+msgid "Select the color of the sub entries."
+msgstr "Vyberte farbu podpoložiek."
+
+msgid "Select the country"
+msgstr "Vyberte krajinu"
+
+msgid "Select the file directory"
+msgstr "Vyberte adresár súborov"
+
+msgid "Select the skin"
+msgstr "Vyberte skin"
+
+msgid "Select the type of access"
+msgstr "Vyberte typ prístupu"
+
+msgid "Select the type of server list"
+msgstr "Vyberte typ zoznamu serverov"
+
+msgid "Select your favorite skin."
+msgstr "Vyberte si svoj obľúbený skin."
+
+msgid "Select your personal files and remember to place them in the right directory"
+msgstr "Vyberte si svoje osobné súbory a nezabudnite ich umiestniť do správneho adresára"
+
+msgid "Select your vpn provider"
+msgstr "Vyberte si poskytovateľa VPN"
+
+msgid "Selected"
+msgstr "Zvolené"
+
+msgid "Server %s %s"
+msgstr "Server %s %s"
+
+msgid "Server %s is Down!"
+msgstr "Server %s je nefunkčný!"
+
+msgid "Server copy"
+msgstr "Kópia na serveri"
+
+msgid "Server list"
+msgstr "Zoznam serverov"
+
+msgid "Server list order"
+msgstr "Poradie v zozname serverov"
+
+msgid "Server selected"
+msgstr "Vybraný server"
+
+msgid "Server with static ip"
+msgstr "Server so statickou IP adresou"
+
+msgid "Set a limit of servers to view"
+msgstr "Nastavenie limitu serverov na zobrazenie"
+
+msgid "Set a port for web access."
+msgstr "Nastavte port pre prístup na web."
+
+msgid "Set the MTU"
+msgstr "Nastavenie MTU"
+
+msgid "Set the time (minutes) for Wireguard Vpn control"
+msgstr "Nastavte čas (minúty) pre ovládanie Wireguard VPN"
+
+msgid "Set the timeout"
+msgstr "Nastaviť časový limit"
+
+msgid "Set up a DNS"
+msgstr "Nastavenie DNS"
+
+msgid "Set up a DNS for Wireguard connection."
+msgstr "Nastavte DNS pre pripojenie Wireguard."
+
+msgid "Set up internet control"
+msgstr "Nastavenie ovládania internetu"
+
+msgid "Settings"
+msgstr "Nastavenie"
+
+msgid "Show Wireguard Vpn in main menu"
+msgstr "Zobraziť Wireguard VPN v hlavnej ponuke"
+
+msgid "Show Wireguard in the main menu"
+msgstr "Zobraziť Wireguard v hlavnej ponuke"
+
+msgid "Show a message if there is an update."
+msgstr "Zobrazí správu, keď je k dispozícii aktualizácia."
+
+msgid "Show a warning on the screen"
+msgstr "Zobraziť upozornenie na obrazovke"
+
+msgid "Show results"
+msgstr "Zobraziť výsledky"
+
+msgid "Show the warning on the screen"
+msgstr "Zobraziť upozornenie na obrazovke"
+
+msgid "Show update message"
+msgstr "Zobraziť aktualizačnú správu"
+
+msgid "Show warning on screen"
+msgstr "Zobraziť upozornenie na obrazovke"
+
+msgid "Shows the warning duration (seconds) on the screen"
+msgstr "Zobrazuje trvanie upozornenia (sekundy) na obrazovke"
+
+msgid "Sort by bandwidth (ascending)"
+msgstr "Zoradiť podľa šírky pásma (vzostupne)"
+
+msgid "Sort by load (ascending)"
+msgstr "Zoradiť podľa zaťaženia (vzostupne)"
+
+msgid "Sort by server (alphabetically)"
+msgstr "Zoradiť podľa servera (abecedne)"
+
+msgid "Sort the list alphabetically or by ascending bandwidth"
+msgstr "Zoradiť zoznam abecedne alebo vzostupne podľa šírky pásma"
+
+msgid "Sort the list alphabetically or by ascending load"
+msgstr "Zoradiť zoznam abecedne alebo vzostupne podľa zaťaženia"
+
+msgid "SpeedTest"
+msgstr "Test Rýchlosti"
+
+msgid "Start Wireguard Vpn after a full reboot"
+msgstr "Spustite Wireguard VPN po úplnom reštarte"
+
+msgid "Start Wireguard at boot"
+msgstr "Spustiť Wireguardu pri bootovaní"
+
+msgid "Stop"
+msgstr "Zastaviť"
+
+msgid "Stop the currently playing service"
+msgstr "Zastavenie aktuálne prehrávanej služby"
+
+msgid "Stopping Wireguard interface"
+msgstr "Zastavenie rozhrania Wireguard"
+
+msgid "Stops the service playing (streaming) if it connects to a new server and resumes service."
+msgstr "Zastaví prehrávanie (streamovanie) služby, ak sa pripojí k novému serveru a obnoví službu."
+
+msgid "Subnet (IP/CIDR)"
+msgstr "Podsieť (IP/CIDR)"
+
+msgid "Test completed, to test again press green button"
+msgstr "Test dokončený, pre zopakovanie testu stlačte zelené tlačidlo"
+
+msgid "Test performed on host: %s"
+msgstr "Test vykonaný na hostiteľovi: %s"
+
+msgid "Test your internet speed by Madhouse"
+msgstr "Otestujte si rýchlosť internetu s Madhouse"
+
+msgid "Testing download from"
+msgstr "Testovanie rýchlosti sťahovania"
+
+msgid "Testing upload speed"
+msgstr "Testovanie rýchlosti uploadu"
+
+msgid "The ' %s ' host (bypass) is unreachable.\n"
+msgstr "Hostiteľ ' %s ' (oísť) je nedostupný.\n"
+
+msgid "The WireGuard kernel module is not loaded!"
+msgstr "Modul jadra WireGuard nie je načítaný!"
+
+msgid "The WireGuard package is not installed!"
+msgstr "Balík WireGuard nie je nainštalovaný!"
+
+msgid "The file %s %s"
+msgstr "Súbor %s %s“"
+
+msgid "The file /etc/wireguard/wg0.conf was not found!"
+msgstr "Súbor /etc/wireguard/wg0.conf sa nenašiel!"
+
+msgid "The file located in %s is empty."
+msgstr "Súbor nachádzajúci sa v %s je prázdny."
+
+msgid "The host %s ' %s ' is duplicated.\n"
+msgstr "Hostiteľ %s ' %s ' je duplikovaný.\n"
+
+msgid "The private key is incorrect"
+msgstr "Súkromný kľúč je nesprávny"
+
+msgid "The test checks for any leakage of DNS"
+msgstr "Test kontroluje prípadné úniky DNS"
+
+msgid "The update server is unreachable"
+msgstr "Aktualizačný server je nedostupný."
+
+msgid "There appears to be a problem with your account."
+msgstr "Zdá sa, že s vaším účtom je problém."
+
+msgid "There is not enough space on disk %s!"
+msgstr "Na disku %s nie je dostatok miesta!"
+
+msgid "This allows you to bypass wireguard"
+msgstr "Toto vám umožní obísť Wireguard"
+
+msgid "This allows you to bypass wireguard traffic."
+msgstr "To vám umožní obísť prevádzku cez WireGuard."
+
+msgid "This will not affect your network settings."
+msgstr "Toto neovplyvní nastavenia vašej siete."
+
+msgid "Tiffany"
+msgstr "Tiffany"
+
+msgid "Total files: %s"
+msgstr "Počet súborov: %s"
+
+msgid "Total servers: %s%s%s"
+msgstr "Počet serverov: %s%s%s"
+
+msgid "Try later or"
+msgstr "Skúste neskôr alebo"
+
+msgid "Try restarting yours %s"
+msgstr "Skúste reštartovať ten svoj %s"
+
+msgid "Turquoise"
+msgstr "Tyrkysová"
+
+msgid "Unable to get the ip of the selected server"
+msgstr "Nepodarilo sa získať IP adresu vybraného servera"
+
+msgid "Unable to write to file."
+msgstr "Nedá sa zapisovať do súboru."
+
+msgid "Unexpected error: %s"
+msgstr "Neočakávaná chyba: %s"
+
+msgid "Unknown error on disk %s!"
+msgstr "Neznáma chyba na disku %s!"
+
+msgid "Update plugin"
+msgstr "Aktualizovať plugin"
+
+msgid "Use your personal files"
+msgstr "Použíť svoje osobné súbory"
+
+msgid "VPN Status: OK"
+msgstr "VPN-Status: OK"
+
+msgid "Warning time on screen"
+msgstr "Čas upozornenia na obrazovke"
+
+msgid "Warning! VPN KO"
+msgstr "Varovanie! VPN KO"
+
+msgid "Web port"
+msgstr "Web-Port"
+
+msgid "White"
+msgstr "Biela"
+
+msgid "WireGuard protocol missing!"
+msgstr "WireGuard chýbajúci protokol!"
+
+msgid "Wireguard VPN plugin is updated"
+msgstr "Doplnok Wireguard VPN je aktuálny"
+
+msgid "Wireguard status"
+msgstr "Wireguard-Status"
+
+msgid "WIREGUARD WEB DASHBOARD"
+msgstr "WEBOVÝ PRÍSTUP K WIRGUARD"
+
+msgid "Write or load your Private Key."
+msgstr "Napíšte alebo nahrajte svoj Private Key."
+
+msgid "Write the IP that you find in the configuration file generated and downloaded from the website."
+msgstr "Zapíšte IP adresu, ktorú nájdete v konfiguračnom súbore vygenerovanom a stiahnutom z webovej stránky."
+
+msgid "Write the IP you find in the file"
+msgstr "Napíšte IP adresu, ktorú nájdete v súbore"
+
+msgid "Write the port number"
+msgstr "Napíšte číslo portu"
+
+msgid "Write your Private Key or edit the file located in"
+msgstr "Zapíšte si svoj Private Key alebo upravte súbor nachádzajúci sa v"
+
+msgid "Write your Private Key that you find in the configuration file or edit the file located in"
+msgstr "Zapíšte si svoj Private Key, ktorý nájdete v konfiguračnom súbore, alebo upravte súbor nachádzajúci sa v"
+
+msgid "Write your Private key"
+msgstr "Napíšte svoj Private key"
+
+msgid "Write your account number"
+msgstr "Napíšte číslo svojho účtu"
+
+msgid "Write your account number generated during subscription."
+msgstr "Zapíšte si číslo svojho účtu vygenerované počas predplatného."
+
+msgid "Write your subnet gateway."
+msgstr "Napíšte bránu vašej podsiete."
+
+msgid "Write your subnet."
+msgstr "Napíšte svoju podsieť."
+
+msgid "You use "
+msgstr "Používate "
+
+msgid "You want to restore the connection?"
+msgstr "Chcete obnoviť pripojenie?"
+
+msgid "You want to stop the %s server?"
+msgstr "Chcete zastaviť server %s?"
+
+msgid "You will have the complete list of servers."
+msgstr "Budete mať kompletný zoznam serverov."
+
+msgid "Your PUBLIC IP: "
+msgstr "Vaša VEREJNÁ IP adresa: "
+
+msgid "Your VPN IP: "
+msgstr "Vaša VPN-IP: "
+
+msgid "Your account expired"
+msgstr "Platnosť vášho účtu vypršala."
+
+msgid "Your account expires today"
+msgstr "Platnosť vášho účtu dnes vyprší"
+
+msgid "Your account will expire in"
+msgstr "Platnosť vášho účtu vyprší o"
+
+msgid "Your private key"
+msgstr "Váš privater key"
+
+msgid "ago"
+msgstr "pred"
+
+msgid "copied successfully!"
+msgstr "úspešne skopírované!"
+
+msgid "day"
+msgstr "Deň"
+
+msgid "days"
+msgstr "Dní"
+
+msgid ""
+"exists.\n"
+"Do you want to overwrite it?"
+msgstr ""
+"existuje.\n"
+"Chcete to prepísať?"
+
+msgid "has been imported successfully."
+msgstr "bol úspešne importovaný."
+
+msgid "is too large, fragmentation needed."
+msgstr "je príliš veľký, je potrebná fragmentácia."
+
+msgid "is valid."
+msgstr "je platný"
+
+msgid "it will take longer to process the servers, you will have the complete list of servers."
+msgstr "spracovanie serverov bude trvať dlhšie, budete mať kompletný zoznam serverov."
+
+msgid "or"
+msgstr "alebo"
+
+msgid "or edit the file located in"
+msgstr "alebo upravte súbor nachádzajúci sa v"
+
+msgid "through"
+msgstr "cez"
+
+msgid "you will have the list of recommended servers, it will take less time to process the list."
+msgstr "budete mať zoznam odporúčaných serverov, jeho spracovanie bude trvať kratšie."

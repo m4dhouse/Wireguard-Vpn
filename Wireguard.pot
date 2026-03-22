@@ -323,6 +323,21 @@ msgstr ""
 msgid "Edit the file located in /etc/wg_token.key and paste your access token."
 msgstr ""
 
+msgid "Enter your PIA username (pxxxxxxx format)."
+msgstr ""
+
+msgid "Enter your PIA password."
+msgstr ""
+
+msgid "Enter your PIA username and password!"
+msgstr ""
+
+msgid "Enter your PIA username"
+msgstr ""
+
+msgid "Enter your PIA password"
+msgstr ""
+
 msgid "Enter your account number!"
 msgstr ""
 
@@ -537,6 +552,21 @@ msgid "or"
 msgstr ""
 
 msgid "(Press OK to perform a test)"
+msgstr ""
+
+msgid "PIA: server metadata not found for region %s"
+msgstr ""
+
+msgid "PIA: authentication failed. Check username and password."
+msgstr ""
+
+msgid "PIA: key registration failed."
+msgstr ""
+
+msgid "Pia Username"
+msgstr ""
+
+msgid "Pia Password"
 msgstr ""
 
 msgid "PORT"

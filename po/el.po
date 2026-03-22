@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-19 16:48+0000\n"
-"PO-Revision-Date: 2025-07-31 00:30+0300\n"
+"PO-Revision-Date: 2026-03-21 20:35+0200\n"
 "Last-Translator: \n"
 "Language-Team: giorbak\n"
 "Language: el\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Poedit 3.9\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 msgid " DNS servers"
@@ -296,6 +296,22 @@ msgstr "Διπλό VPN, υψηλότερο επίπεδο ασφάλειας κ�
 msgid "Download speedtest.png failed!"
 msgstr "Η λήψη του speedtest.png απέτυχε!"
 
+msgid "Download Proton Vpn (Free)"
+msgstr "Λήψη Proton VPN (Δωρεάν)"
+
+msgid "Download Proton VPN's free servers."
+msgstr "Λήψη δωρεάν διακομιστών του Proton VPN."
+
+msgid ""
+"Download error:\n"
+"%s"
+msgstr ""
+"Σφάλμα λήψης:\n"
+"%s"
+
+msgid "Downloaded file is not a valid ZIP archive."
+msgstr "Το αρχείο που λήφθηκε δεν είναι έγκυρο αρχείο ZIP."
+
 msgid "Enable web access"
 msgstr "Ενεργοποίηση πρόσβασης στον ιστό"
 
@@ -350,6 +366,13 @@ msgstr "Παράδειγμα:"
 
 msgid "Exit"
 msgstr "Έξοδος"
+
+msgid ""
+"File system error:\n"
+"%s"
+msgstr ""
+"Σφάλμα συστήματος αρχείων:\n"
+"%s"
 
 msgid "File not found: %s"
 msgstr "Το αρχείο δεν βρέθηκε: %s"
@@ -533,6 +556,15 @@ msgstr "PORT"
 
 msgid "Port number"
 msgstr "Αριθμός θύρας"
+
+msgid ""
+"ProtonVPN download completed!\n"
+"%d config files copied to:\n"
+"%s"
+msgstr ""
+"Η λήψη του ProtonVPN ολοκληρώθηκε!\n"
+"Αντιγράφηκαν %d αρχεία ρυθμίσεων στο:\n"
+"%s"
 
 msgid "Press Ok"
 msgstr "Πατήστε ΟΚ"
@@ -875,6 +907,13 @@ msgstr "Άγνωστο σφάλμα στο δίσκο %s!"
 
 msgid "Unexpected error: %s"
 msgstr "Μη αναμενόμενο σφάλμα: %s"
+
+msgid ""
+"Unexpected error:\n"
+"%s"
+msgstr ""
+"Απρόσμενο σφάλμα:\n"
+"%s"
 
 msgid "Unable to get the ip of the selected server"
 msgstr "Δεν είναι δυνατή η λήψη της ip του επιλεγμένου διακομιστή"

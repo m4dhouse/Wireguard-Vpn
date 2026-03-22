@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2026-03-15 20:02+0100\n"
+"PO-Revision-Date: 2026-03-22 20:02+0100\n"
 "Last-Translator: Madhouse <anonm4d@gmail.com>\n"
 "Language-Team: Madhouse <anonm4d@gmail.com>\n"
 "Language: it\n"
@@ -12,6 +12,36 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.5\n"
 "X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "PIA: server metadata not found for region %s"
+msgstr "PIA: metadati del server non trovati per la regione %s"
+
+msgid "PIA: authentication failed. Check username and password."
+msgstr "PIA: autenticazione non riuscita. Verificare nome utente e password."
+
+msgid "PIA: key registration failed."
+msgstr "PIA: registrazione della chiave non riuscita."
+
+msgid "Pia Username"
+msgstr "Pia Username"
+
+msgid "Pia Password"
+msgstr "Pia Password"
+
+msgid "Enter your PIA username (pxxxxxxx format)."
+msgstr "Inserisci il tuo nome utente PIA (formato pxxxxxxx)."
+
+msgid "Enter your PIA password."
+msgstr "Inserisci la tua password PIA."
+
+msgid "Enter your PIA username and password!"
+msgstr "Inserisci il tuo nome utente e la password di PIA!"
+
+msgid "Enter your PIA username"
+msgstr "Inserisci il tuo nome utente PIA"
+
+msgid "Enter your PIA password"
+msgstr "Inserisci la tua password PIA"
 
 msgid "Download Proton Vpn (Free)"
 msgstr "Download Proton Vpn (Gratuito)"

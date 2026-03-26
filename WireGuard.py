@@ -99,7 +99,10 @@ def check_existing_plugin():
 	plugin_dir = "/usr/lib/enigma2/python/Plugins/Extensions/Wireguard"
 	if os.path.isdir(plugin_dir):
 		print(f"{C.YELLOW}[WireGuard VPN] WireGuard VPN plugin is already installed.{C.RESET}")
-		answer = input(f"{C.WHITE}[WireGuard VPN] Do you want to reinstall it? [y/N]: {C.RESET}").strip().lower()
+		with open("/dev/tty") as tty:
+			sys.stdout.write(f"{C.WHITE}[WireGuard VPN] Do you want to reinstall it? [y/N]: {C.RESET}")
+			sys.stdout.flush()
+			answer = tty.readline().strip().lower()
 		if answer != "y":
 			print(f"{C.RED}[WireGuard VPN] Installation cancelled.{C.RESET}")
 			sys.exit(0)

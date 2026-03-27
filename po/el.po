@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-19 16:48+0000\n"
-"PO-Revision-Date: 2026-03-21 20:35+0200\n"
+"PO-Revision-Date: 2026-03-23 00:03+0200\n"
 "Last-Translator: \n"
 "Language-Team: giorbak\n"
 "Language: el\n"
@@ -209,11 +209,11 @@ msgstr "Η σύνδεση δεν είναι διαθέσιμη!"
 msgid "Copy/paste your Private Key and then press the Blue button"
 msgstr "Αντιγράψτε/επικολλήστε το ιδιωτικό σας κλειδί και πατήστε το μπλε κουμπί"
 
-msgid "Create a backup script"
-msgstr "Δημιουργία script αντιγράφου ασφαλείας"
+msgid "Create a backup"
+msgstr "Δημιουργία αντιγράφου ασφαλείας"
 
-msgid "Create a backup of your configurations to be able to restore it in a new image. The backup (wireguard_backup.sh script) will be saved in:"
-msgstr "Δημιουργήστε ένα αντίγραφο ασφαλείας των ρυθμίσεών σας για να μπορείτε να τις επαναφέρετε σε ένα νέο image. Το αντίγραφο ασφαλείας (wireguard_backup.sh script) θα αποθηκευτεί στο:"
+msgid "Create a backup of your configurations to be able to restore it in a new image. The backup (wireguard_backup.sh shell) will be saved in:"
+msgstr "Δημιουργήστε ένα αντίγραφο ασφαλείας των ρυθμίσεών σας για να μπορείτε να τις επαναφέρετε σε ένα νέο image. Το αντίγραφο ασφαλείας (wireguard_backup.sh shell) θα αποθηκευτεί στο:"
 
 msgid "Create your access token via the NordVpn website."
 msgstr "Δημιουργήστε το token πρόσβασής σας μέσω του ιστότοπου NordVpn."
@@ -331,6 +331,21 @@ msgstr "Σφάλμα κατά την αφαίρεση του αρχείου: %s"
 msgid "Edit the file located in /etc/wg_token.key and paste your access token."
 msgstr "Επεξεργαστείτε το αρχείο που βρίσκεται στο /etc/wg_token.key και επικολλήστε το token πρόσβασής σας."
 
+msgid "Enter your PIA username (pxxxxxxx format)."
+msgstr "Εισάγετε το όνομα χρήστη PIA (μορφή pxxxxxxx)."
+
+msgid "Enter your PIA password."
+msgstr "Εισάγετε τον κωδικό πρόσβασης PIA."
+
+msgid "Enter your PIA username and password!"
+msgstr "Εισάγετε το όνομα χρήστη και τον κωδικό πρόσβασης PIA!"
+
+msgid "Enter your PIA username"
+msgstr "Εισάγετε το όνομα χρήστη PIA"
+
+msgid "Enter your PIA password"
+msgstr "Εισάγετε τον κωδικό πρόσβασης PIA"
+
 msgid "Enter your account number!"
 msgstr "Εισάγετε τον αριθμό λογαριασμού σας!"
 
@@ -399,7 +414,7 @@ msgid "Generate the private key"
 msgstr "Δημιουργία ιδιωτ. κλειδιού"
 
 msgid "Generate CloudFlare (Free)"
-msgstr "Δημιουργία CloudFlare (δωρεάν)"
+msgstr "Δημιουργία CloudFlare (Δωρεάν)"
 
 msgid "Generate a CloudFlare (Free) configuration, you will find it in the server list."
 msgstr "Δημιουργήστε μια διαμόρφωση CloudFlare (δωρεάν), θα τη βρείτε στη λίστα διακομιστών."
@@ -550,6 +565,21 @@ msgstr "ή"
 
 msgid "(Press OK to perform a test)"
 msgstr "(Πατήστε OK για να εκτελέσετε μια δοκιμή)"
+
+msgid "PIA: server metadata not found for region %s"
+msgstr "PIA: δεν βρέθηκαν μεταδεδομένα διακομιστή για την περιοχή %s"
+
+msgid "PIA: authentication failed. Check username and password."
+msgstr "PIA: η ταυτοποίηση απέτυχε. Ελέγξτε το όνομα χρήστη και τον κωδικό πρόσβασης."
+
+msgid "PIA: key registration failed."
+msgstr "PIA: η καταχώρηση κλειδιού απέτυχε."
+
+msgid "Pia Username"
+msgstr "Όνομα χρήστη PIA"
+
+msgid "Pia Password"
+msgstr "Κωδικός πρόσβασης PIA"
 
 msgid "PORT"
 msgstr "PORT"

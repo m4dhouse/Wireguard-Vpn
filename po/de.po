@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wireguard\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-04-30 21:22+0100\n"
+"PO-Revision-Date: 2026-03-22 20:02+0100\n"
 "Last-Translator: Tommy007\n"
 "Language-Team: Tommy007 <xxxxxx@gmail.com>\n"
 "Language: de\n"
@@ -53,8 +53,8 @@ msgstr "(Experimentell)"
 msgid "(Press OK to perform a test)"
 msgstr "(Drücken Sie OK, um einen Test durchzuführen)"
 
-msgid "* File located in /etc/WgConfig or /media/hdd/WgConfig"
-msgstr "* Datei befindet sich in /etc/WgConfig oder /media/hdd/WgConfig"
+msgid "* File located in /etc/WgConfig or /media/hdd/WgConfig or /media/usb/WgConfig"
+msgstr "* Datei befindet sich in /etc/WgConfig oder /media/hdd/WgConfig oder /media/usb/WgConfig"
 
 msgid "AUTO START"
 msgstr "AUTOMATISCHER START"
@@ -192,9 +192,6 @@ msgstr ""
 "Kopieren/Einfügen Ihres privaten Schlüssels und drücken Sie dann die blaue "
 "Taste"
 
-msgid "Country:"
-msgstr "Land:"
-
 msgid "Create a backup"
 msgstr "Erstellen Sie eine Sicherung"
 
@@ -282,13 +279,28 @@ msgstr ""
 "Doppeltes VPN, höchste Sicherheitsstufe, Rückverfolgung der echten IP-"
 "Adresse ist mathematisch unmöglich."
 
+msgid "Download Proton VPN's free servers."
+msgstr "Laden Sie die kostenlosen Server von Proton VPN herunter."
+
+msgid "Download Proton Vpn (Free)"
+msgstr "Proton VPN herunterladen (kostenlos)"
+
+msgid ""
+"Download error:\n"
+"%s"
+msgstr ""
+"Downloadfehler:\n"
+"%s"
+
 msgid "Download speedtest.png failed!"
-msgstr "Download speedtest.png fehlgeschlagen!"
+msgstr "Download von speedtest.png fehlgeschlagen!"
+
+msgid "Downloaded file is not a valid ZIP archive."
+msgstr "Die heruntergeladene Datei ist kein gültiges ZIP-Archiv."
 
 msgid "Edit the file located in /etc/wg_token.key and paste your access token."
 msgstr ""
-"Bearbeiten Sie die Datei /etc/wg_token.key und fügen Sie Ihr Zugriffstoken "
-"ein."
+"Bearbeiten Sie die Datei /etc/wg_token.key und fügen Sie Ihr Zugriffstoken ein."
 
 msgid "Enable Kill switch"
 msgstr "Abschaltautomatik aktivieren"
@@ -309,6 +321,21 @@ msgid "Enabling it allows you to perform an internet check when your %s starts"
 msgstr ""
 "Wenn Sie diese Option aktivieren, können Sie eine Internetprüfung "
 "durchführen, wenn Ihre %s startet"
+
+msgid "Enter your PIA password"
+msgstr "Geben Sie Ihr PIA-Passwort ein"
+
+msgid "Enter your PIA password."
+msgstr "Geben Sie Ihr PIA-Passwort ein."
+
+msgid "Enter your PIA username"
+msgstr "Geben Sie Ihren PIA-Benutzernamen ein"
+
+msgid "Enter your PIA username (pxxxxxxx format)."
+msgstr "Geben Sie Ihren PIA-Benutzernamen ein (im Format pxxxxxxx)."
+
+msgid "Enter your PIA username and password!"
+msgstr "Geben Sie Ihren PIA-Benutzernamen und Ihr Passwort ein!"
 
 msgid "Enter your Private Key"
 msgstr "Geben Sie Ihren privaten Schlüssel ein"
@@ -352,6 +379,13 @@ msgstr "Datei erfolgreich gelöscht: %s"
 
 msgid "File not found: %s"
 msgstr "Datei nicht gefunden: %s"
+
+msgid ""
+"File system error:\n"
+"%s"
+msgstr ""
+"Dateisystemfehler:\n"
+"%s"
 
 msgid "Finished restarting your network"
 msgstr "Der Neustart Ihres Netzwerks ist abgeschlossen"
@@ -527,8 +561,17 @@ msgstr "PERFEKT! "
 msgid "PERSONAL FILES"
 msgstr "PERSÖNLICHE DATEIEN"
 
+msgid "PIA: authentication failed. Check username and password."
+msgstr "PIA: Authentifizierung fehlgeschlagen. Bitte überprüfen Sie Benutzername und Passwort."
+
 msgid "PUBLIC IP"
 msgstr "ÖFFENTLICHE IP"
+
+msgid "PIA: server metadata not found for region %s"
+msgstr "PIA: Servermetadaten für Region %s nicht gefunden"
+
+msgid "PORT"
+msgstr "PORT"
 
 msgid "Page"
 msgstr "Seite"
@@ -544,6 +587,12 @@ msgstr ""
 "Die Durchführung eines MTU-Tests hilft Ihnen, Ihr Netzwerk optimal zu "
 "konfigurieren, Fragmentierungsprobleme zu vermeiden und die Leistung zu "
 "verbessern. Dies ist besonders wichtig für VPN-Verbindungen."
+
+msgid "Pia Password"
+msgstr "Pia-Passwort"
+
+msgid "Pia Username"
+msgstr "Pia-Benutzername"
 
 msgid "Ping servers"
 msgstr "Server anpingen"
@@ -598,8 +647,14 @@ msgstr "Verzeichnis der privaten Schlüsseldatei"
 msgid "Protect your %s - By Madhouse"
 msgstr "Schütze deine %s - von Madhouse"
 
-msgid "Provider:"
-msgstr "Anbieter:"
+msgid ""
+"ProtonVPN download completed!\n"
+"%d config files copied to:\n"
+"%s"
+msgstr ""
+"ProtonVPN-Download abgeschlossen!"
+"%d Konfigurationsdateien kopiert nach:\n"
+"%s"
 
 msgid "Put the files in %s"
 msgstr "Lege die Dateien in %s ab"
@@ -728,9 +783,6 @@ msgstr "Serverliste"
 
 msgid "Server list order"
 msgstr "Reihenfolge der Serverliste"
-
-msgid "Server selected"
-msgstr "Ausgewählte Server"
 
 msgid "Server with static ip"
 msgstr "Server mit statischer IP"
@@ -914,6 +966,13 @@ msgstr "Die IP des ausgewählten Servers kann nicht abgerufen werden"
 msgid "Unable to write to file."
 msgstr "Datei kann nicht geschrieben werden."
 
+msgid ""
+"Unexpected error:\n"
+"%s"
+msgstr ""
+"Unerwarteter Fehler:\n"
+"%s"
+
 msgid "Unexpected error: %s"
 msgstr "Unerwarteter Fehler: %s"
 
@@ -946,9 +1005,6 @@ msgstr "WireGuard-Protokoll fehlt!"
 
 msgid "Wireguard VPN plugin is updated"
 msgstr "Wireguard VPN-Plugin ist aktuell"
-
-msgid "Wireguard status"
-msgstr "Wireguard-Status"
 
 msgid "Write or load your Private Key."
 msgstr "Schreiben oder laden Sie Ihren privaten Schlüssel."
